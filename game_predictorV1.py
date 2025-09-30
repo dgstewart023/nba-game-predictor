@@ -73,5 +73,46 @@ def get_single_team_stats(team_id):
                             'OPP_FTA_RATE']]
     return four_factors_data
 
-league = get_league_avg_stats()
-print(league)
+def get_win_probabilities(teamA, teamB, avg):
+    teamA_EFG = ((teamA['EFG_PCT'].iloc[0] - avg['EFG_PCT'].iloc[0]) - 
+                (teamB['OPP_EFG_PCT'].iloc[0] - avg['EFG_PCT'].iloc[0]))
+    teamB_EFG = ((teamB['EFG_PCT'].iloc[0] - avg['EFG_PCT'].iloc[0]) - 
+                (teamA['OPP_EFG_PCT'].iloc[0] - avg['EFG_PCT'].iloc[0]))
+    teamA_TOV = ((teamB['OPP_TOV_PCT'].iloc[0] - avg['TM_TOV_PCT'].iloc[0]) - 
+                (teamA['TM_TOV_PCT'].iloc[0] - avg['TM_TOV_PCT'].iloc[0]))
+    teamB_TOV = ((teamA['OPP_TOV_PCT'].iloc[0] - avg['TM_TOV_PCT'].iloc[0]) - 
+                (teamB['TM_TOV_PCT'].iloc[0] - avg['TM_TOV_PCT'].iloc[0]))
+    teamA_OREB = ((teamA['OREB_PCT'].iloc[0] - avg['OREB_PCT'].iloc[0]) - 
+                (teamB['OPP_OREB_PCT'].iloc[0] - avg['OREB_PCT'].iloc[0]))
+    teamB_OREB = ((teamB['OREB_PCT'].iloc[0] - avg['OREB_PCT'].iloc[0]) - 
+                (teamA['OPP_OREB_PCT'].iloc[0] - avg['OREB_PCT'].iloc[0]))
+    teamA_FT = ((teamA['FTA_RATE'].iloc[0] - avg['FTA_RATE'].iloc[0]) - 
+                (teamB['OPP_FTA_RATE'].iloc[0] - avg['FTA_RATE'].iloc[0]))
+    teamB_FT = ((teamB['FTA_RATE'].iloc[0] - avg['FTA_RATE'].iloc[0]) - 
+                (teamA['OPP_FTA_RATE'].iloc[0] - avg['FTA_RATE'].iloc[0]))
+    teamA_weighted = ((teamA_EFG * 0.4) + (teamA_TOV * 0.25) + 
+                      (teamA_OREB * 0.20) + (teamA_FT * 0.15))
+    teamB_weighted = ((teamB_EFG * 0.4) + (teamB_TOV * 0.25) + 
+                      (teamB_OREB * 0.20) + (teamB_FT * 0.15))
+    raw_diff = (teamA_weighted - teamB_weighted) * 28
+    teamA_WPCT = 1 / (1 + 10**(-raw_diff / 15)) 
+
+    return teamA_WPCT * 100
+
+
+if __name__ == '__main__':
+    home = input("Enter Home Team: ")
+    away = input("Enter Away Team: ")
+
+    home_id = get_team_id(home)
+    away_id = get_team_id(away)
+
+    home_stats = get_single_team_stats(home_id)
+    away_stats = get_single_team_stats(away_id)
+    avg_stats = get_league_avg_stats()
+
+    home_WPCT = get_win_probabilities(home_stats, away_stats, avg_stats)
+    away_WPCT = 100 - home_WPCT
+
+    print(f'{home_stats['TEAM_NAME'].iloc[0]} has a {home_WPCT}% chance of winning')
+    print(f'{away_stats['TEAM_NAME'].iloc[0]} has a {away_WPCT}% chance of winning')
