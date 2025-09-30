@@ -28,6 +28,3 @@ def get_team_id(identifier):
                 return team_id
             
         return None
-    
-team_id = get_team_id("jazz")
-print(team_id)
