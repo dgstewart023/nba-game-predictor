@@ -1,4 +1,5 @@
 from nba_api.stats.endpoints import leaguedashteamstats
+import pandas as pd
 import csv
 
 def get_team_id(identifier):
@@ -28,7 +29,27 @@ def get_team_id(identifier):
                 return team_id
             
         return None
+
+def get_league_avg_stats():
+    """
+    Returns a DataFrame with league averages
+    """
+    stats = leaguedashteamstats.LeagueDashTeamStats(
+        season='2024-25',
+        measure_type_detailed_defense='Four Factors',
+        per_mode_detailed='PerGame'
+    )
+    df = stats.get_data_frames()[0]
     
+    league_avg = pd.DataFrame({
+        'TEAM_NAME': ['LEAGUE AVERAGE'],
+        'EFG_PCT': [df['EFG_PCT'].mean()],
+        'TM_TOV_PCT': [df['TM_TOV_PCT'].mean()],
+        'OREB_PCT': [df['OREB_PCT'].mean()],
+        'FTA_RATE': [df['FTA_RATE'].mean()]
+    })
+    
+    return league_avg
 
 def get_single_team_stats(team_id):
     """Get efficiency stats for one team"""
@@ -51,3 +72,6 @@ def get_single_team_stats(team_id):
                             'OPP_OREB_PCT',
                             'OPP_FTA_RATE']]
     return four_factors_data
+
+league = get_league_avg_stats()
+print(league)
