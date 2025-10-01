@@ -1,4 +1,4 @@
-from nba_api.stats.endpoints import leaguedashteamstats
+from nba_api.stats.endpoints import leaguedashteamstats, teamdashboardbygeneralsplits
 import pandas as pd
 import csv
 
@@ -26,7 +26,7 @@ def get_team_id(identifier):
             if (identifier == team_abb or
                 identifier == team_name or
                 identifier in team_name):
-                return team_id
+                return team_id, team_name.title()
             
         return None
 
@@ -51,19 +51,39 @@ def get_league_avg_stats():
     
     return league_avg
 
-def get_single_team_stats(team_id):
-    """Get efficiency stats for one team"""
-    stats = leaguedashteamstats.LeagueDashTeamStats(
-        season='2024-25',
-        measure_type_detailed_defense='Four Factors',
-        per_mode_detailed='PerGame'
+def get_home_team_stats(id):
+    """Get efficiency stats for home team"""
+    stats = teamdashboardbygeneralsplits.TeamDashboardByGeneralSplits(
+        team_id=id,
+        season='2024',
+        measure_type_detailed_defense='Four Factors'
     )
-    df = stats.get_data_frames()[0]
-    
-    team_data = df[df['TEAM_ID'] == int(team_id)]
+    df = stats.get_data_frames()[1]
 
-    four_factors_data = team_data[['TEAM_NAME',
-                            'EFG_PCT',
+    home = df[df['TEAM_GAME_LOCATION'] == 'Home']
+
+    four_factors_data = home[['EFG_PCT',
+                            'TM_TOV_PCT',
+                            'OREB_PCT',
+                            'FTA_RATE',
+                            'OPP_EFG_PCT',
+                            'OPP_TOV_PCT',
+                            'OPP_OREB_PCT',
+                            'OPP_FTA_RATE']]
+    return four_factors_data
+
+def get_road_team_stats(id):
+    """Get efficiency stats for road team"""
+    stats = teamdashboardbygeneralsplits.TeamDashboardByGeneralSplits(
+        team_id=id,
+        season='2024',
+        measure_type_detailed_defense='Four Factors'
+    )
+    df = stats.get_data_frames()[1]
+
+    road = df[df['TEAM_GAME_LOCATION'] == 'Road']
+
+    four_factors_data = road[['EFG_PCT',
                             'TM_TOV_PCT',
                             'OREB_PCT',
                             'FTA_RATE',
@@ -102,17 +122,17 @@ def get_win_probabilities(teamA, teamB, avg):
 
 if __name__ == '__main__':
     home = input("Enter Home Team: ")
-    away = input("Enter Away Team: ")
+    road = input("Enter Road Team: ")
 
-    home_id = get_team_id(home)
-    away_id = get_team_id(away)
+    home_id, home_name = get_team_id(home)
+    road_id, road_name = get_team_id(road)
 
-    home_stats = get_single_team_stats(home_id)
-    away_stats = get_single_team_stats(away_id)
+    home_stats = get_home_team_stats(home_id)
+    road_stats = get_road_team_stats(road_id)
     avg_stats = get_league_avg_stats()
 
-    home_WPCT = get_win_probabilities(home_stats, away_stats, avg_stats)
-    away_WPCT = 100 - home_WPCT
+    home_WPCT = get_win_probabilities(home_stats, road_stats, avg_stats)
+    road_WPCT = 100 - home_WPCT
 
-    print(f'{home_stats['TEAM_NAME'].iloc[0]} has a {home_WPCT}% chance of winning')
-    print(f'{away_stats['TEAM_NAME'].iloc[0]} has a {away_WPCT}% chance of winning')
+    print(f'{home_name} has a {home_WPCT}% chance of winning')
+    print(f'{road_name} has a {road_WPCT}% chance of winning')
