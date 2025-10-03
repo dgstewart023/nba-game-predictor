@@ -1,0 +1,1231 @@
+Winner                 ,Winner Winning % ,Loser                  ,Loser Winning % ,Actual Winner          ,Actual Loser           ,Scale ,Correct
+Boston Celtics         ,           50.31 ,New York Knicks        ,          49.69 ,Boston Celtics         ,New York Knicks        ,   30 ,True
+Los Angeles Lakers     ,           50.81 ,Minnesota Timberwolves ,          49.19 ,Los Angeles Lakers     ,Minnesota Timberwolves ,   30 ,True
+Atlanta Hawks          ,           50.25 ,Brooklyn Nets          ,          49.75 ,Atlanta Hawks          ,Brooklyn Nets          ,   30 ,True
+Portland Trail Blazers ,           50.02 ,Golden State Warriors  ,          49.98 ,Golden State Warriors  ,Portland Trail Blazers ,   30 ,False
+Detroit Pistons        ,           50.65 ,Indiana Pacers         ,          49.35 ,Indiana Pacers         ,Detroit Pistons        ,   30 ,False
+Miami Heat             ,           50.24 ,Orlando Magic          ,          49.76 ,Orlando Magic          ,Miami Heat             ,   30 ,False
+Chicago Bulls          ,           50.13 ,New Orleans Pelicans   ,          49.87 ,New Orleans Pelicans   ,Chicago Bulls          ,   30 ,False
+Houston Rockets        ,           51.84 ,Charlotte Hornets      ,          48.16 ,Charlotte Hornets      ,Houston Rockets        ,   30 ,False
+Philadelphia 76ers     ,           51.13 ,Milwaukee Bucks        ,          48.87 ,Milwaukee Bucks        ,Philadelphia 76ers     ,   30 ,False
+Cleveland Cavaliers    ,           52.15 ,Toronto Raptors        ,          47.85 ,Cleveland Cavaliers    ,Toronto Raptors        ,   30 ,True
+Memphis Grizzlies      ,           51.46 ,Utah Jazz              ,          48.54 ,Memphis Grizzlies      ,Utah Jazz              ,   30 ,True
+Phoenix Suns           ,           53.45 ,LA Clippers            ,          46.55 ,Phoenix Suns           ,LA Clippers            ,   30 ,True
+Denver Nuggets         ,           53.76 ,Oklahoma City Thunder  ,          46.24 ,Oklahoma City Thunder  ,Denver Nuggets         ,   30 ,False
+Dallas Mavericks       ,           51.31 ,San Antonio Spurs      ,          48.69 ,Dallas Mavericks       ,San Antonio Spurs      ,   30 ,True
+Boston Celtics         ,           50.94 ,Washington Wizards     ,          49.06 ,Boston Celtics         ,Washington Wizards     ,   30 ,True
+Sacramento Kings       ,           51.12 ,Minnesota Timberwolves ,          48.88 ,Minnesota Timberwolves ,Sacramento Kings       ,   30 ,False
+New York Knicks        ,           50.43 ,Indiana Pacers         ,          49.57 ,New York Knicks        ,Indiana Pacers         ,   30 ,True
+Phoenix Suns           ,           51.58 ,Los Angeles Lakers     ,          48.42 ,Los Angeles Lakers     ,Phoenix Suns           ,   30 ,False
+Portland Trail Blazers ,           50.11 ,New Orleans Pelicans   ,          49.89 ,New Orleans Pelicans   ,Portland Trail Blazers ,   30 ,False
+Memphis Grizzlies      ,           52.4  ,Houston Rockets        ,          47.6  ,Houston Rockets        ,Memphis Grizzlies      ,   30 ,False
+Utah Jazz              ,           50.02 ,Golden State Warriors  ,          49.98 ,Golden State Warriors  ,Utah Jazz              ,   30 ,False
+Philadelphia 76ers     ,           50.66 ,Toronto Raptors        ,          49.34 ,Toronto Raptors        ,Philadelphia 76ers     ,   30 ,False
+Chicago Bulls          ,           50.94 ,Milwaukee Bucks        ,          49.06 ,Chicago Bulls          ,Milwaukee Bucks        ,   30 ,True
+Atlanta Hawks          ,           52.54 ,Charlotte Hornets      ,          47.46 ,Atlanta Hawks          ,Charlotte Hornets      ,   30 ,True
+Brooklyn Nets          ,           50.42 ,Orlando Magic          ,          49.58 ,Orlando Magic          ,Brooklyn Nets          ,   30 ,False
+Cleveland Cavaliers    ,           51.41 ,Detroit Pistons        ,          48.59 ,Cleveland Cavaliers    ,Detroit Pistons        ,   30 ,True
+Chicago Bulls          ,           51.92 ,Oklahoma City Thunder  ,          48.08 ,Oklahoma City Thunder  ,Chicago Bulls          ,   30 ,False
+Sacramento Kings       ,           50.31 ,Los Angeles Lakers     ,          49.69 ,Los Angeles Lakers     ,Sacramento Kings       ,   30 ,False
+Memphis Grizzlies      ,           52.37 ,Orlando Magic          ,          47.63 ,Memphis Grizzlies      ,Orlando Magic          ,   30 ,True
+Boston Celtics         ,           50.09 ,Detroit Pistons        ,          49.91 ,Boston Celtics         ,Detroit Pistons        ,   30 ,True
+Miami Heat             ,           52.11 ,Charlotte Hornets      ,          47.89 ,Miami Heat             ,Charlotte Hornets      ,   30 ,True
+Toronto Raptors        ,           50.12 ,Minnesota Timberwolves ,          49.88 ,Minnesota Timberwolves ,Toronto Raptors        ,   30 ,False
+Cleveland Cavaliers    ,           52.26 ,Washington Wizards     ,          47.74 ,Cleveland Cavaliers    ,Washington Wizards     ,   30 ,True
+Denver Nuggets         ,           53.49 ,LA Clippers            ,          46.51 ,LA Clippers            ,Denver Nuggets         ,   30 ,False
+Houston Rockets        ,           50.87 ,San Antonio Spurs      ,          49.13 ,San Antonio Spurs      ,Houston Rockets        ,   30 ,False
+Phoenix Suns           ,           52.32 ,Dallas Mavericks       ,          47.68 ,Phoenix Suns           ,Dallas Mavericks       ,   30 ,True
+Portland Trail Blazers ,           50.11 ,New Orleans Pelicans   ,          49.89 ,Portland Trail Blazers ,New Orleans Pelicans   ,   30 ,True
+Philadelphia 76ers     ,           50.57 ,Indiana Pacers         ,          49.43 ,Philadelphia 76ers     ,Indiana Pacers         ,   30 ,True
+Brooklyn Nets          ,           50.43 ,Milwaukee Bucks        ,          49.57 ,Brooklyn Nets          ,Milwaukee Bucks        ,   30 ,True
+Golden State Warriors  ,           51.61 ,LA Clippers            ,          48.39 ,LA Clippers            ,Golden State Warriors  ,   30 ,False
+Atlanta Hawks          ,           51.65 ,Oklahoma City Thunder  ,          48.35 ,Oklahoma City Thunder  ,Atlanta Hawks          ,   30 ,False
+Phoenix Suns           ,           51.58 ,Los Angeles Lakers     ,          48.42 ,Phoenix Suns           ,Los Angeles Lakers     ,   30 ,True
+Houston Rockets        ,           50.87 ,San Antonio Spurs      ,          49.13 ,Houston Rockets        ,San Antonio Spurs      ,   30 ,True
+Atlanta Hawks          ,           50.31 ,Washington Wizards     ,          49.69 ,Washington Wizards     ,Atlanta Hawks          ,   30 ,False
+Indiana Pacers         ,           50.55 ,Orlando Magic          ,          49.45 ,Orlando Magic          ,Indiana Pacers         ,   30 ,False
+Memphis Grizzlies      ,           51.44 ,Chicago Bulls          ,          48.56 ,Chicago Bulls          ,Memphis Grizzlies      ,   30 ,False
+Cleveland Cavaliers    ,           51.63 ,New York Knicks        ,          48.37 ,Cleveland Cavaliers    ,New York Knicks        ,   30 ,True
+Denver Nuggets         ,           52.31 ,Toronto Raptors        ,          47.69 ,Denver Nuggets         ,Toronto Raptors        ,   30 ,True
+Sacramento Kings       ,           50.56 ,Portland Trail Blazers ,          49.44 ,Sacramento Kings       ,Portland Trail Blazers ,   30 ,True
+Boston Celtics         ,           51.3  ,Milwaukee Bucks        ,          48.7  ,Boston Celtics         ,Milwaukee Bucks        ,   30 ,True
+Utah Jazz              ,           50.5  ,Dallas Mavericks       ,          49.5  ,Dallas Mavericks       ,Utah Jazz              ,   30 ,False
+Detroit Pistons        ,           50.96 ,Miami Heat             ,          49.04 ,Miami Heat             ,Detroit Pistons        ,   30 ,False
+Sacramento Kings       ,           50.56 ,Utah Jazz              ,          49.44 ,Sacramento Kings       ,Utah Jazz              ,   30 ,True
+Golden State Warriors  ,           50.09 ,New Orleans Pelicans   ,          49.91 ,Golden State Warriors  ,New Orleans Pelicans   ,   30 ,True
+Denver Nuggets         ,           52.36 ,Brooklyn Nets          ,          47.64 ,Denver Nuggets         ,Brooklyn Nets          ,   30 ,True
+Dallas Mavericks       ,           50.06 ,Minnesota Timberwolves ,          49.94 ,Dallas Mavericks       ,Minnesota Timberwolves ,   30 ,True
+Atlanta Hawks          ,           50.31 ,Washington Wizards     ,          49.69 ,Washington Wizards     ,Atlanta Hawks          ,   30 ,False
+Portland Trail Blazers ,           51.63 ,LA Clippers            ,          48.37 ,Portland Trail Blazers ,LA Clippers            ,   30 ,True
+Toronto Raptors        ,           52.34 ,Charlotte Hornets      ,          47.66 ,Charlotte Hornets      ,Toronto Raptors        ,   30 ,False
+Memphis Grizzlies      ,           51.95 ,Brooklyn Nets          ,          48.05 ,Brooklyn Nets          ,Memphis Grizzlies      ,   30 ,False
+Cleveland Cavaliers    ,           51.46 ,Los Angeles Lakers     ,          48.54 ,Cleveland Cavaliers    ,Los Angeles Lakers     ,   30 ,True
+New York Knicks        ,           50.74 ,Miami Heat             ,          49.26 ,New York Knicks        ,Miami Heat             ,   30 ,True
+Golden State Warriors  ,           50.09 ,New Orleans Pelicans   ,          49.91 ,Golden State Warriors  ,New Orleans Pelicans   ,   30 ,True
+Detroit Pistons        ,           50.08 ,Philadelphia 76ers     ,          49.92 ,Detroit Pistons        ,Philadelphia 76ers     ,   30 ,True
+San Antonio Spurs      ,           50.09 ,Oklahoma City Thunder  ,          49.91 ,Oklahoma City Thunder  ,San Antonio Spurs      ,   30 ,False
+Chicago Bulls          ,           50.93 ,Orlando Magic          ,          49.07 ,Chicago Bulls          ,Orlando Magic          ,   30 ,True
+Boston Celtics         ,           50.74 ,Indiana Pacers         ,          49.26 ,Indiana Pacers         ,Boston Celtics         ,   30 ,False
+Dallas Mavericks       ,           50.44 ,Houston Rockets        ,          49.56 ,Houston Rockets        ,Dallas Mavericks       ,   30 ,False
+Memphis Grizzlies      ,           52.38 ,Milwaukee Bucks        ,          47.62 ,Memphis Grizzlies      ,Milwaukee Bucks        ,   30 ,True
+Utah Jazz              ,           51.81 ,San Antonio Spurs      ,          48.19 ,San Antonio Spurs      ,Utah Jazz              ,   30 ,False
+Phoenix Suns           ,           53.45 ,LA Clippers            ,          46.55 ,Phoenix Suns           ,LA Clippers            ,   30 ,True
+Portland Trail Blazers ,           51.89 ,Oklahoma City Thunder  ,          48.11 ,Oklahoma City Thunder  ,Portland Trail Blazers ,   30 ,False
+Boston Celtics         ,           53.16 ,Charlotte Hornets      ,          46.84 ,Boston Celtics         ,Charlotte Hornets      ,   30 ,True
+Denver Nuggets         ,           52.43 ,Minnesota Timberwolves ,          47.57 ,Minnesota Timberwolves ,Denver Nuggets         ,   30 ,False
+Los Angeles Lakers     ,           50.69 ,Toronto Raptors        ,          49.31 ,Los Angeles Lakers     ,Toronto Raptors        ,   30 ,True
+Chicago Bulls          ,           50.51 ,Brooklyn Nets          ,          49.49 ,Brooklyn Nets          ,Chicago Bulls          ,   30 ,False
+Sacramento Kings       ,           50.8  ,Atlanta Hawks          ,          49.2  ,Sacramento Kings       ,Atlanta Hawks          ,   30 ,True
+Detroit Pistons        ,           50.22 ,New York Knicks        ,          49.78 ,New York Knicks        ,Detroit Pistons        ,   30 ,False
+New Orleans Pelicans   ,           50.25 ,Indiana Pacers         ,          49.75 ,New Orleans Pelicans   ,Indiana Pacers         ,   30 ,True
+Cleveland Cavaliers    ,           52.61 ,Orlando Magic          ,          47.39 ,Cleveland Cavaliers    ,Orlando Magic          ,   30 ,True
+Memphis Grizzlies      ,           51.25 ,Philadelphia 76ers     ,          48.75 ,Memphis Grizzlies      ,Philadelphia 76ers     ,   30 ,True
+Denver Nuggets         ,           51.87 ,Utah Jazz              ,          48.13 ,Denver Nuggets         ,Utah Jazz              ,   30 ,True
+Golden State Warriors  ,           50.92 ,Houston Rockets        ,          49.08 ,Golden State Warriors  ,Houston Rockets        ,   30 ,True
+Boston Celtics         ,           53.16 ,Charlotte Hornets      ,          46.84 ,Boston Celtics         ,Charlotte Hornets      ,   30 ,True
+Minnesota Timberwolves ,           51.24 ,San Antonio Spurs      ,          48.76 ,San Antonio Spurs      ,Minnesota Timberwolves ,   30 ,False
+Sacramento Kings       ,           51.0  ,Toronto Raptors        ,          49.0  ,Toronto Raptors        ,Sacramento Kings       ,   30 ,False
+Washington Wizards     ,           50.12 ,Miami Heat             ,          49.88 ,Miami Heat             ,Washington Wizards     ,   30 ,False
+Cleveland Cavaliers    ,           52.62 ,Milwaukee Bucks        ,          47.38 ,Cleveland Cavaliers    ,Milwaukee Bucks        ,   30 ,True
+LA Clippers            ,           50.26 ,Oklahoma City Thunder  ,          49.74 ,Oklahoma City Thunder  ,LA Clippers            ,   30 ,False
+Phoenix Suns           ,           51.82 ,Portland Trail Blazers ,          48.18 ,Phoenix Suns           ,Portland Trail Blazers ,   30 ,True
+Detroit Pistons        ,           50.78 ,Brooklyn Nets          ,          49.22 ,Detroit Pistons        ,Brooklyn Nets          ,   30 ,True
+Dallas Mavericks       ,           50.41 ,Orlando Magic          ,          49.59 ,Dallas Mavericks       ,Orlando Magic          ,   30 ,True
+New Orleans Pelicans   ,           50.13 ,Atlanta Hawks          ,          49.87 ,Atlanta Hawks          ,New Orleans Pelicans   ,   30 ,False
+Memphis Grizzlies      ,           51.95 ,Brooklyn Nets          ,          48.05 ,Brooklyn Nets          ,Memphis Grizzlies      ,   30 ,False
+Orlando Magic          ,           50.98 ,Oklahoma City Thunder  ,          49.02 ,Oklahoma City Thunder  ,Orlando Magic          ,   30 ,False
+Portland Trail Blazers ,           50.11 ,New Orleans Pelicans   ,          49.89 ,Portland Trail Blazers ,New Orleans Pelicans   ,   30 ,True
+LA Clippers            ,           50.18 ,San Antonio Spurs      ,          49.82 ,LA Clippers            ,San Antonio Spurs      ,   30 ,True
+Chicago Bulls          ,           50.02 ,Utah Jazz              ,          49.98 ,Utah Jazz              ,Chicago Bulls          ,   30 ,False
+New York Knicks        ,           51.01 ,Houston Rockets        ,          48.99 ,Houston Rockets        ,New York Knicks        ,   30 ,False
+Phoenix Suns           ,           51.61 ,Philadelphia 76ers     ,          48.39 ,Phoenix Suns           ,Philadelphia 76ers     ,   30 ,True
+Detroit Pistons        ,           50.05 ,Los Angeles Lakers     ,          49.95 ,Detroit Pistons        ,Los Angeles Lakers     ,   30 ,True
+Indiana Pacers         ,           50.14 ,Dallas Mavericks       ,          49.86 ,Indiana Pacers         ,Dallas Mavericks       ,   30 ,True
+Denver Nuggets         ,           52.31 ,Toronto Raptors        ,          47.69 ,Denver Nuggets         ,Toronto Raptors        ,   30 ,True
+Minnesota Timberwolves ,           52.21 ,Charlotte Hornets      ,          47.79 ,Minnesota Timberwolves ,Charlotte Hornets      ,   30 ,True
+Golden State Warriors  ,           50.53 ,Washington Wizards     ,          49.47 ,Golden State Warriors  ,Washington Wizards     ,   30 ,True
+Sacramento Kings       ,           51.23 ,Miami Heat             ,          48.77 ,Sacramento Kings       ,Miami Heat             ,   30 ,True
+Cleveland Cavaliers    ,           52.62 ,Milwaukee Bucks        ,          47.38 ,Cleveland Cavaliers    ,Milwaukee Bucks        ,   30 ,True
+Boston Celtics         ,           50.63 ,Atlanta Hawks          ,          49.37 ,Boston Celtics         ,Atlanta Hawks          ,   30 ,True
+New York Knicks        ,           50.32 ,Atlanta Hawks          ,          49.68 ,Atlanta Hawks          ,New York Knicks        ,   30 ,False
+Phoenix Suns           ,           52.49 ,Miami Heat             ,          47.51 ,Phoenix Suns           ,Miami Heat             ,   30 ,True
+Cleveland Cavaliers    ,           51.81 ,New Orleans Pelicans   ,          48.19 ,Cleveland Cavaliers    ,New Orleans Pelicans   ,   30 ,True
+Detroit Pistons        ,           53.07 ,Charlotte Hornets      ,          46.93 ,Charlotte Hornets      ,Detroit Pistons        ,   30 ,False
+Philadelphia 76ers     ,           51.84 ,LA Clippers            ,          48.16 ,LA Clippers            ,Philadelphia 76ers     ,   30 ,False
+Indiana Pacers         ,           50.55 ,Orlando Magic          ,          49.45 ,Indiana Pacers         ,Orlando Magic          ,   30 ,True
+Memphis Grizzlies      ,           51.21 ,Los Angeles Lakers     ,          48.79 ,Memphis Grizzlies      ,Los Angeles Lakers     ,   30 ,True
+Denver Nuggets         ,           53.76 ,Oklahoma City Thunder  ,          46.24 ,Denver Nuggets         ,Oklahoma City Thunder  ,   30 ,True
+Chicago Bulls          ,           50.52 ,Dallas Mavericks       ,          49.48 ,Dallas Mavericks       ,Chicago Bulls          ,   30 ,False
+Houston Rockets        ,           50.87 ,San Antonio Spurs      ,          49.13 ,Houston Rockets        ,San Antonio Spurs      ,   30 ,True
+Sacramento Kings       ,           51.0  ,Toronto Raptors        ,          49.0  ,Sacramento Kings       ,Toronto Raptors        ,   30 ,True
+Boston Celtics         ,           50.41 ,Golden State Warriors  ,          49.59 ,Golden State Warriors  ,Boston Celtics         ,   30 ,False
+Chicago Bulls          ,           50.59 ,Minnesota Timberwolves ,          49.41 ,Minnesota Timberwolves ,Chicago Bulls          ,   30 ,False
+Portland Trail Blazers ,           51.81 ,San Antonio Spurs      ,          48.19 ,San Antonio Spurs      ,Portland Trail Blazers ,   30 ,False
+Utah Jazz              ,           50.92 ,Milwaukee Bucks        ,          49.08 ,Milwaukee Bucks        ,Utah Jazz              ,   30 ,False
+Houston Rockets        ,           50.96 ,Oklahoma City Thunder  ,          49.04 ,Oklahoma City Thunder  ,Houston Rockets        ,   30 ,False
+Sacramento Kings       ,           52.19 ,LA Clippers            ,          47.81 ,LA Clippers            ,Sacramento Kings       ,   30 ,False
+Los Angeles Lakers     ,           50.03 ,Philadelphia 76ers     ,          49.97 ,Los Angeles Lakers     ,Philadelphia 76ers     ,   30 ,True
+Denver Nuggets         ,           52.54 ,Miami Heat             ,          47.46 ,Denver Nuggets         ,Miami Heat             ,   30 ,True
+Cleveland Cavaliers    ,           51.73 ,Golden State Warriors  ,          48.27 ,Cleveland Cavaliers    ,Golden State Warriors  ,   30 ,True
+Memphis Grizzlies      ,           52.01 ,Washington Wizards     ,          47.99 ,Memphis Grizzlies      ,Washington Wizards     ,   30 ,True
+New Orleans Pelicans   ,           50.8  ,Orlando Magic          ,          49.2  ,Orlando Magic          ,New Orleans Pelicans   ,   30 ,False
+Portland Trail Blazers ,           50.56 ,Minnesota Timberwolves ,          49.44 ,Minnesota Timberwolves ,Portland Trail Blazers ,   30 ,False
+Detroit Pistons        ,           50.54 ,Atlanta Hawks          ,          49.46 ,Detroit Pistons        ,Atlanta Hawks          ,   30 ,True
+Phoenix Suns           ,           52.32 ,Dallas Mavericks       ,          47.68 ,Phoenix Suns           ,Dallas Mavericks       ,   30 ,True
+New York Knicks        ,           50.99 ,Milwaukee Bucks        ,          49.01 ,New York Knicks        ,Milwaukee Bucks        ,   30 ,True
+Indiana Pacers         ,           52.42 ,Charlotte Hornets      ,          47.58 ,Charlotte Hornets      ,Indiana Pacers         ,   30 ,False
+Boston Celtics         ,           50.87 ,Brooklyn Nets          ,          49.13 ,Boston Celtics         ,Brooklyn Nets          ,   30 ,True
+Chicago Bulls          ,           50.26 ,Atlanta Hawks          ,          49.74 ,Chicago Bulls          ,Atlanta Hawks          ,   30 ,True
+Toronto Raptors        ,           51.19 ,LA Clippers            ,          48.81 ,LA Clippers            ,Toronto Raptors        ,   30 ,False
+Utah Jazz              ,           51.81 ,San Antonio Spurs      ,          48.19 ,Utah Jazz              ,San Antonio Spurs      ,   30 ,True
+Cleveland Cavaliers    ,           52.19 ,Brooklyn Nets          ,          47.81 ,Cleveland Cavaliers    ,Brooklyn Nets          ,   30 ,True
+Denver Nuggets         ,           52.37 ,Dallas Mavericks       ,          47.63 ,Denver Nuggets         ,Dallas Mavericks       ,   30 ,True
+Minnesota Timberwolves ,           50.1  ,Miami Heat             ,          49.9  ,Miami Heat             ,Minnesota Timberwolves ,   30 ,False
+Detroit Pistons        ,           51.23 ,Houston Rockets        ,          48.77 ,Houston Rockets        ,Detroit Pistons        ,   30 ,False
+Philadelphia 76ers     ,           52.99 ,Charlotte Hornets      ,          47.01 ,Philadelphia 76ers     ,Charlotte Hornets      ,   30 ,True
+Memphis Grizzlies      ,           51.46 ,Portland Trail Blazers ,          48.54 ,Memphis Grizzlies      ,Portland Trail Blazers ,   30 ,True
+New York Knicks        ,           50.43 ,Indiana Pacers         ,          49.57 ,Indiana Pacers         ,New York Knicks        ,   30 ,False
+Boston Celtics         ,           51.3  ,Milwaukee Bucks        ,          48.7  ,Boston Celtics         ,Milwaukee Bucks        ,   30 ,True
+Los Angeles Lakers     ,           50.69 ,Toronto Raptors        ,          49.31 ,Los Angeles Lakers     ,Toronto Raptors        ,   30 ,True
+Washington Wizards     ,           50.36 ,Orlando Magic          ,          49.64 ,Orlando Magic          ,Washington Wizards     ,   30 ,False
+Golden State Warriors  ,           51.87 ,Oklahoma City Thunder  ,          48.13 ,Golden State Warriors  ,Oklahoma City Thunder  ,   30 ,True
+Phoenix Suns           ,           51.27 ,Sacramento Kings       ,          48.73 ,Sacramento Kings       ,Phoenix Suns           ,   30 ,False
+New Orleans Pelicans   ,           50.38 ,Brooklyn Nets          ,          49.62 ,Brooklyn Nets          ,New Orleans Pelicans   ,   30 ,False
+Sacramento Kings       ,           52.36 ,San Antonio Spurs      ,          47.64 ,San Antonio Spurs      ,Sacramento Kings       ,   30 ,False
+LA Clippers            ,           50.26 ,Oklahoma City Thunder  ,          49.74 ,Oklahoma City Thunder  ,LA Clippers            ,   30 ,False
+Cleveland Cavaliers    ,           51.68 ,Chicago Bulls          ,          48.32 ,Cleveland Cavaliers    ,Chicago Bulls          ,   30 ,True
+Washington Wizards     ,           50.39 ,Houston Rockets        ,          49.61 ,Houston Rockets        ,Washington Wizards     ,   30 ,False
+Boston Celtics         ,           50.63 ,Atlanta Hawks          ,          49.37 ,Atlanta Hawks          ,Boston Celtics         ,   30 ,False
+Orlando Magic          ,           51.87 ,Charlotte Hornets      ,          48.13 ,Orlando Magic          ,Charlotte Hornets      ,   30 ,True
+Phoenix Suns           ,           51.82 ,Utah Jazz              ,          48.18 ,Phoenix Suns           ,Utah Jazz              ,   30 ,True
+Philadelphia 76ers     ,           50.14 ,New York Knicks        ,          49.86 ,New York Knicks        ,Philadelphia 76ers     ,   30 ,False
+Toronto Raptors        ,           50.47 ,Milwaukee Bucks        ,          49.53 ,Milwaukee Bucks        ,Toronto Raptors        ,   30 ,False
+Portland Trail Blazers ,           50.56 ,Minnesota Timberwolves ,          49.44 ,Portland Trail Blazers ,Minnesota Timberwolves ,   30 ,True
+Golden State Warriors  ,           50.48 ,Dallas Mavericks       ,          49.52 ,Golden State Warriors  ,Dallas Mavericks       ,   30 ,True
+Detroit Pistons        ,           50.96 ,Miami Heat             ,          49.04 ,Detroit Pistons        ,Miami Heat             ,   30 ,True
+Detroit Pistons        ,           51.21 ,Milwaukee Bucks        ,          48.79 ,Milwaukee Bucks        ,Detroit Pistons        ,   30 ,False
+Indiana Pacers         ,           50.55 ,Orlando Magic          ,          49.45 ,Orlando Magic          ,Indiana Pacers         ,   30 ,False
+Cleveland Cavaliers    ,           51.49 ,Philadelphia 76ers     ,          48.51 ,Cleveland Cavaliers    ,Philadelphia 76ers     ,   30 ,True
+Houston Rockets        ,           50.69 ,LA Clippers            ,          49.31 ,Houston Rockets        ,LA Clippers            ,   30 ,True
+Washington Wizards     ,           51.25 ,San Antonio Spurs      ,          48.75 ,San Antonio Spurs      ,Washington Wizards     ,   30 ,False
+New Orleans Pelicans   ,           51.78 ,Oklahoma City Thunder  ,          48.22 ,Oklahoma City Thunder  ,New Orleans Pelicans   ,   30 ,False
+Memphis Grizzlies      ,           51.21 ,Los Angeles Lakers     ,          48.79 ,Los Angeles Lakers     ,Memphis Grizzlies      ,   30 ,False
+Phoenix Suns           ,           51.27 ,Sacramento Kings       ,          48.73 ,Sacramento Kings       ,Phoenix Suns           ,   30 ,False
+Boston Celtics         ,           50.87 ,Brooklyn Nets          ,          49.13 ,Boston Celtics         ,Brooklyn Nets          ,   30 ,True
+New York Knicks        ,           50.05 ,Chicago Bulls          ,          49.95 ,Chicago Bulls          ,New York Knicks        ,   30 ,False
+Portland Trail Blazers ,           50.56 ,Minnesota Timberwolves ,          49.44 ,Portland Trail Blazers ,Minnesota Timberwolves ,   30 ,True
+Utah Jazz              ,           50.5  ,Dallas Mavericks       ,          49.5  ,Utah Jazz              ,Dallas Mavericks       ,   30 ,True
+Los Angeles Lakers     ,           52.05 ,San Antonio Spurs      ,          47.95 ,Los Angeles Lakers     ,San Antonio Spurs      ,   30 ,True
+Phoenix Suns           ,           53.71 ,Oklahoma City Thunder  ,          46.29 ,Oklahoma City Thunder  ,Phoenix Suns           ,   30 ,False
+Atlanta Hawks          ,           50.31 ,Washington Wizards     ,          49.69 ,Atlanta Hawks          ,Washington Wizards     ,   30 ,True
+Cleveland Cavaliers    ,           51.68 ,Chicago Bulls          ,          48.32 ,Cleveland Cavaliers    ,Chicago Bulls          ,   30 ,True
+Philadelphia 76ers     ,           51.12 ,Orlando Magic          ,          48.88 ,Orlando Magic          ,Philadelphia 76ers     ,   30 ,False
+Detroit Pistons        ,           50.74 ,Toronto Raptors        ,          49.26 ,Detroit Pistons        ,Toronto Raptors        ,   30 ,True
+Houston Rockets        ,           50.69 ,LA Clippers            ,          49.31 ,Houston Rockets        ,LA Clippers            ,   30 ,True
+Denver Nuggets         ,           51.98 ,New Orleans Pelicans   ,          48.02 ,New Orleans Pelicans   ,Denver Nuggets         ,   30 ,False
+Sacramento Kings       ,           51.12 ,Minnesota Timberwolves ,          48.88 ,Minnesota Timberwolves ,Sacramento Kings       ,   30 ,False
+New York Knicks        ,           50.56 ,Brooklyn Nets          ,          49.44 ,New York Knicks        ,Brooklyn Nets          ,   30 ,True
+Indiana Pacers         ,           50.31 ,Miami Heat             ,          49.69 ,Miami Heat             ,Indiana Pacers         ,   30 ,False
+Memphis Grizzlies      ,           51.48 ,Golden State Warriors  ,          48.52 ,Golden State Warriors  ,Memphis Grizzlies      ,   30 ,False
+Los Angeles Lakers     ,           50.36 ,New Orleans Pelicans   ,          49.64 ,Los Angeles Lakers     ,New Orleans Pelicans   ,   30 ,True
+Dallas Mavericks       ,           51.31 ,San Antonio Spurs      ,          48.69 ,Dallas Mavericks       ,San Antonio Spurs      ,   30 ,True
+Boston Celtics         ,           50.83 ,Toronto Raptors        ,          49.17 ,Boston Celtics         ,Toronto Raptors        ,   30 ,True
+Sacramento Kings       ,           50.56 ,Utah Jazz              ,          49.44 ,Sacramento Kings       ,Utah Jazz              ,   30 ,True
+Milwaukee Bucks        ,           51.86 ,Charlotte Hornets      ,          48.14 ,Charlotte Hornets      ,Milwaukee Bucks        ,   30 ,False
+Dallas Mavericks       ,           51.39 ,Oklahoma City Thunder  ,          48.61 ,Dallas Mavericks       ,Oklahoma City Thunder  ,   30 ,True
+Indiana Pacers         ,           50.31 ,Miami Heat             ,          49.69 ,Indiana Pacers         ,Miami Heat             ,   30 ,True
+Detroit Pistons        ,           50.85 ,Washington Wizards     ,          49.15 ,Detroit Pistons        ,Washington Wizards     ,   30 ,True
+Utah Jazz              ,           51.63 ,LA Clippers            ,          48.37 ,LA Clippers            ,Utah Jazz              ,   30 ,False
+Portland Trail Blazers ,           50.24 ,Atlanta Hawks          ,          49.76 ,Portland Trail Blazers ,Atlanta Hawks          ,   30 ,True
+New York Knicks        ,           50.56 ,Brooklyn Nets          ,          49.44 ,New York Knicks        ,Brooklyn Nets          ,   30 ,True
+Chicago Bulls          ,           50.96 ,Houston Rockets        ,          49.04 ,Houston Rockets        ,Chicago Bulls          ,   30 ,False
+Denver Nuggets         ,           50.41 ,Memphis Grizzlies      ,          49.59 ,Memphis Grizzlies      ,Denver Nuggets         ,   30 ,False
+Cleveland Cavaliers    ,           54.47 ,Charlotte Hornets      ,          45.53 ,Cleveland Cavaliers    ,Charlotte Hornets      ,   30 ,True
+Phoenix Suns           ,           52.39 ,Minnesota Timberwolves ,          47.61 ,Minnesota Timberwolves ,Phoenix Suns           ,   30 ,False
+Detroit Pistons        ,           50.27 ,Chicago Bulls          ,          49.73 ,Chicago Bulls          ,Detroit Pistons        ,   30 ,False
+Sacramento Kings       ,           50.8  ,Atlanta Hawks          ,          49.2  ,Atlanta Hawks          ,Sacramento Kings       ,   30 ,False
+New York Knicks        ,           50.63 ,Washington Wizards     ,          49.37 ,New York Knicks        ,Washington Wizards     ,   30 ,True
+Milwaukee Bucks        ,           50.02 ,Houston Rockets        ,          49.98 ,Milwaukee Bucks        ,Houston Rockets        ,   30 ,True
+Indiana Pacers         ,           50.09 ,Toronto Raptors        ,          49.91 ,Toronto Raptors        ,Indiana Pacers         ,   30 ,False
+Philadelphia 76ers     ,           50.88 ,Miami Heat             ,          49.12 ,Miami Heat             ,Philadelphia 76ers     ,   30 ,False
+Golden State Warriors  ,           51.61 ,LA Clippers            ,          48.39 ,LA Clippers            ,Golden State Warriors  ,   30 ,False
+Phoenix Suns           ,           52.73 ,Orlando Magic          ,          47.27 ,Orlando Magic          ,Phoenix Suns           ,   30 ,False
+Brooklyn Nets          ,           52.29 ,Charlotte Hornets      ,          47.71 ,Brooklyn Nets          ,Charlotte Hornets      ,   30 ,True
+Cleveland Cavaliers    ,           51.32 ,Boston Celtics         ,          48.68 ,Boston Celtics         ,Cleveland Cavaliers    ,   30 ,False
+San Antonio Spurs      ,           50.09 ,Oklahoma City Thunder  ,          49.91 ,San Antonio Spurs      ,Oklahoma City Thunder  ,   30 ,True
+Denver Nuggets         ,           50.41 ,Memphis Grizzlies      ,          49.59 ,Denver Nuggets         ,Memphis Grizzlies      ,   30 ,True
+New Orleans Pelicans   ,           50.39 ,Dallas Mavericks       ,          49.61 ,Dallas Mavericks       ,New Orleans Pelicans   ,   30 ,False
+Los Angeles Lakers     ,           50.25 ,Utah Jazz              ,          49.75 ,Los Angeles Lakers     ,Utah Jazz              ,   30 ,True
+Golden State Warriors  ,           50.22 ,Atlanta Hawks          ,          49.78 ,Golden State Warriors  ,Atlanta Hawks          ,   30 ,True
+Chicago Bulls          ,           50.94 ,Milwaukee Bucks        ,          49.06 ,Milwaukee Bucks        ,Chicago Bulls          ,   30 ,False
+Phoenix Suns           ,           51.75 ,New York Knicks        ,          48.25 ,New York Knicks        ,Phoenix Suns           ,   30 ,False
+Indiana Pacers         ,           50.58 ,Houston Rockets        ,          49.42 ,Houston Rockets        ,Indiana Pacers         ,   30 ,False
+Cleveland Cavaliers    ,           51.81 ,New Orleans Pelicans   ,          48.19 ,Cleveland Cavaliers    ,New Orleans Pelicans   ,   30 ,True
+Orlando Magic          ,           50.72 ,LA Clippers            ,          49.28 ,LA Clippers            ,Orlando Magic          ,   30 ,False
+Portland Trail Blazers ,           51.89 ,Oklahoma City Thunder  ,          48.11 ,Oklahoma City Thunder  ,Portland Trail Blazers ,   30 ,False
+Memphis Grizzlies      ,           51.25 ,Philadelphia 76ers     ,          48.75 ,Memphis Grizzlies      ,Philadelphia 76ers     ,   30 ,True
+Los Angeles Lakers     ,           51.16 ,Orlando Magic          ,          48.84 ,Orlando Magic          ,Los Angeles Lakers     ,   30 ,False
+Detroit Pistons        ,           53.07 ,Charlotte Hornets      ,          46.93 ,Charlotte Hornets      ,Detroit Pistons        ,   30 ,False
+Toronto Raptors        ,           50.12 ,Minnesota Timberwolves ,          49.88 ,Toronto Raptors        ,Minnesota Timberwolves ,   30 ,True
+Utah Jazz              ,           51.81 ,San Antonio Spurs      ,          48.19 ,San Antonio Spurs      ,Utah Jazz              ,   30 ,False
+Philadelphia 76ers     ,           50.7  ,Brooklyn Nets          ,          49.3  ,Philadelphia 76ers     ,Brooklyn Nets          ,   30 ,True
+Sacramento Kings       ,           52.19 ,LA Clippers            ,          47.81 ,LA Clippers            ,Sacramento Kings       ,   30 ,False
+Denver Nuggets         ,           52.37 ,Dallas Mavericks       ,          47.63 ,Dallas Mavericks       ,Denver Nuggets         ,   30 ,False
+Indiana Pacers         ,           50.56 ,Milwaukee Bucks        ,          49.44 ,Milwaukee Bucks        ,Indiana Pacers         ,   30 ,False
+Golden State Warriors  ,           50.09 ,New Orleans Pelicans   ,          49.91 ,Golden State Warriors  ,New Orleans Pelicans   ,   30 ,True
+Portland Trail Blazers ,           50.94 ,Houston Rockets        ,          49.06 ,Houston Rockets        ,Portland Trail Blazers ,   30 ,False
+Boston Celtics         ,           50.94 ,Washington Wizards     ,          49.06 ,Boston Celtics         ,Washington Wizards     ,   30 ,True
+Chicago Bulls          ,           50.26 ,Atlanta Hawks          ,          49.74 ,Chicago Bulls          ,Atlanta Hawks          ,   30 ,True
+Denver Nuggets         ,           51.62 ,Los Angeles Lakers     ,          48.38 ,Denver Nuggets         ,Los Angeles Lakers     ,   30 ,True
+Milwaukee Bucks        ,           51.86 ,Charlotte Hornets      ,          48.14 ,Milwaukee Bucks        ,Charlotte Hornets      ,   30 ,True
+Detroit Pistons        ,           51.2  ,Orlando Magic          ,          48.8  ,Orlando Magic          ,Detroit Pistons        ,   30 ,False
+Golden State Warriors  ,           51.78 ,San Antonio Spurs      ,          48.22 ,San Antonio Spurs      ,Golden State Warriors  ,   30 ,False
+New York Knicks        ,           50.07 ,Utah Jazz              ,          49.93 ,Utah Jazz              ,New York Knicks        ,   30 ,False
+Portland Trail Blazers ,           50.94 ,Houston Rockets        ,          49.06 ,Portland Trail Blazers ,Houston Rockets        ,   30 ,True
+Memphis Grizzlies      ,           51.44 ,Chicago Bulls          ,          48.56 ,Memphis Grizzlies      ,Chicago Bulls          ,   30 ,True
+Cleveland Cavaliers    ,           52.15 ,Toronto Raptors        ,          47.85 ,Cleveland Cavaliers    ,Toronto Raptors        ,   30 ,True
+Indiana Pacers         ,           50.2  ,Washington Wizards     ,          49.8  ,Indiana Pacers         ,Washington Wizards     ,   30 ,True
+Sacramento Kings       ,           51.05 ,Brooklyn Nets          ,          48.95 ,Brooklyn Nets          ,Sacramento Kings       ,   30 ,False
+Boston Celtics         ,           50.95 ,Minnesota Timberwolves ,          49.05 ,Boston Celtics         ,Minnesota Timberwolves ,   30 ,True
+Dallas Mavericks       ,           50.17 ,Miami Heat             ,          49.83 ,Miami Heat             ,Dallas Mavericks       ,   30 ,False
+Philadelphia 76ers     ,           51.84 ,LA Clippers            ,          48.16 ,LA Clippers            ,Philadelphia 76ers     ,   30 ,False
+Detroit Pistons        ,           50.74 ,Toronto Raptors        ,          49.26 ,Detroit Pistons        ,Toronto Raptors        ,   30 ,True
+New Orleans Pelicans   ,           50.25 ,Indiana Pacers         ,          49.75 ,Indiana Pacers         ,New Orleans Pelicans   ,   30 ,False
+Denver Nuggets         ,           51.8  ,New York Knicks        ,          48.2  ,New York Knicks        ,Denver Nuggets         ,   30 ,False
+Boston Celtics         ,           52.01 ,LA Clippers            ,          47.99 ,Boston Celtics         ,LA Clippers            ,   30 ,True
+Atlanta Hawks          ,           50.26 ,Dallas Mavericks       ,          49.74 ,Dallas Mavericks       ,Atlanta Hawks          ,   30 ,False
+Orlando Magic          ,           51.87 ,Charlotte Hornets      ,          48.13 ,Orlando Magic          ,Charlotte Hornets      ,   30 ,True
+Memphis Grizzlies      ,           51.46 ,Portland Trail Blazers ,          48.54 ,Memphis Grizzlies      ,Portland Trail Blazers ,   30 ,True
+Golden State Warriors  ,           50.47 ,Brooklyn Nets          ,          49.53 ,Brooklyn Nets          ,Golden State Warriors  ,   30 ,False
+Sacramento Kings       ,           52.45 ,Oklahoma City Thunder  ,          47.55 ,Oklahoma City Thunder  ,Sacramento Kings       ,   30 ,False
+Miami Heat             ,           50.25 ,Milwaukee Bucks        ,          49.75 ,Milwaukee Bucks        ,Miami Heat             ,   30 ,False
+Phoenix Suns           ,           51.58 ,Los Angeles Lakers     ,          48.42 ,Phoenix Suns           ,Los Angeles Lakers     ,   30 ,True
+Chicago Bulls          ,           50.58 ,Washington Wizards     ,          49.42 ,Chicago Bulls          ,Washington Wizards     ,   30 ,True
+Utah Jazz              ,           51.81 ,San Antonio Spurs      ,          48.19 ,San Antonio Spurs      ,Utah Jazz              ,   30 ,False
+Minnesota Timberwolves ,           50.37 ,Houston Rockets        ,          49.63 ,Houston Rockets        ,Minnesota Timberwolves ,   30 ,False
+Los Angeles Lakers     ,           52.05 ,San Antonio Spurs      ,          47.95 ,Los Angeles Lakers     ,San Antonio Spurs      ,   30 ,True
+Washington Wizards     ,           51.08 ,LA Clippers            ,          48.92 ,LA Clippers            ,Washington Wizards     ,   30 ,False
+Cleveland Cavaliers    ,           51.94 ,Atlanta Hawks          ,          48.06 ,Atlanta Hawks          ,Cleveland Cavaliers    ,   30 ,False
+Chicago Bulls          ,           50.93 ,Orlando Magic          ,          49.07 ,Orlando Magic          ,Chicago Bulls          ,   30 ,False
+Philadelphia 76ers     ,           51.15 ,Houston Rockets        ,          48.85 ,Houston Rockets        ,Philadelphia 76ers     ,   30 ,False
+New York Knicks        ,           50.58 ,Dallas Mavericks       ,          49.42 ,Dallas Mavericks       ,New York Knicks        ,   30 ,False
+New Orleans Pelicans   ,           50.33 ,Toronto Raptors        ,          49.67 ,Toronto Raptors        ,New Orleans Pelicans   ,   30 ,False
+Miami Heat             ,           52.11 ,Charlotte Hornets      ,          47.89 ,Miami Heat             ,Charlotte Hornets      ,   30 ,True
+Phoenix Suns           ,           52.31 ,Brooklyn Nets          ,          47.69 ,Brooklyn Nets          ,Phoenix Suns           ,   30 ,False
+Denver Nuggets         ,           51.87 ,Utah Jazz              ,          48.13 ,Denver Nuggets         ,Utah Jazz              ,   30 ,True
+Golden State Warriors  ,           51.87 ,Oklahoma City Thunder  ,          48.13 ,Oklahoma City Thunder  ,Golden State Warriors  ,   30 ,False
+Portland Trail Blazers ,           50.36 ,Indiana Pacers         ,          49.64 ,Indiana Pacers         ,Portland Trail Blazers ,   30 ,False
+Sacramento Kings       ,           51.12 ,Minnesota Timberwolves ,          48.88 ,Sacramento Kings       ,Minnesota Timberwolves ,   30 ,True
+Memphis Grizzlies      ,           51.17 ,Detroit Pistons        ,          48.83 ,Memphis Grizzlies      ,Detroit Pistons        ,   30 ,True
+Sacramento Kings       ,           50.56 ,Portland Trail Blazers ,          49.44 ,Portland Trail Blazers ,Sacramento Kings       ,   30 ,False
+Cleveland Cavaliers    ,           51.94 ,Atlanta Hawks          ,          48.06 ,Atlanta Hawks          ,Cleveland Cavaliers    ,   30 ,False
+Toronto Raptors        ,           50.22 ,Miami Heat             ,          49.78 ,Miami Heat             ,Toronto Raptors        ,   30 ,False
+Brooklyn Nets          ,           50.42 ,Orlando Magic          ,          49.58 ,Orlando Magic          ,Brooklyn Nets          ,   30 ,False
+Minnesota Timberwolves ,           51.06 ,LA Clippers            ,          48.94 ,Minnesota Timberwolves ,LA Clippers            ,   30 ,True
+New York Knicks        ,           52.85 ,Charlotte Hornets      ,          47.15 ,New York Knicks        ,Charlotte Hornets      ,   30 ,True
+Los Angeles Lakers     ,           52.14 ,Oklahoma City Thunder  ,          47.86 ,Oklahoma City Thunder  ,Los Angeles Lakers     ,   30 ,False
+Detroit Pistons        ,           50.65 ,Indiana Pacers         ,          49.35 ,Detroit Pistons        ,Indiana Pacers         ,   30 ,True
+Memphis Grizzlies      ,           51.57 ,New Orleans Pelicans   ,          48.43 ,Memphis Grizzlies      ,New Orleans Pelicans   ,   30 ,True
+Boston Celtics         ,           50.36 ,Chicago Bulls          ,          49.64 ,Boston Celtics         ,Chicago Bulls          ,   30 ,True
+Phoenix Suns           ,           51.85 ,Golden State Warriors  ,          48.15 ,Phoenix Suns           ,Golden State Warriors  ,   30 ,True
+Washington Wizards     ,           50.36 ,Milwaukee Bucks        ,          49.64 ,Milwaukee Bucks        ,Washington Wizards     ,   30 ,False
+Utah Jazz              ,           50.5  ,Dallas Mavericks       ,          49.5  ,Dallas Mavericks       ,Utah Jazz              ,   30 ,False
+Detroit Pistons        ,           50.08 ,Philadelphia 76ers     ,          49.92 ,Philadelphia 76ers     ,Detroit Pistons        ,   30 ,False
+Atlanta Hawks          ,           52.54 ,Charlotte Hornets      ,          47.46 ,Atlanta Hawks          ,Charlotte Hornets      ,   30 ,True
+New York Knicks        ,           50.18 ,New Orleans Pelicans   ,          49.82 ,New York Knicks        ,New Orleans Pelicans   ,   30 ,True
+Cleveland Cavaliers    ,           51.32 ,Boston Celtics         ,          48.68 ,Cleveland Cavaliers    ,Boston Celtics         ,   30 ,True
+Denver Nuggets         ,           53.49 ,LA Clippers            ,          46.51 ,LA Clippers            ,Denver Nuggets         ,   30 ,False
+Toronto Raptors        ,           50.22 ,Miami Heat             ,          49.78 ,Toronto Raptors        ,Miami Heat             ,   30 ,True
+Memphis Grizzlies      ,           51.82 ,Indiana Pacers         ,          48.18 ,Memphis Grizzlies      ,Indiana Pacers         ,   30 ,True
+Sacramento Kings       ,           52.36 ,San Antonio Spurs      ,          47.64 ,San Antonio Spurs      ,Sacramento Kings       ,   30 ,False
+Houston Rockets        ,           50.96 ,Oklahoma City Thunder  ,          49.04 ,Houston Rockets        ,Oklahoma City Thunder  ,   30 ,True
+Portland Trail Blazers ,           50.5  ,Dallas Mavericks       ,          49.5  ,Dallas Mavericks       ,Portland Trail Blazers ,   30 ,False
+Los Angeles Lakers     ,           50.25 ,Utah Jazz              ,          49.75 ,Los Angeles Lakers     ,Utah Jazz              ,   30 ,True
+Brooklyn Nets          ,           50.42 ,Orlando Magic          ,          49.58 ,Orlando Magic          ,Brooklyn Nets          ,   30 ,False
+Chicago Bulls          ,           50.51 ,Brooklyn Nets          ,          49.49 ,Chicago Bulls          ,Brooklyn Nets          ,   30 ,True
+New Orleans Pelicans   ,           50.13 ,Atlanta Hawks          ,          49.87 ,Atlanta Hawks          ,New Orleans Pelicans   ,   30 ,False
+Los Angeles Lakers     ,           50.81 ,Minnesota Timberwolves ,          49.19 ,Minnesota Timberwolves ,Los Angeles Lakers     ,   30 ,False
+Boston Celtics         ,           51.05 ,Miami Heat             ,          48.95 ,Boston Celtics         ,Miami Heat             ,   30 ,True
+Portland Trail Blazers ,           51.63 ,LA Clippers            ,          48.37 ,LA Clippers            ,Portland Trail Blazers ,   30 ,False
+Detroit Pistons        ,           51.21 ,Milwaukee Bucks        ,          48.79 ,Milwaukee Bucks        ,Detroit Pistons        ,   30 ,False
+Indiana Pacers         ,           50.09 ,Toronto Raptors        ,          49.91 ,Toronto Raptors        ,Indiana Pacers         ,   30 ,False
+Sacramento Kings       ,           51.5  ,Houston Rockets        ,          48.5  ,Sacramento Kings       ,Houston Rockets        ,   30 ,True
+Utah Jazz              ,           51.89 ,Oklahoma City Thunder  ,          48.11 ,Oklahoma City Thunder  ,Utah Jazz              ,   30 ,False
+Denver Nuggets         ,           51.89 ,Golden State Warriors  ,          48.11 ,Denver Nuggets         ,Golden State Warriors  ,   30 ,True
+Phoenix Suns           ,           53.63 ,San Antonio Spurs      ,          46.37 ,Phoenix Suns           ,San Antonio Spurs      ,   30 ,True
+Cleveland Cavaliers    ,           52.26 ,Washington Wizards     ,          47.74 ,Cleveland Cavaliers    ,Washington Wizards     ,   30 ,True
+Philadelphia 76ers     ,           52.99 ,Charlotte Hornets      ,          47.01 ,Philadelphia 76ers     ,Charlotte Hornets      ,   30 ,True
+New York Knicks        ,           50.98 ,Orlando Magic          ,          49.02 ,New York Knicks        ,Orlando Magic          ,   30 ,True
+Memphis Grizzlies      ,           51.96 ,Dallas Mavericks       ,          48.04 ,Dallas Mavericks       ,Memphis Grizzlies      ,   30 ,False
+Los Angeles Lakers     ,           50.92 ,Miami Heat             ,          49.08 ,Miami Heat             ,Los Angeles Lakers     ,   30 ,False
+Minnesota Timberwolves ,           51.06 ,LA Clippers            ,          48.94 ,Minnesota Timberwolves ,LA Clippers            ,   30 ,True
+Philadelphia 76ers     ,           51.12 ,Orlando Magic          ,          48.88 ,Orlando Magic          ,Philadelphia 76ers     ,   30 ,False
+Boston Celtics         ,           50.09 ,Detroit Pistons        ,          49.91 ,Boston Celtics         ,Detroit Pistons        ,   30 ,True
+Atlanta Hawks          ,           50.67 ,Milwaukee Bucks        ,          49.33 ,Atlanta Hawks          ,Milwaukee Bucks        ,   30 ,True
+Indiana Pacers         ,           50.13 ,Brooklyn Nets          ,          49.87 ,Brooklyn Nets          ,Indiana Pacers         ,   30 ,False
+Memphis Grizzlies      ,           50.9  ,Sacramento Kings       ,          49.1  ,Memphis Grizzlies      ,Sacramento Kings       ,   30 ,True
+Phoenix Suns           ,           51.93 ,New Orleans Pelicans   ,          48.07 ,New Orleans Pelicans   ,Phoenix Suns           ,   30 ,False
+Dallas Mavericks       ,           50.05 ,Washington Wizards     ,          49.95 ,Dallas Mavericks       ,Washington Wizards     ,   30 ,True
+Denver Nuggets         ,           50.17 ,Cleveland Cavaliers    ,          49.83 ,Cleveland Cavaliers    ,Denver Nuggets         ,   30 ,False
+Toronto Raptors        ,           51.45 ,Oklahoma City Thunder  ,          48.55 ,Oklahoma City Thunder  ,Toronto Raptors        ,   30 ,False
+Golden State Warriors  ,           50.92 ,Houston Rockets        ,          49.08 ,Golden State Warriors  ,Houston Rockets        ,   30 ,True
+New York Knicks        ,           52.85 ,Charlotte Hornets      ,          47.15 ,New York Knicks        ,Charlotte Hornets      ,   30 ,True
+Chicago Bulls          ,           51.83 ,San Antonio Spurs      ,          48.17 ,Chicago Bulls          ,San Antonio Spurs      ,   30 ,True
+Philadelphia 76ers     ,           51.12 ,Orlando Magic          ,          48.88 ,Philadelphia 76ers     ,Orlando Magic          ,   30 ,True
+Chicago Bulls          ,           50.38 ,Indiana Pacers         ,          49.62 ,Indiana Pacers         ,Chicago Bulls          ,   30 ,False
+Sacramento Kings       ,           52.36 ,San Antonio Spurs      ,          47.64 ,Sacramento Kings       ,San Antonio Spurs      ,   30 ,True
+Los Angeles Lakers     ,           50.49 ,Atlanta Hawks          ,          49.51 ,Atlanta Hawks          ,Los Angeles Lakers     ,   30 ,False
+Utah Jazz              ,           50.0  ,Portland Trail Blazers ,          50.0  ,Utah Jazz              ,Portland Trail Blazers ,   30 ,True
+Golden State Warriors  ,           50.54 ,Minnesota Timberwolves ,          49.46 ,Minnesota Timberwolves ,Golden State Warriors  ,   30 ,False
+Boston Celtics         ,           51.3  ,Milwaukee Bucks        ,          48.7  ,Boston Celtics         ,Milwaukee Bucks        ,   30 ,True
+Denver Nuggets         ,           52.42 ,Washington Wizards     ,          47.58 ,Washington Wizards     ,Denver Nuggets         ,   30 ,False
+Memphis Grizzlies      ,           51.08 ,Boston Celtics         ,          48.92 ,Memphis Grizzlies      ,Boston Celtics         ,   30 ,True
+New Orleans Pelicans   ,           51.78 ,Oklahoma City Thunder  ,          48.22 ,Oklahoma City Thunder  ,New Orleans Pelicans   ,   30 ,False
+Toronto Raptors        ,           50.06 ,Dallas Mavericks       ,          49.94 ,Dallas Mavericks       ,Toronto Raptors        ,   30 ,False
+Phoenix Suns           ,           52.49 ,Miami Heat             ,          47.51 ,Miami Heat             ,Phoenix Suns           ,   30 ,False
+Cleveland Cavaliers    ,           54.47 ,Charlotte Hornets      ,          45.53 ,Cleveland Cavaliers    ,Charlotte Hornets      ,   30 ,True
+Detroit Pistons        ,           50.22 ,New York Knicks        ,          49.78 ,Detroit Pistons        ,New York Knicks        ,   30 ,True
+Sacramento Kings       ,           50.56 ,Utah Jazz              ,          49.44 ,Sacramento Kings       ,Utah Jazz              ,   30 ,True
+New Orleans Pelicans   ,           51.7  ,San Antonio Spurs      ,          48.3  ,San Antonio Spurs      ,New Orleans Pelicans   ,   30 ,False
+Phoenix Suns           ,           52.73 ,Orlando Magic          ,          47.27 ,Orlando Magic          ,Phoenix Suns           ,   30 ,False
+Los Angeles Lakers     ,           50.25 ,Portland Trail Blazers ,          49.75 ,Los Angeles Lakers     ,Portland Trail Blazers ,   30 ,True
+Brooklyn Nets          ,           50.43 ,Milwaukee Bucks        ,          49.57 ,Milwaukee Bucks        ,Brooklyn Nets          ,   30 ,False
+Memphis Grizzlies      ,           52.01 ,Washington Wizards     ,          47.99 ,Memphis Grizzlies      ,Washington Wizards     ,   30 ,True
+Houston Rockets        ,           50.69 ,LA Clippers            ,          49.31 ,Houston Rockets        ,LA Clippers            ,   30 ,True
+Cleveland Cavaliers    ,           52.37 ,Miami Heat             ,          47.63 ,Miami Heat             ,Cleveland Cavaliers    ,   30 ,False
+Golden State Warriors  ,           50.54 ,Minnesota Timberwolves ,          49.46 ,Golden State Warriors  ,Minnesota Timberwolves ,   30 ,True
+Philadelphia 76ers     ,           50.19 ,Chicago Bulls          ,          49.81 ,Philadelphia 76ers     ,Chicago Bulls          ,   30 ,True
+Denver Nuggets         ,           52.11 ,Atlanta Hawks          ,          47.89 ,Denver Nuggets         ,Atlanta Hawks          ,   30 ,True
+Indiana Pacers         ,           52.42 ,Charlotte Hornets      ,          47.58 ,Charlotte Hornets      ,Indiana Pacers         ,   30 ,False
+New York Knicks        ,           50.52 ,Toronto Raptors        ,          49.48 ,New York Knicks        ,Toronto Raptors        ,   30 ,True
+Orlando Magic          ,           50.01 ,Milwaukee Bucks        ,          49.99 ,Milwaukee Bucks        ,Orlando Magic          ,   30 ,False
+Dallas Mavericks       ,           51.39 ,Oklahoma City Thunder  ,          48.61 ,Oklahoma City Thunder  ,Dallas Mavericks       ,   30 ,False
+Golden State Warriors  ,           50.92 ,Houston Rockets        ,          49.08 ,Houston Rockets        ,Golden State Warriors  ,   30 ,False
+New York Knicks        ,           50.32 ,Atlanta Hawks          ,          49.68 ,Atlanta Hawks          ,New York Knicks        ,   30 ,False
+Sacramento Kings       ,           50.67 ,New Orleans Pelicans   ,          49.33 ,Sacramento Kings       ,New Orleans Pelicans   ,   30 ,True
+Toronto Raptors        ,           50.22 ,Miami Heat             ,          49.78 ,Miami Heat             ,Toronto Raptors        ,   30 ,False
+Boston Celtics         ,           50.09 ,Detroit Pistons        ,          49.91 ,Boston Celtics         ,Detroit Pistons        ,   30 ,True
+Phoenix Suns           ,           51.82 ,Utah Jazz              ,          48.18 ,Phoenix Suns           ,Utah Jazz              ,   30 ,True
+Denver Nuggets         ,           53.49 ,LA Clippers            ,          46.51 ,Denver Nuggets         ,LA Clippers            ,   30 ,True
+Cleveland Cavaliers    ,           52.26 ,Washington Wizards     ,          47.74 ,Cleveland Cavaliers    ,Washington Wizards     ,   30 ,True
+Chicago Bulls          ,           52.8  ,Charlotte Hornets      ,          47.2  ,Chicago Bulls          ,Charlotte Hornets      ,   30 ,True
+Philadelphia 76ers     ,           50.57 ,Indiana Pacers         ,          49.43 ,Indiana Pacers         ,Philadelphia 76ers     ,   30 ,False
+Memphis Grizzlies      ,           51.95 ,Brooklyn Nets          ,          48.05 ,Memphis Grizzlies      ,Brooklyn Nets          ,   30 ,True
+Los Angeles Lakers     ,           50.81 ,Minnesota Timberwolves ,          49.19 ,Minnesota Timberwolves ,Los Angeles Lakers     ,   30 ,False
+Portland Trail Blazers ,           51.81 ,San Antonio Spurs      ,          48.19 ,San Antonio Spurs      ,Portland Trail Blazers ,   30 ,False
+Houston Rockets        ,           50.96 ,Oklahoma City Thunder  ,          49.04 ,Oklahoma City Thunder  ,Houston Rockets        ,   30 ,False
+Atlanta Hawks          ,           50.67 ,Milwaukee Bucks        ,          49.33 ,Milwaukee Bucks        ,Atlanta Hawks          ,   30 ,False
+Minnesota Timberwolves ,           51.24 ,San Antonio Spurs      ,          48.76 ,Minnesota Timberwolves ,San Antonio Spurs      ,   30 ,True
+Boston Celtics         ,           50.94 ,Washington Wizards     ,          49.06 ,Boston Celtics         ,Washington Wizards     ,   30 ,True
+Memphis Grizzlies      ,           51.21 ,Los Angeles Lakers     ,          48.79 ,Los Angeles Lakers     ,Memphis Grizzlies      ,   30 ,False
+New Orleans Pelicans   ,           50.25 ,Indiana Pacers         ,          49.75 ,Indiana Pacers         ,New Orleans Pelicans   ,   30 ,False
+New York Knicks        ,           50.98 ,Orlando Magic          ,          49.02 ,New York Knicks        ,Orlando Magic          ,   30 ,True
+Golden State Warriors  ,           50.48 ,Dallas Mavericks       ,          49.52 ,Dallas Mavericks       ,Golden State Warriors  ,   30 ,False
+Phoenix Suns           ,           51.82 ,Portland Trail Blazers ,          48.18 ,Phoenix Suns           ,Portland Trail Blazers ,   30 ,True
+Cleveland Cavaliers    ,           52.19 ,Brooklyn Nets          ,          47.81 ,Cleveland Cavaliers    ,Brooklyn Nets          ,   30 ,True
+Chicago Bulls          ,           50.47 ,Toronto Raptors        ,          49.53 ,Chicago Bulls          ,Toronto Raptors        ,   30 ,True
+Detroit Pistons        ,           50.96 ,Miami Heat             ,          49.04 ,Detroit Pistons        ,Miami Heat             ,   30 ,True
+Utah Jazz              ,           51.63 ,LA Clippers            ,          48.37 ,LA Clippers            ,Utah Jazz              ,   30 ,False
+Philadelphia 76ers     ,           52.99 ,Charlotte Hornets      ,          47.01 ,Philadelphia 76ers     ,Charlotte Hornets      ,   30 ,True
+Denver Nuggets         ,           51.31 ,Sacramento Kings       ,          48.69 ,Denver Nuggets         ,Sacramento Kings       ,   30 ,True
+Denver Nuggets         ,           51.87 ,Portland Trail Blazers ,          48.13 ,Portland Trail Blazers ,Denver Nuggets         ,   30 ,False
+Orlando Magic          ,           50.98 ,Oklahoma City Thunder  ,          49.02 ,Oklahoma City Thunder  ,Orlando Magic          ,   30 ,False
+Phoenix Suns           ,           52.18 ,Indiana Pacers         ,          47.82 ,Indiana Pacers         ,Phoenix Suns           ,   30 ,False
+Dallas Mavericks       ,           51.13 ,LA Clippers            ,          48.87 ,LA Clippers            ,Dallas Mavericks       ,   30 ,False
+Memphis Grizzlies      ,           51.48 ,Golden State Warriors  ,          48.52 ,Memphis Grizzlies      ,Golden State Warriors  ,   30 ,True
+Detroit Pistons        ,           50.29 ,Utah Jazz              ,          49.71 ,Utah Jazz              ,Detroit Pistons        ,   30 ,False
+Sacramento Kings       ,           50.31 ,Los Angeles Lakers     ,          49.69 ,Los Angeles Lakers     ,Sacramento Kings       ,   30 ,False
+Boston Celtics         ,           50.36 ,Chicago Bulls          ,          49.64 ,Chicago Bulls          ,Boston Celtics         ,   30 ,False
+New Orleans Pelicans   ,           50.83 ,Houston Rockets        ,          49.17 ,Houston Rockets        ,New Orleans Pelicans   ,   30 ,False
+Atlanta Hawks          ,           51.57 ,San Antonio Spurs      ,          48.43 ,San Antonio Spurs      ,Atlanta Hawks          ,   30 ,False
+New York Knicks        ,           50.64 ,Minnesota Timberwolves ,          49.36 ,New York Knicks        ,Minnesota Timberwolves ,   30 ,True
+Toronto Raptors        ,           50.05 ,Brooklyn Nets          ,          49.95 ,Brooklyn Nets          ,Toronto Raptors        ,   30 ,False
+Washington Wizards     ,           52.23 ,Charlotte Hornets      ,          47.77 ,Washington Wizards     ,Charlotte Hornets      ,   30 ,True
+Miami Heat             ,           51.23 ,Oklahoma City Thunder  ,          48.77 ,Oklahoma City Thunder  ,Miami Heat             ,   30 ,False
+Cleveland Cavaliers    ,           52.62 ,Milwaukee Bucks        ,          47.38 ,Cleveland Cavaliers    ,Milwaukee Bucks        ,   30 ,True
+Philadelphia 76ers     ,           52.99 ,Charlotte Hornets      ,          47.01 ,Philadelphia 76ers     ,Charlotte Hornets      ,   30 ,True
+Cleveland Cavaliers    ,           51.49 ,Philadelphia 76ers     ,          48.51 ,Cleveland Cavaliers    ,Philadelphia 76ers     ,   30 ,True
+Phoenix Suns           ,           51.53 ,Detroit Pistons        ,          48.47 ,Detroit Pistons        ,Phoenix Suns           ,   30 ,False
+Washington Wizards     ,           50.36 ,Milwaukee Bucks        ,          49.64 ,Milwaukee Bucks        ,Washington Wizards     ,   30 ,False
+Utah Jazz              ,           50.49 ,Brooklyn Nets          ,          49.51 ,Utah Jazz              ,Brooklyn Nets          ,   30 ,True
+Golden State Warriors  ,           50.54 ,Minnesota Timberwolves ,          49.46 ,Golden State Warriors  ,Minnesota Timberwolves ,   30 ,True
+Dallas Mavericks       ,           51.13 ,LA Clippers            ,          48.87 ,Dallas Mavericks       ,LA Clippers            ,   30 ,True
+Sacramento Kings       ,           50.31 ,Los Angeles Lakers     ,          49.69 ,Los Angeles Lakers     ,Sacramento Kings       ,   30 ,False
+Miami Heat             ,           50.24 ,Orlando Magic          ,          49.76 ,Orlando Magic          ,Miami Heat             ,   30 ,False
+New York Knicks        ,           50.18 ,New Orleans Pelicans   ,          49.82 ,New York Knicks        ,New Orleans Pelicans   ,   30 ,True
+Portland Trail Blazers ,           51.81 ,San Antonio Spurs      ,          48.19 ,San Antonio Spurs      ,Portland Trail Blazers ,   30 ,False
+Boston Celtics         ,           50.36 ,Chicago Bulls          ,          49.64 ,Boston Celtics         ,Chicago Bulls          ,   30 ,True
+Memphis Grizzlies      ,           51.7  ,Atlanta Hawks          ,          48.3  ,Memphis Grizzlies      ,Atlanta Hawks          ,   30 ,True
+Sacramento Kings       ,           50.92 ,Indiana Pacers         ,          49.08 ,Indiana Pacers         ,Sacramento Kings       ,   30 ,False
+Denver Nuggets         ,           51.98 ,New Orleans Pelicans   ,          48.02 ,Denver Nuggets         ,New Orleans Pelicans   ,   30 ,True
+Toronto Raptors        ,           50.5  ,Houston Rockets        ,          49.5  ,Houston Rockets        ,Toronto Raptors        ,   30 ,False
+Memphis Grizzlies      ,           53.09 ,LA Clippers            ,          46.91 ,LA Clippers            ,Memphis Grizzlies      ,   30 ,False
+Golden State Warriors  ,           50.33 ,Indiana Pacers         ,          49.67 ,Indiana Pacers         ,Golden State Warriors  ,   30 ,False
+Detroit Pistons        ,           50.05 ,Los Angeles Lakers     ,          49.95 ,Detroit Pistons        ,Los Angeles Lakers     ,   30 ,True
+Portland Trail Blazers ,           50.5  ,Dallas Mavericks       ,          49.5  ,Dallas Mavericks       ,Portland Trail Blazers ,   30 ,False
+Cleveland Cavaliers    ,           51.7  ,Utah Jazz              ,          48.3  ,Cleveland Cavaliers    ,Utah Jazz              ,   30 ,True
+Washington Wizards     ,           51.34 ,Oklahoma City Thunder  ,          48.66 ,Oklahoma City Thunder  ,Washington Wizards     ,   30 ,False
+Atlanta Hawks          ,           50.32 ,Minnesota Timberwolves ,          49.68 ,Atlanta Hawks          ,Minnesota Timberwolves ,   30 ,True
+New York Knicks        ,           50.52 ,Toronto Raptors        ,          49.48 ,New York Knicks        ,Toronto Raptors        ,   30 ,True
+Brooklyn Nets          ,           50.18 ,Miami Heat             ,          49.82 ,Miami Heat             ,Brooklyn Nets          ,   30 ,False
+Philadelphia 76ers     ,           52.02 ,San Antonio Spurs      ,          47.98 ,Philadelphia 76ers     ,San Antonio Spurs      ,   30 ,True
+Chicago Bulls          ,           50.94 ,Milwaukee Bucks        ,          49.06 ,Milwaukee Bucks        ,Chicago Bulls          ,   30 ,False
+Houston Rockets        ,           51.84 ,Charlotte Hornets      ,          48.16 ,Houston Rockets        ,Charlotte Hornets      ,   30 ,True
+Denver Nuggets         ,           50.05 ,Phoenix Suns           ,          49.95 ,Denver Nuggets         ,Phoenix Suns           ,   30 ,True
+Boston Celtics         ,           51.29 ,Orlando Magic          ,          48.71 ,Orlando Magic          ,Boston Celtics         ,   30 ,False
+Denver Nuggets         ,           50.05 ,Phoenix Suns           ,          49.95 ,Phoenix Suns           ,Denver Nuggets         ,   30 ,False
+Los Angeles Lakers     ,           50.27 ,Golden State Warriors  ,          49.73 ,Los Angeles Lakers     ,Golden State Warriors  ,   30 ,True
+New York Knicks        ,           51.88 ,San Antonio Spurs      ,          48.12 ,New York Knicks        ,San Antonio Spurs      ,   30 ,True
+Dallas Mavericks       ,           50.06 ,Minnesota Timberwolves ,          49.94 ,Minnesota Timberwolves ,Dallas Mavericks       ,   30 ,False
+Boston Celtics         ,           50.17 ,Philadelphia 76ers     ,          49.83 ,Philadelphia 76ers     ,Boston Celtics         ,   30 ,False
+Chicago Bulls          ,           50.26 ,Atlanta Hawks          ,          49.74 ,Atlanta Hawks          ,Chicago Bulls          ,   30 ,False
+Utah Jazz              ,           50.0  ,Portland Trail Blazers ,          50.0  ,Portland Trail Blazers ,Utah Jazz              ,   30 ,False
+Memphis Grizzlies      ,           51.9  ,Toronto Raptors        ,          48.1  ,Memphis Grizzlies      ,Toronto Raptors        ,   30 ,True
+Indiana Pacers         ,           51.54 ,Oklahoma City Thunder  ,          48.46 ,Oklahoma City Thunder  ,Indiana Pacers         ,   30 ,False
+Sacramento Kings       ,           50.26 ,Detroit Pistons        ,          49.74 ,Detroit Pistons        ,Sacramento Kings       ,   30 ,False
+Washington Wizards     ,           52.23 ,Charlotte Hornets      ,          47.77 ,Washington Wizards     ,Charlotte Hornets      ,   30 ,True
+Brooklyn Nets          ,           50.43 ,Milwaukee Bucks        ,          49.57 ,Brooklyn Nets          ,Milwaukee Bucks        ,   30 ,True
+Miami Heat             ,           50.24 ,Orlando Magic          ,          49.76 ,Miami Heat             ,Orlando Magic          ,   30 ,True
+New Orleans Pelicans   ,           50.83 ,Houston Rockets        ,          49.17 ,Houston Rockets        ,New Orleans Pelicans   ,   30 ,False
+Boston Celtics         ,           50.74 ,Indiana Pacers         ,          49.26 ,Boston Celtics         ,Indiana Pacers         ,   30 ,True
+New York Knicks        ,           50.98 ,Orlando Magic          ,          49.02 ,New York Knicks        ,Orlando Magic          ,   30 ,True
+Brooklyn Nets          ,           51.32 ,San Antonio Spurs      ,          48.68 ,San Antonio Spurs      ,Brooklyn Nets          ,   30 ,False
+Golden State Warriors  ,           51.61 ,LA Clippers            ,          48.39 ,LA Clippers            ,Golden State Warriors  ,   30 ,False
+Minnesota Timberwolves ,           50.37 ,Houston Rockets        ,          49.63 ,Minnesota Timberwolves ,Houston Rockets        ,   30 ,True
+Phoenix Suns           ,           52.32 ,Dallas Mavericks       ,          47.68 ,Dallas Mavericks       ,Phoenix Suns           ,   30 ,False
+Denver Nuggets         ,           50.17 ,Cleveland Cavaliers    ,          49.83 ,Cleveland Cavaliers    ,Denver Nuggets         ,   30 ,False
+Memphis Grizzlies      ,           51.57 ,New Orleans Pelicans   ,          48.43 ,Memphis Grizzlies      ,New Orleans Pelicans   ,   30 ,True
+Phoenix Suns           ,           51.85 ,Golden State Warriors  ,          48.15 ,Golden State Warriors  ,Phoenix Suns           ,   30 ,False
+Atlanta Hawks          ,           50.43 ,Miami Heat             ,          49.57 ,Atlanta Hawks          ,Miami Heat             ,   30 ,True
+Denver Nuggets         ,           51.58 ,Detroit Pistons        ,          48.42 ,Denver Nuggets         ,Detroit Pistons        ,   30 ,True
+Chicago Bulls          ,           50.94 ,Milwaukee Bucks        ,          49.06 ,Chicago Bulls          ,Milwaukee Bucks        ,   30 ,True
+New York Knicks        ,           50.63 ,Washington Wizards     ,          49.37 ,New York Knicks        ,Washington Wizards     ,   30 ,True
+Philadelphia 76ers     ,           50.21 ,Utah Jazz              ,          49.79 ,Philadelphia 76ers     ,Utah Jazz              ,   30 ,True
+Sacramento Kings       ,           50.31 ,Los Angeles Lakers     ,          49.69 ,Los Angeles Lakers     ,Sacramento Kings       ,   30 ,False
+Oklahoma City Thunder  ,           50.89 ,Charlotte Hornets      ,          49.11 ,Oklahoma City Thunder  ,Charlotte Hornets      ,   30 ,True
+Portland Trail Blazers ,           50.5  ,Dallas Mavericks       ,          49.5  ,Portland Trail Blazers ,Dallas Mavericks       ,   30 ,True
+Miami Heat             ,           50.27 ,Houston Rockets        ,          49.73 ,Miami Heat             ,Houston Rockets        ,   30 ,True
+Minnesota Timberwolves ,           51.24 ,San Antonio Spurs      ,          48.76 ,Minnesota Timberwolves ,San Antonio Spurs      ,   30 ,True
+Memphis Grizzlies      ,           53.35 ,Oklahoma City Thunder  ,          46.65 ,Oklahoma City Thunder  ,Memphis Grizzlies      ,   30 ,False
+Brooklyn Nets          ,           50.42 ,Orlando Magic          ,          49.58 ,Orlando Magic          ,Brooklyn Nets          ,   30 ,False
+Boston Celtics         ,           50.74 ,Indiana Pacers         ,          49.26 ,Indiana Pacers         ,Boston Celtics         ,   30 ,False
+Atlanta Hawks          ,           50.2  ,Toronto Raptors        ,          49.8  ,Atlanta Hawks          ,Toronto Raptors        ,   30 ,True
+Sacramento Kings       ,           51.06 ,Dallas Mavericks       ,          48.94 ,Sacramento Kings       ,Dallas Mavericks       ,   30 ,True
+New Orleans Pelicans   ,           51.52 ,LA Clippers            ,          48.48 ,LA Clippers            ,New Orleans Pelicans   ,   30 ,False
+Chicago Bulls          ,           52.8  ,Charlotte Hornets      ,          47.2  ,Chicago Bulls          ,Charlotte Hornets      ,   30 ,True
+Denver Nuggets         ,           51.87 ,Utah Jazz              ,          48.13 ,Denver Nuggets         ,Utah Jazz              ,   30 ,True
+New York Knicks        ,           50.63 ,Washington Wizards     ,          49.37 ,New York Knicks        ,Washington Wizards     ,   30 ,True
+Cleveland Cavaliers    ,           51.73 ,Golden State Warriors  ,          48.27 ,Cleveland Cavaliers    ,Golden State Warriors  ,   30 ,True
+Philadelphia 76ers     ,           50.21 ,Portland Trail Blazers ,          49.79 ,Philadelphia 76ers     ,Portland Trail Blazers ,   30 ,True
+Cleveland Cavaliers    ,           51.46 ,Los Angeles Lakers     ,          48.54 ,Cleveland Cavaliers    ,Los Angeles Lakers     ,   30 ,True
+Boston Celtics         ,           50.83 ,Toronto Raptors        ,          49.17 ,Boston Celtics         ,Toronto Raptors        ,   30 ,True
+LA Clippers            ,           50.18 ,San Antonio Spurs      ,          49.82 ,San Antonio Spurs      ,LA Clippers            ,   30 ,False
+Phoenix Suns           ,           50.36 ,Memphis Grizzlies      ,          49.64 ,Memphis Grizzlies      ,Phoenix Suns           ,   30 ,False
+Indiana Pacers         ,           50.56 ,Milwaukee Bucks        ,          49.44 ,Milwaukee Bucks        ,Indiana Pacers         ,   30 ,False
+Minnesota Timberwolves ,           51.33 ,Oklahoma City Thunder  ,          48.67 ,Oklahoma City Thunder  ,Minnesota Timberwolves ,   30 ,False
+Denver Nuggets         ,           52.11 ,Atlanta Hawks          ,          47.89 ,Denver Nuggets         ,Atlanta Hawks          ,   30 ,True
+New Orleans Pelicans   ,           50.56 ,Miami Heat             ,          49.44 ,Miami Heat             ,New Orleans Pelicans   ,   30 ,False
+Toronto Raptors        ,           50.05 ,Brooklyn Nets          ,          49.95 ,Toronto Raptors        ,Brooklyn Nets          ,   30 ,True
+New York Knicks        ,           50.07 ,Utah Jazz              ,          49.93 ,New York Knicks        ,Utah Jazz              ,   30 ,True
+Sacramento Kings       ,           50.35 ,Philadelphia 76ers     ,          49.65 ,Sacramento Kings       ,Philadelphia 76ers     ,   30 ,True
+Chicago Bulls          ,           50.58 ,Washington Wizards     ,          49.42 ,Washington Wizards     ,Chicago Bulls          ,   30 ,False
+Detroit Pistons        ,           51.2  ,Orlando Magic          ,          48.8  ,Detroit Pistons        ,Orlando Magic          ,   30 ,True
+Dallas Mavericks       ,           50.44 ,Houston Rockets        ,          49.56 ,Houston Rockets        ,Dallas Mavericks       ,   30 ,False
+Los Angeles Lakers     ,           50.25 ,Portland Trail Blazers ,          49.75 ,Los Angeles Lakers     ,Portland Trail Blazers ,   30 ,True
+Indiana Pacers         ,           50.31 ,Miami Heat             ,          49.69 ,Indiana Pacers         ,Miami Heat             ,   30 ,True
+Boston Celtics         ,           50.95 ,Minnesota Timberwolves ,          49.05 ,Boston Celtics         ,Minnesota Timberwolves ,   30 ,True
+Philadelphia 76ers     ,           50.24 ,Golden State Warriors  ,          49.76 ,Golden State Warriors  ,Philadelphia 76ers     ,   30 ,False
+Brooklyn Nets          ,           50.43 ,Milwaukee Bucks        ,          49.57 ,Brooklyn Nets          ,Milwaukee Bucks        ,   30 ,True
+LA Clippers            ,           50.26 ,Oklahoma City Thunder  ,          49.74 ,Oklahoma City Thunder  ,LA Clippers            ,   30 ,False
+Memphis Grizzlies      ,           50.9  ,Sacramento Kings       ,          49.1  ,Sacramento Kings       ,Memphis Grizzlies      ,   30 ,False
+Detroit Pistons        ,           53.07 ,Charlotte Hornets      ,          46.93 ,Detroit Pistons        ,Charlotte Hornets      ,   30 ,True
+New York Knicks        ,           51.97 ,Oklahoma City Thunder  ,          48.03 ,Oklahoma City Thunder  ,New York Knicks        ,   30 ,False
+Cleveland Cavaliers    ,           52.2  ,Dallas Mavericks       ,          47.8  ,Cleveland Cavaliers    ,Dallas Mavericks       ,   30 ,True
+Boston Celtics         ,           51.32 ,Houston Rockets        ,          48.68 ,Boston Celtics         ,Houston Rockets        ,   30 ,True
+Toronto Raptors        ,           50.47 ,Orlando Magic          ,          49.53 ,Orlando Magic          ,Toronto Raptors        ,   30 ,False
+Los Angeles Lakers     ,           50.49 ,Atlanta Hawks          ,          49.51 ,Los Angeles Lakers     ,Atlanta Hawks          ,   30 ,True
+New Orleans Pelicans   ,           50.44 ,Washington Wizards     ,          49.56 ,New Orleans Pelicans   ,Washington Wizards     ,   30 ,True
+Denver Nuggets         ,           53.67 ,San Antonio Spurs      ,          46.33 ,San Antonio Spurs      ,Denver Nuggets         ,   30 ,False
+Detroit Pistons        ,           50.86 ,Minnesota Timberwolves ,          49.14 ,Detroit Pistons        ,Minnesota Timberwolves ,   30 ,True
+Denver Nuggets         ,           53.67 ,San Antonio Spurs      ,          46.33 ,Denver Nuggets         ,San Antonio Spurs      ,   30 ,True
+Memphis Grizzlies      ,           51.48 ,Golden State Warriors  ,          48.52 ,Golden State Warriors  ,Memphis Grizzlies      ,   30 ,False
+Portland Trail Blazers ,           50.92 ,Milwaukee Bucks        ,          49.08 ,Portland Trail Blazers ,Milwaukee Bucks        ,   30 ,True
+Phoenix Suns           ,           52.18 ,Indiana Pacers         ,          47.82 ,Indiana Pacers         ,Phoenix Suns           ,   30 ,False
+Atlanta Hawks          ,           51.39 ,LA Clippers            ,          48.61 ,LA Clippers            ,Atlanta Hawks          ,   30 ,False
+Utah Jazz              ,           50.67 ,Miami Heat             ,          49.33 ,Utah Jazz              ,Miami Heat             ,   30 ,True
+New York Knicks        ,           50.05 ,Chicago Bulls          ,          49.95 ,Chicago Bulls          ,New York Knicks        ,   30 ,False
+Philadelphia 76ers     ,           50.7  ,Brooklyn Nets          ,          49.3  ,Philadelphia 76ers     ,Brooklyn Nets          ,   30 ,True
+Sacramento Kings       ,           50.58 ,Golden State Warriors  ,          49.42 ,Sacramento Kings       ,Golden State Warriors  ,   30 ,True
+Los Angeles Lakers     ,           51.19 ,Houston Rockets        ,          48.81 ,Houston Rockets        ,Los Angeles Lakers     ,   30 ,False
+Boston Celtics         ,           52.28 ,Oklahoma City Thunder  ,          47.72 ,Oklahoma City Thunder  ,Boston Celtics         ,   30 ,False
+Utah Jazz              ,           50.91 ,Orlando Magic          ,          49.09 ,Utah Jazz              ,Orlando Magic          ,   30 ,True
+New Orleans Pelicans   ,           50.44 ,Washington Wizards     ,          49.56 ,New Orleans Pelicans   ,Washington Wizards     ,   30 ,True
+Cleveland Cavaliers    ,           54.47 ,Charlotte Hornets      ,          45.53 ,Cleveland Cavaliers    ,Charlotte Hornets      ,   30 ,True
+Toronto Raptors        ,           50.47 ,Milwaukee Bucks        ,          49.53 ,Milwaukee Bucks        ,Toronto Raptors        ,   30 ,False
+Memphis Grizzlies      ,           51.96 ,Dallas Mavericks       ,          48.04 ,Memphis Grizzlies      ,Dallas Mavericks       ,   30 ,True
+Indiana Pacers         ,           50.13 ,Brooklyn Nets          ,          49.87 ,Indiana Pacers         ,Brooklyn Nets          ,   30 ,True
+Phoenix Suns           ,           51.61 ,Philadelphia 76ers     ,          48.39 ,Phoenix Suns           ,Philadelphia 76ers     ,   30 ,True
+Chicago Bulls          ,           51.83 ,San Antonio Spurs      ,          48.17 ,Chicago Bulls          ,San Antonio Spurs      ,   30 ,True
+New York Knicks        ,           50.98 ,Orlando Magic          ,          49.02 ,Orlando Magic          ,New York Knicks        ,   30 ,False
+Sacramento Kings       ,           51.23 ,Miami Heat             ,          48.77 ,Sacramento Kings       ,Miami Heat             ,   30 ,True
+Minnesota Timberwolves ,           51.06 ,LA Clippers            ,          48.94 ,Minnesota Timberwolves ,LA Clippers            ,   30 ,True
+Detroit Pistons        ,           50.29 ,Portland Trail Blazers ,          49.71 ,Detroit Pistons        ,Portland Trail Blazers ,   30 ,True
+New Orleans Pelicans   ,           50.45 ,Minnesota Timberwolves ,          49.55 ,Minnesota Timberwolves ,New Orleans Pelicans   ,   30 ,False
+Utah Jazz              ,           50.24 ,Atlanta Hawks          ,          49.76 ,Atlanta Hawks          ,Utah Jazz              ,   30 ,False
+Washington Wizards     ,           50.39 ,Houston Rockets        ,          49.61 ,Houston Rockets        ,Washington Wizards     ,   30 ,False
+Phoenix Suns           ,           54.59 ,Charlotte Hornets      ,          45.41 ,Charlotte Hornets      ,Phoenix Suns           ,   30 ,False
+Denver Nuggets         ,           51.48 ,Boston Celtics         ,          48.52 ,Boston Celtics         ,Denver Nuggets         ,   30 ,False
+Golden State Warriors  ,           50.64 ,Miami Heat             ,          49.36 ,Miami Heat             ,Golden State Warriors  ,   30 ,False
+Los Angeles Lakers     ,           50.75 ,Dallas Mavericks       ,          49.25 ,Dallas Mavericks       ,Los Angeles Lakers     ,   30 ,False
+Philadelphia 76ers     ,           50.77 ,Washington Wizards     ,          49.23 ,Philadelphia 76ers     ,Washington Wizards     ,   30 ,True
+Cleveland Cavaliers    ,           53.59 ,Oklahoma City Thunder  ,          46.41 ,Cleveland Cavaliers    ,Oklahoma City Thunder  ,   30 ,True
+Chicago Bulls          ,           50.38 ,Indiana Pacers         ,          49.62 ,Indiana Pacers         ,Chicago Bulls          ,   30 ,False
+Detroit Pistons        ,           50.78 ,Brooklyn Nets          ,          49.22 ,Detroit Pistons        ,Brooklyn Nets          ,   30 ,True
+New York Knicks        ,           50.52 ,Toronto Raptors        ,          49.48 ,New York Knicks        ,Toronto Raptors        ,   30 ,True
+Denver Nuggets         ,           53.49 ,LA Clippers            ,          46.51 ,Denver Nuggets         ,LA Clippers            ,   30 ,True
+Portland Trail Blazers ,           50.11 ,New Orleans Pelicans   ,          49.89 ,Portland Trail Blazers ,New Orleans Pelicans   ,   30 ,True
+Milwaukee Bucks        ,           50.89 ,San Antonio Spurs      ,          49.11 ,Milwaukee Bucks        ,San Antonio Spurs      ,   30 ,True
+Phoenix Suns           ,           52.07 ,Atlanta Hawks          ,          47.93 ,Phoenix Suns           ,Atlanta Hawks          ,   30 ,True
+Cleveland Cavaliers    ,           52.15 ,Toronto Raptors        ,          47.85 ,Cleveland Cavaliers    ,Toronto Raptors        ,   30 ,True
+Portland Trail Blazers ,           50.5  ,Dallas Mavericks       ,          49.5  ,Dallas Mavericks       ,Portland Trail Blazers ,   30 ,False
+Minnesota Timberwolves ,           50.35 ,Orlando Magic          ,          49.65 ,Minnesota Timberwolves ,Orlando Magic          ,   30 ,True
+Utah Jazz              ,           50.67 ,Miami Heat             ,          49.33 ,Miami Heat             ,Utah Jazz              ,   30 ,False
+Detroit Pistons        ,           50.32 ,Golden State Warriors  ,          49.68 ,Golden State Warriors  ,Detroit Pistons        ,   30 ,False
+Memphis Grizzlies      ,           52.4  ,Houston Rockets        ,          47.6  ,Houston Rockets        ,Memphis Grizzlies      ,   30 ,False
+Golden State Warriors  ,           50.33 ,Indiana Pacers         ,          49.67 ,Indiana Pacers         ,Golden State Warriors  ,   30 ,False
+Chicago Bulls          ,           50.58 ,Washington Wizards     ,          49.42 ,Chicago Bulls          ,Washington Wizards     ,   30 ,True
+Sacramento Kings       ,           50.17 ,Boston Celtics         ,          49.83 ,Sacramento Kings       ,Boston Celtics         ,   30 ,True
+Philadelphia 76ers     ,           50.32 ,New Orleans Pelicans   ,          49.68 ,New Orleans Pelicans   ,Philadelphia 76ers     ,   30 ,False
+New York Knicks        ,           51.97 ,Oklahoma City Thunder  ,          48.03 ,Oklahoma City Thunder  ,New York Knicks        ,   30 ,False
+Orlando Magic          ,           50.01 ,Milwaukee Bucks        ,          49.99 ,Milwaukee Bucks        ,Orlando Magic          ,   30 ,False
+Denver Nuggets         ,           52.36 ,Brooklyn Nets          ,          47.64 ,Denver Nuggets         ,Brooklyn Nets          ,   30 ,True
+Portland Trail Blazers ,           50.67 ,Miami Heat             ,          49.33 ,Miami Heat             ,Portland Trail Blazers ,   30 ,False
+Phoenix Suns           ,           51.82 ,Utah Jazz              ,          48.18 ,Phoenix Suns           ,Utah Jazz              ,   30 ,True
+Detroit Pistons        ,           50.74 ,Toronto Raptors        ,          49.26 ,Detroit Pistons        ,Toronto Raptors        ,   30 ,True
+Memphis Grizzlies      ,           52.03 ,Minnesota Timberwolves ,          47.97 ,Memphis Grizzlies      ,Minnesota Timberwolves ,   30 ,True
+Philadelphia 76ers     ,           51.12 ,Orlando Magic          ,          48.88 ,Orlando Magic          ,Philadelphia 76ers     ,   30 ,False
+Phoenix Suns           ,           54.59 ,Charlotte Hornets      ,          45.41 ,Phoenix Suns           ,Charlotte Hornets      ,   30 ,True
+New York Knicks        ,           50.99 ,Milwaukee Bucks        ,          49.01 ,New York Knicks        ,Milwaukee Bucks        ,   30 ,True
+Cleveland Cavaliers    ,           52.06 ,Indiana Pacers         ,          47.94 ,Indiana Pacers         ,Cleveland Cavaliers    ,   30 ,False
+Denver Nuggets         ,           52.37 ,Dallas Mavericks       ,          47.63 ,Denver Nuggets         ,Dallas Mavericks       ,   30 ,True
+Washington Wizards     ,           51.34 ,Oklahoma City Thunder  ,          48.66 ,Oklahoma City Thunder  ,Washington Wizards     ,   30 ,False
+Boston Celtics         ,           50.5  ,New Orleans Pelicans   ,          49.5  ,Boston Celtics         ,New Orleans Pelicans   ,   30 ,True
+Utah Jazz              ,           50.49 ,Brooklyn Nets          ,          49.51 ,Utah Jazz              ,Brooklyn Nets          ,   30 ,True
+Sacramento Kings       ,           50.54 ,Chicago Bulls          ,          49.46 ,Sacramento Kings       ,Chicago Bulls          ,   30 ,True
+Miami Heat             ,           50.96 ,LA Clippers            ,          49.04 ,LA Clippers            ,Miami Heat             ,   30 ,False
+Los Angeles Lakers     ,           52.05 ,San Antonio Spurs      ,          47.95 ,San Antonio Spurs      ,Los Angeles Lakers     ,   30 ,False
+Detroit Pistons        ,           50.22 ,New York Knicks        ,          49.78 ,Detroit Pistons        ,New York Knicks        ,   30 ,True
+Washington Wizards     ,           50.01 ,Minnesota Timberwolves ,          49.99 ,Minnesota Timberwolves ,Washington Wizards     ,   30 ,False
+Golden State Warriors  ,           50.42 ,Toronto Raptors        ,          49.58 ,Toronto Raptors        ,Golden State Warriors  ,   30 ,False
+Memphis Grizzlies      ,           52.4  ,Houston Rockets        ,          47.6  ,Houston Rockets        ,Memphis Grizzlies      ,   30 ,False
+Portland Trail Blazers ,           50.49 ,Brooklyn Nets          ,          49.51 ,Brooklyn Nets          ,Portland Trail Blazers ,   30 ,False
+Denver Nuggets         ,           52.37 ,Dallas Mavericks       ,          47.63 ,Denver Nuggets         ,Dallas Mavericks       ,   30 ,True
+Phoenix Suns           ,           52.07 ,Atlanta Hawks          ,          47.93 ,Atlanta Hawks          ,Phoenix Suns           ,   30 ,False
+Sacramento Kings       ,           51.47 ,Milwaukee Bucks        ,          48.53 ,Milwaukee Bucks        ,Sacramento Kings       ,   30 ,False
+Cleveland Cavaliers    ,           52.06 ,Indiana Pacers         ,          47.94 ,Cleveland Cavaliers    ,Indiana Pacers         ,   30 ,True
+Chicago Bulls          ,           50.13 ,New Orleans Pelicans   ,          49.87 ,New Orleans Pelicans   ,Chicago Bulls          ,   30 ,False
+Philadelphia 76ers     ,           52.11 ,Oklahoma City Thunder  ,          47.89 ,Oklahoma City Thunder  ,Philadelphia 76ers     ,   30 ,False
+New Orleans Pelicans   ,           50.39 ,Dallas Mavericks       ,          49.61 ,New Orleans Pelicans   ,Dallas Mavericks       ,   30 ,True
+Brooklyn Nets          ,           51.14 ,LA Clippers            ,          48.86 ,LA Clippers            ,Brooklyn Nets          ,   30 ,False
+Utah Jazz              ,           52.78 ,Charlotte Hornets      ,          47.22 ,Charlotte Hornets      ,Utah Jazz              ,   30 ,False
+Philadelphia 76ers     ,           50.14 ,New York Knicks        ,          49.86 ,New York Knicks        ,Philadelphia 76ers     ,   30 ,False
+Memphis Grizzlies      ,           53.27 ,San Antonio Spurs      ,          46.73 ,Memphis Grizzlies      ,San Antonio Spurs      ,   30 ,True
+Denver Nuggets         ,           52.81 ,Houston Rockets        ,          47.19 ,Houston Rockets        ,Denver Nuggets         ,   30 ,False
+Orlando Magic          ,           50.01 ,Milwaukee Bucks        ,          49.99 ,Milwaukee Bucks        ,Orlando Magic          ,   30 ,False
+Chicago Bulls          ,           50.26 ,Atlanta Hawks          ,          49.74 ,Atlanta Hawks          ,Chicago Bulls          ,   30 ,False
+Los Angeles Lakers     ,           50.92 ,Miami Heat             ,          49.08 ,Los Angeles Lakers     ,Miami Heat             ,   30 ,True
+Golden State Warriors  ,           50.54 ,Minnesota Timberwolves ,          49.46 ,Golden State Warriors  ,Minnesota Timberwolves ,   30 ,True
+Boston Celtics         ,           50.83 ,Toronto Raptors        ,          49.17 ,Toronto Raptors        ,Boston Celtics         ,   30 ,False
+Phoenix Suns           ,           52.38 ,Washington Wizards     ,          47.62 ,Phoenix Suns           ,Washington Wizards     ,   30 ,True
+Cleveland Cavaliers    ,           53.59 ,Oklahoma City Thunder  ,          46.41 ,Oklahoma City Thunder  ,Cleveland Cavaliers    ,   30 ,False
+Detroit Pistons        ,           50.65 ,Indiana Pacers         ,          49.35 ,Indiana Pacers         ,Detroit Pistons        ,   30 ,False
+Sacramento Kings       ,           51.5  ,Houston Rockets        ,          48.5  ,Sacramento Kings       ,Houston Rockets        ,   30 ,True
+Portland Trail Blazers ,           51.63 ,LA Clippers            ,          48.37 ,LA Clippers            ,Portland Trail Blazers ,   30 ,False
+Memphis Grizzlies      ,           53.27 ,San Antonio Spurs      ,          46.73 ,Memphis Grizzlies      ,San Antonio Spurs      ,   30 ,True
+Utah Jazz              ,           50.11 ,New Orleans Pelicans   ,          49.89 ,New Orleans Pelicans   ,Utah Jazz              ,   30 ,False
+Dallas Mavericks       ,           51.39 ,Oklahoma City Thunder  ,          48.61 ,Dallas Mavericks       ,Oklahoma City Thunder  ,   30 ,True
+Toronto Raptors        ,           50.47 ,Milwaukee Bucks        ,          49.53 ,Milwaukee Bucks        ,Toronto Raptors        ,   30 ,False
+Denver Nuggets         ,           52.54 ,Miami Heat             ,          47.46 ,Denver Nuggets         ,Miami Heat             ,   30 ,True
+Chicago Bulls          ,           52.8  ,Charlotte Hornets      ,          47.2  ,Charlotte Hornets      ,Chicago Bulls          ,   30 ,False
+Los Angeles Lakers     ,           50.74 ,Brooklyn Nets          ,          49.26 ,Los Angeles Lakers     ,Brooklyn Nets          ,   30 ,True
+New York Knicks        ,           50.64 ,Minnesota Timberwolves ,          49.36 ,Minnesota Timberwolves ,New York Knicks        ,   30 ,False
+Boston Celtics         ,           51.29 ,Orlando Magic          ,          48.71 ,Boston Celtics         ,Orlando Magic          ,   30 ,True
+Boston Celtics         ,           50.63 ,Atlanta Hawks          ,          49.37 ,Atlanta Hawks          ,Boston Celtics         ,   30 ,False
+Golden State Warriors  ,           50.53 ,Washington Wizards     ,          49.47 ,Golden State Warriors  ,Washington Wizards     ,   30 ,True
+Cleveland Cavaliers    ,           52.27 ,Minnesota Timberwolves ,          47.73 ,Cleveland Cavaliers    ,Minnesota Timberwolves ,   30 ,True
+Philadelphia 76ers     ,           50.57 ,Indiana Pacers         ,          49.43 ,Indiana Pacers         ,Philadelphia 76ers     ,   30 ,False
+Portland Trail Blazers ,           50.94 ,Houston Rockets        ,          49.06 ,Houston Rockets        ,Portland Trail Blazers ,   30 ,False
+Phoenix Suns           ,           51.53 ,Detroit Pistons        ,          48.47 ,Phoenix Suns           ,Detroit Pistons        ,   30 ,True
+Los Angeles Lakers     ,           51.88 ,LA Clippers            ,          48.12 ,LA Clippers            ,Los Angeles Lakers     ,   30 ,False
+Denver Nuggets         ,           52.78 ,Orlando Magic          ,          47.22 ,Denver Nuggets         ,Orlando Magic          ,   30 ,True
+Brooklyn Nets          ,           51.4  ,Oklahoma City Thunder  ,          48.6  ,Oklahoma City Thunder  ,Brooklyn Nets          ,   30 ,False
+Miami Heat             ,           51.14 ,San Antonio Spurs      ,          48.86 ,Miami Heat             ,San Antonio Spurs      ,   30 ,True
+Sacramento Kings       ,           51.11 ,Washington Wizards     ,          48.89 ,Sacramento Kings       ,Washington Wizards     ,   30 ,True
+Philadelphia 76ers     ,           51.13 ,Milwaukee Bucks        ,          48.87 ,Milwaukee Bucks        ,Philadelphia 76ers     ,   30 ,False
+Chicago Bulls          ,           50.02 ,Portland Trail Blazers ,          49.98 ,Portland Trail Blazers ,Chicago Bulls          ,   30 ,False
+New York Knicks        ,           50.32 ,Atlanta Hawks          ,          49.68 ,New York Knicks        ,Atlanta Hawks          ,   30 ,True
+Boston Celtics         ,           50.41 ,Golden State Warriors  ,          49.59 ,Boston Celtics         ,Golden State Warriors  ,   30 ,True
+Memphis Grizzlies      ,           52.03 ,Minnesota Timberwolves ,          47.97 ,Memphis Grizzlies      ,Minnesota Timberwolves ,   30 ,True
+Detroit Pistons        ,           51.23 ,Houston Rockets        ,          48.77 ,Detroit Pistons        ,Houston Rockets        ,   30 ,True
+Utah Jazz              ,           50.11 ,New Orleans Pelicans   ,          49.89 ,New Orleans Pelicans   ,Utah Jazz              ,   30 ,False
+Phoenix Suns           ,           50.12 ,Cleveland Cavaliers    ,          49.88 ,Cleveland Cavaliers    ,Phoenix Suns           ,   30 ,False
+Dallas Mavericks       ,           52.28 ,Charlotte Hornets      ,          47.72 ,Charlotte Hornets      ,Dallas Mavericks       ,   30 ,False
+Chicago Bulls          ,           51.65 ,LA Clippers            ,          48.35 ,Chicago Bulls          ,LA Clippers            ,   30 ,True
+Denver Nuggets         ,           51.66 ,Philadelphia 76ers     ,          48.34 ,Denver Nuggets         ,Philadelphia 76ers     ,   30 ,True
+New York Knicks        ,           50.56 ,Brooklyn Nets          ,          49.44 ,New York Knicks        ,Brooklyn Nets          ,   30 ,True
+Los Angeles Lakers     ,           50.8  ,Washington Wizards     ,          49.2  ,Los Angeles Lakers     ,Washington Wizards     ,   30 ,True
+Portland Trail Blazers ,           50.67 ,Miami Heat             ,          49.33 ,Portland Trail Blazers ,Miami Heat             ,   30 ,True
+Toronto Raptors        ,           50.47 ,Orlando Magic          ,          49.53 ,Toronto Raptors        ,Orlando Magic          ,   30 ,True
+Dallas Mavericks       ,           50.06 ,Minnesota Timberwolves ,          49.94 ,Minnesota Timberwolves ,Dallas Mavericks       ,   30 ,False
+Cleveland Cavaliers    ,           52.64 ,Houston Rockets        ,          47.36 ,Houston Rockets        ,Cleveland Cavaliers    ,   30 ,False
+Memphis Grizzlies      ,           54.23 ,Charlotte Hornets      ,          45.77 ,Memphis Grizzlies      ,Charlotte Hornets      ,   30 ,True
+Sacramento Kings       ,           50.58 ,Golden State Warriors  ,          49.42 ,Sacramento Kings       ,Golden State Warriors  ,   30 ,True
+Utah Jazz              ,           51.89 ,Oklahoma City Thunder  ,          48.11 ,Oklahoma City Thunder  ,Utah Jazz              ,   30 ,False
+Boston Celtics         ,           52.01 ,LA Clippers            ,          47.99 ,Boston Celtics         ,LA Clippers            ,   30 ,True
+Detroit Pistons        ,           50.54 ,Atlanta Hawks          ,          49.46 ,Detroit Pistons        ,Atlanta Hawks          ,   30 ,True
+Phoenix Suns           ,           52.31 ,Brooklyn Nets          ,          47.69 ,Phoenix Suns           ,Brooklyn Nets          ,   30 ,True
+Portland Trail Blazers ,           50.91 ,Orlando Magic          ,          49.09 ,Portland Trail Blazers ,Orlando Magic          ,   30 ,True
+Boston Celtics         ,           50.14 ,Los Angeles Lakers     ,          49.86 ,Los Angeles Lakers     ,Boston Celtics         ,   30 ,False
+Chicago Bulls          ,           50.05 ,Golden State Warriors  ,          49.95 ,Golden State Warriors  ,Chicago Bulls          ,   30 ,False
+Indiana Pacers         ,           51.45 ,San Antonio Spurs      ,          48.55 ,San Antonio Spurs      ,Indiana Pacers         ,   30 ,False
+Miami Heat             ,           50.25 ,Milwaukee Bucks        ,          49.75 ,Milwaukee Bucks        ,Miami Heat             ,   30 ,False
+Denver Nuggets         ,           51.31 ,Sacramento Kings       ,          48.69 ,Denver Nuggets         ,Sacramento Kings       ,   30 ,True
+Washington Wizards     ,           51.08 ,LA Clippers            ,          48.92 ,LA Clippers            ,Washington Wizards     ,   30 ,False
+Dallas Mavericks       ,           51.39 ,Oklahoma City Thunder  ,          48.61 ,Dallas Mavericks       ,Oklahoma City Thunder  ,   30 ,True
+Atlanta Hawks          ,           50.2  ,Toronto Raptors        ,          49.8  ,Toronto Raptors        ,Atlanta Hawks          ,   30 ,False
+Cleveland Cavaliers    ,           51.49 ,Philadelphia 76ers     ,          48.51 ,Philadelphia 76ers     ,Cleveland Cavaliers    ,   30 ,False
+Portland Trail Blazers ,           52.78 ,Charlotte Hornets      ,          47.22 ,Portland Trail Blazers ,Charlotte Hornets      ,   30 ,True
+Memphis Grizzlies      ,           51.57 ,New Orleans Pelicans   ,          48.43 ,Memphis Grizzlies      ,New Orleans Pelicans   ,   30 ,True
+Detroit Pistons        ,           51.2  ,Orlando Magic          ,          48.8  ,Orlando Magic          ,Detroit Pistons        ,   30 ,False
+Atlanta Hawks          ,           50.2  ,Toronto Raptors        ,          49.8  ,Toronto Raptors        ,Atlanta Hawks          ,   30 ,False
+Philadelphia 76ers     ,           50.19 ,Chicago Bulls          ,          49.81 ,Philadelphia 76ers     ,Chicago Bulls          ,   30 ,True
+Brooklyn Nets          ,           50.18 ,Miami Heat             ,          49.82 ,Miami Heat             ,Brooklyn Nets          ,   30 ,False
+Sacramento Kings       ,           50.48 ,New York Knicks        ,          49.52 ,New York Knicks        ,Sacramento Kings       ,   30 ,False
+Indiana Pacers         ,           51.45 ,San Antonio Spurs      ,          48.55 ,Indiana Pacers         ,San Antonio Spurs      ,   30 ,True
+Boston Celtics         ,           50.89 ,Dallas Mavericks       ,          49.11 ,Boston Celtics         ,Dallas Mavericks       ,   30 ,True
+Memphis Grizzlies      ,           51.46 ,Utah Jazz              ,          48.54 ,Memphis Grizzlies      ,Utah Jazz              ,   30 ,True
+Cleveland Cavaliers    ,           52.64 ,Houston Rockets        ,          47.36 ,Houston Rockets        ,Cleveland Cavaliers    ,   30 ,False
+New Orleans Pelicans   ,           52.67 ,Charlotte Hornets      ,          47.33 ,Charlotte Hornets      ,New Orleans Pelicans   ,   30 ,False
+Milwaukee Bucks        ,           50.71 ,LA Clippers            ,          49.29 ,LA Clippers            ,Milwaukee Bucks        ,   30 ,False
+Phoenix Suns           ,           52.38 ,Washington Wizards     ,          47.62 ,Phoenix Suns           ,Washington Wizards     ,   30 ,True
+Denver Nuggets         ,           52.43 ,Minnesota Timberwolves ,          47.57 ,Minnesota Timberwolves ,Denver Nuggets         ,   30 ,False
+Los Angeles Lakers     ,           50.27 ,Golden State Warriors  ,          49.73 ,Los Angeles Lakers     ,Golden State Warriors  ,   30 ,True
+Portland Trail Blazers ,           51.89 ,Oklahoma City Thunder  ,          48.11 ,Oklahoma City Thunder  ,Portland Trail Blazers ,   30 ,False
+Memphis Grizzlies      ,           51.39 ,New York Knicks        ,          48.61 ,New York Knicks        ,Memphis Grizzlies      ,   30 ,False
+Denver Nuggets         ,           51.85 ,Chicago Bulls          ,          48.15 ,Chicago Bulls          ,Denver Nuggets         ,   30 ,False
+Cleveland Cavaliers    ,           51.41 ,Detroit Pistons        ,          48.59 ,Cleveland Cavaliers    ,Detroit Pistons        ,   30 ,True
+Atlanta Hawks          ,           50.32 ,Minnesota Timberwolves ,          49.68 ,Minnesota Timberwolves ,Atlanta Hawks          ,   30 ,False
+Phoenix Suns           ,           53.45 ,LA Clippers            ,          46.55 ,Phoenix Suns           ,LA Clippers            ,   30 ,True
+Boston Celtics         ,           51.32 ,Houston Rockets        ,          48.68 ,Houston Rockets        ,Boston Celtics         ,   30 ,False
+Miami Heat             ,           50.24 ,Orlando Magic          ,          49.76 ,Miami Heat             ,Orlando Magic          ,   30 ,True
+Los Angeles Lakers     ,           53.02 ,Charlotte Hornets      ,          46.98 ,Los Angeles Lakers     ,Charlotte Hornets      ,   30 ,True
+Utah Jazz              ,           50.92 ,Milwaukee Bucks        ,          49.08 ,Milwaukee Bucks        ,Utah Jazz              ,   30 ,False
+New Orleans Pelicans   ,           50.33 ,Toronto Raptors        ,          49.67 ,Toronto Raptors        ,New Orleans Pelicans   ,   30 ,False
+Sacramento Kings       ,           51.05 ,Brooklyn Nets          ,          48.95 ,Sacramento Kings       ,Brooklyn Nets          ,   30 ,True
+Dallas Mavericks       ,           50.05 ,Washington Wizards     ,          49.95 ,Dallas Mavericks       ,Washington Wizards     ,   30 ,True
+Portland Trail Blazers ,           50.92 ,Milwaukee Bucks        ,          49.08 ,Portland Trail Blazers ,Milwaukee Bucks        ,   30 ,True
+Los Angeles Lakers     ,           50.03 ,Philadelphia 76ers     ,          49.97 ,Philadelphia 76ers     ,Los Angeles Lakers     ,   30 ,False
+Atlanta Hawks          ,           50.7  ,Houston Rockets        ,          49.3  ,Houston Rockets        ,Atlanta Hawks          ,   30 ,False
+Utah Jazz              ,           50.02 ,Golden State Warriors  ,          49.98 ,Golden State Warriors  ,Utah Jazz              ,   30 ,False
+New Orleans Pelicans   ,           50.39 ,Dallas Mavericks       ,          49.61 ,Dallas Mavericks       ,New Orleans Pelicans   ,   30 ,False
+Sacramento Kings       ,           50.35 ,Philadelphia 76ers     ,          49.65 ,Philadelphia 76ers     ,Sacramento Kings       ,   30 ,False
+Denver Nuggets         ,           51.8  ,New York Knicks        ,          48.2  ,New York Knicks        ,Denver Nuggets         ,   30 ,False
+Golden State Warriors  ,           51.87 ,Oklahoma City Thunder  ,          48.13 ,Golden State Warriors  ,Oklahoma City Thunder  ,   30 ,True
+Boston Celtics         ,           50.36 ,Chicago Bulls          ,          49.64 ,Boston Celtics         ,Chicago Bulls          ,   30 ,True
+LA Clippers            ,           50.18 ,San Antonio Spurs      ,          49.82 ,LA Clippers            ,San Antonio Spurs      ,   30 ,True
+Phoenix Suns           ,           52.39 ,Minnesota Timberwolves ,          47.61 ,Minnesota Timberwolves ,Phoenix Suns           ,   30 ,False
+Detroit Pistons        ,           50.65 ,Indiana Pacers         ,          49.35 ,Indiana Pacers         ,Detroit Pistons        ,   30 ,False
+Cleveland Cavaliers    ,           52.37 ,Miami Heat             ,          47.63 ,Cleveland Cavaliers    ,Miami Heat             ,   30 ,True
+Toronto Raptors        ,           50.11 ,Washington Wizards     ,          49.89 ,Toronto Raptors        ,Washington Wizards     ,   30 ,True
+Brooklyn Nets          ,           52.29 ,Charlotte Hornets      ,          47.71 ,Brooklyn Nets          ,Charlotte Hornets      ,   30 ,True
+Los Angeles Lakers     ,           50.8  ,Washington Wizards     ,          49.2  ,Los Angeles Lakers     ,Washington Wizards     ,   30 ,True
+Utah Jazz              ,           50.56 ,Minnesota Timberwolves ,          49.44 ,Minnesota Timberwolves ,Utah Jazz              ,   30 ,False
+Memphis Grizzlies      ,           52.4  ,Houston Rockets        ,          47.6  ,Memphis Grizzlies      ,Houston Rockets        ,   30 ,True
+Cleveland Cavaliers    ,           51.94 ,Atlanta Hawks          ,          48.06 ,Cleveland Cavaliers    ,Atlanta Hawks          ,   30 ,True
+Portland Trail Blazers ,           50.91 ,Orlando Magic          ,          49.09 ,Portland Trail Blazers ,Orlando Magic          ,   30 ,True
+LA Clippers            ,           51.15 ,Charlotte Hornets      ,          48.85 ,LA Clippers            ,Charlotte Hornets      ,   30 ,True
+Detroit Pistons        ,           50.79 ,Dallas Mavericks       ,          49.21 ,Detroit Pistons        ,Dallas Mavericks       ,   30 ,True
+Milwaukee Bucks        ,           50.89 ,San Antonio Spurs      ,          49.11 ,San Antonio Spurs      ,Milwaukee Bucks        ,   30 ,False
+Phoenix Suns           ,           51.85 ,Golden State Warriors  ,          48.15 ,Phoenix Suns           ,Golden State Warriors  ,   30 ,True
+Chicago Bulls          ,           50.47 ,Toronto Raptors        ,          49.53 ,Chicago Bulls          ,Toronto Raptors        ,   30 ,True
+Denver Nuggets         ,           51.66 ,Philadelphia 76ers     ,          48.34 ,Denver Nuggets         ,Philadelphia 76ers     ,   30 ,True
+Boston Celtics         ,           50.5  ,New Orleans Pelicans   ,          49.5  ,Boston Celtics         ,New Orleans Pelicans   ,   30 ,True
+Atlanta Hawks          ,           50.12 ,Indiana Pacers         ,          49.88 ,Indiana Pacers         ,Atlanta Hawks          ,   30 ,False
+Los Angeles Lakers     ,           50.17 ,New York Knicks        ,          49.83 ,Los Angeles Lakers     ,New York Knicks        ,   30 ,True
+Utah Jazz              ,           50.91 ,Orlando Magic          ,          49.09 ,Utah Jazz              ,Orlando Magic          ,   30 ,True
+Washington Wizards     ,           50.01 ,Minnesota Timberwolves ,          49.99 ,Washington Wizards     ,Minnesota Timberwolves ,   30 ,True
+Denver Nuggets         ,           54.64 ,Charlotte Hornets      ,          45.36 ,Denver Nuggets         ,Charlotte Hornets      ,   30 ,True
+Brooklyn Nets          ,           50.45 ,Houston Rockets        ,          49.55 ,Brooklyn Nets          ,Houston Rockets        ,   30 ,True
+Miami Heat             ,           51.14 ,San Antonio Spurs      ,          48.86 ,Miami Heat             ,San Antonio Spurs      ,   30 ,True
+Sacramento Kings       ,           52.45 ,Oklahoma City Thunder  ,          47.55 ,Oklahoma City Thunder  ,Sacramento Kings       ,   30 ,False
+Phoenix Suns           ,           51.82 ,Portland Trail Blazers ,          48.18 ,Portland Trail Blazers ,Phoenix Suns           ,   30 ,False
+Toronto Raptors        ,           51.19 ,LA Clippers            ,          48.81 ,Toronto Raptors        ,LA Clippers            ,   30 ,True
+Boston Celtics         ,           50.17 ,Philadelphia 76ers     ,          49.83 ,Boston Celtics         ,Philadelphia 76ers     ,   30 ,True
+Detroit Pistons        ,           50.27 ,Chicago Bulls          ,          49.73 ,Detroit Pistons        ,Chicago Bulls          ,   30 ,True
+Memphis Grizzlies      ,           52.38 ,Milwaukee Bucks        ,          47.62 ,Memphis Grizzlies      ,Milwaukee Bucks        ,   30 ,True
+Cleveland Cavaliers    ,           52.2  ,Dallas Mavericks       ,          47.8  ,Cleveland Cavaliers    ,Dallas Mavericks       ,   30 ,True
+Sacramento Kings       ,           51.12 ,Minnesota Timberwolves ,          48.88 ,Sacramento Kings       ,Minnesota Timberwolves ,   30 ,True
+Detroit Pistons        ,           50.54 ,Atlanta Hawks          ,          49.46 ,Atlanta Hawks          ,Detroit Pistons        ,   30 ,False
+Memphis Grizzlies      ,           53.27 ,San Antonio Spurs      ,          46.73 ,Memphis Grizzlies      ,San Antonio Spurs      ,   30 ,True
+Utah Jazz              ,           50.36 ,Indiana Pacers         ,          49.64 ,Indiana Pacers         ,Utah Jazz              ,   30 ,False
+Phoenix Suns           ,           51.82 ,Portland Trail Blazers ,          48.18 ,Portland Trail Blazers ,Phoenix Suns           ,   30 ,False
+Milwaukee Bucks        ,           50.98 ,Oklahoma City Thunder  ,          49.02 ,Oklahoma City Thunder  ,Milwaukee Bucks        ,   30 ,False
+Golden State Warriors  ,           50.89 ,Orlando Magic          ,          49.11 ,Golden State Warriors  ,Orlando Magic          ,   30 ,True
+New York Knicks        ,           51.01 ,Houston Rockets        ,          48.99 ,New York Knicks        ,Houston Rockets        ,   30 ,True
+Denver Nuggets         ,           51.98 ,New Orleans Pelicans   ,          48.02 ,Denver Nuggets         ,New Orleans Pelicans   ,   30 ,True
+Washington Wizards     ,           52.23 ,Charlotte Hornets      ,          47.77 ,Washington Wizards     ,Charlotte Hornets      ,   30 ,True
+Los Angeles Lakers     ,           51.88 ,LA Clippers            ,          48.12 ,Los Angeles Lakers     ,LA Clippers            ,   30 ,True
+Portland Trail Blazers ,           50.36 ,Indiana Pacers         ,          49.64 ,Portland Trail Blazers ,Indiana Pacers         ,   30 ,True
+Brooklyn Nets          ,           50.45 ,Houston Rockets        ,          49.55 ,Brooklyn Nets          ,Houston Rockets        ,   30 ,True
+New York Knicks        ,           50.52 ,Toronto Raptors        ,          49.48 ,New York Knicks        ,Toronto Raptors        ,   30 ,True
+Chicago Bulls          ,           50.69 ,Miami Heat             ,          49.31 ,Chicago Bulls          ,Miami Heat             ,   30 ,True
+Philadelphia 76ers     ,           50.71 ,Dallas Mavericks       ,          49.29 ,Philadelphia 76ers     ,Dallas Mavericks       ,   30 ,True
+Cleveland Cavaliers    ,           51.32 ,Boston Celtics         ,          48.68 ,Boston Celtics         ,Cleveland Cavaliers    ,   30 ,False
+Cleveland Cavaliers    ,           51.41 ,Detroit Pistons        ,          48.59 ,Cleveland Cavaliers    ,Detroit Pistons        ,   30 ,True
+Phoenix Suns           ,           53.71 ,Oklahoma City Thunder  ,          46.29 ,Oklahoma City Thunder  ,Phoenix Suns           ,   30 ,False
+Denver Nuggets         ,           51.98 ,New Orleans Pelicans   ,          48.02 ,Denver Nuggets         ,New Orleans Pelicans   ,   30 ,True
+Milwaukee Bucks        ,           51.86 ,Charlotte Hornets      ,          48.14 ,Milwaukee Bucks        ,Charlotte Hornets      ,   30 ,True
+Brooklyn Nets          ,           50.06 ,Washington Wizards     ,          49.94 ,Washington Wizards     ,Brooklyn Nets          ,   30 ,False
+Atlanta Hawks          ,           51.57 ,San Antonio Spurs      ,          48.43 ,San Antonio Spurs      ,Atlanta Hawks          ,   30 ,False
+Utah Jazz              ,           50.02 ,Golden State Warriors  ,          49.98 ,Utah Jazz              ,Golden State Warriors  ,   30 ,True
+Chicago Bulls          ,           50.59 ,Minnesota Timberwolves ,          49.41 ,Minnesota Timberwolves ,Chicago Bulls          ,   30 ,False
+Sacramento Kings       ,           51.47 ,Orlando Magic          ,          48.53 ,Orlando Magic          ,Sacramento Kings       ,   30 ,False
+Memphis Grizzlies      ,           51.9  ,Toronto Raptors        ,          48.1  ,Memphis Grizzlies      ,Toronto Raptors        ,   30 ,True
+Philadelphia 76ers     ,           50.88 ,Miami Heat             ,          49.12 ,Miami Heat             ,Philadelphia 76ers     ,   30 ,False
+Boston Celtics         ,           50.89 ,Dallas Mavericks       ,          49.11 ,Dallas Mavericks       ,Boston Celtics         ,   30 ,False
+Minnesota Timberwolves ,           50.37 ,Houston Rockets        ,          49.63 ,Minnesota Timberwolves ,Houston Rockets        ,   30 ,True
+Los Angeles Lakers     ,           50.27 ,Golden State Warriors  ,          49.73 ,Los Angeles Lakers     ,Golden State Warriors  ,   30 ,True
+Indiana Pacers         ,           51.27 ,LA Clippers            ,          48.73 ,Indiana Pacers         ,LA Clippers            ,   30 ,True
+Sacramento Kings       ,           50.56 ,Portland Trail Blazers ,          49.44 ,Portland Trail Blazers ,Sacramento Kings       ,   30 ,False
+Denver Nuggets         ,           52.78 ,Orlando Magic          ,          47.22 ,Denver Nuggets         ,Orlando Magic          ,   30 ,True
+Brooklyn Nets          ,           50.18 ,Miami Heat             ,          49.82 ,Brooklyn Nets          ,Miami Heat             ,   30 ,True
+Atlanta Hawks          ,           50.67 ,Milwaukee Bucks        ,          49.33 ,Atlanta Hawks          ,Milwaukee Bucks        ,   30 ,True
+Phoenix Suns           ,           51.82 ,Utah Jazz              ,          48.18 ,Phoenix Suns           ,Utah Jazz              ,   30 ,True
+Toronto Raptors        ,           51.45 ,Oklahoma City Thunder  ,          48.55 ,Oklahoma City Thunder  ,Toronto Raptors        ,   30 ,False
+San Antonio Spurs      ,           50.97 ,Charlotte Hornets      ,          49.03 ,Charlotte Hornets      ,San Antonio Spurs      ,   30 ,False
+Detroit Pistons        ,           50.08 ,Philadelphia 76ers     ,          49.92 ,Detroit Pistons        ,Philadelphia 76ers     ,   30 ,True
+Cleveland Cavaliers    ,           52.26 ,Washington Wizards     ,          47.74 ,Cleveland Cavaliers    ,Washington Wizards     ,   30 ,True
+Memphis Grizzlies      ,           53.35 ,Oklahoma City Thunder  ,          46.65 ,Oklahoma City Thunder  ,Memphis Grizzlies      ,   30 ,False
+Dallas Mavericks       ,           50.44 ,Houston Rockets        ,          49.56 ,Dallas Mavericks       ,Houston Rockets        ,   30 ,True
+Orlando Magic          ,           50.9  ,San Antonio Spurs      ,          49.1  ,Orlando Magic          ,San Antonio Spurs      ,   30 ,True
+Utah Jazz              ,           51.63 ,LA Clippers            ,          48.37 ,LA Clippers            ,Utah Jazz              ,   30 ,False
+Boston Celtics         ,           50.31 ,New York Knicks        ,          49.69 ,Boston Celtics         ,New York Knicks        ,   30 ,True
+Chicago Bulls          ,           50.05 ,Golden State Warriors  ,          49.95 ,Golden State Warriors  ,Chicago Bulls          ,   30 ,False
+Sacramento Kings       ,           50.67 ,New Orleans Pelicans   ,          49.33 ,Sacramento Kings       ,New Orleans Pelicans   ,   30 ,True
+Denver Nuggets         ,           50.05 ,Phoenix Suns           ,          49.95 ,Denver Nuggets         ,Phoenix Suns           ,   30 ,True
+Atlanta Hawks          ,           50.31 ,Washington Wizards     ,          49.69 ,Atlanta Hawks          ,Washington Wizards     ,   30 ,True
+Los Angeles Lakers     ,           50.6  ,Indiana Pacers         ,          49.4  ,Los Angeles Lakers     ,Indiana Pacers         ,   30 ,True
+Portland Trail Blazers ,           50.56 ,Minnesota Timberwolves ,          49.44 ,Minnesota Timberwolves ,Portland Trail Blazers ,   30 ,False
+Philadelphia 76ers     ,           51.13 ,Milwaukee Bucks        ,          48.87 ,Milwaukee Bucks        ,Philadelphia 76ers     ,   30 ,False
+Detroit Pistons        ,           53.07 ,Charlotte Hornets      ,          46.93 ,Detroit Pistons        ,Charlotte Hornets      ,   30 ,True
+Toronto Raptors        ,           50.5  ,Houston Rockets        ,          49.5  ,Houston Rockets        ,Toronto Raptors        ,   30 ,False
+Denver Nuggets         ,           51.87 ,Portland Trail Blazers ,          48.13 ,Denver Nuggets         ,Portland Trail Blazers ,   30 ,True
+Los Angeles Lakers     ,           50.25 ,Utah Jazz              ,          49.75 ,Los Angeles Lakers     ,Utah Jazz              ,   30 ,True
+Golden State Warriors  ,           50.89 ,Milwaukee Bucks        ,          49.11 ,Golden State Warriors  ,Milwaukee Bucks        ,   30 ,True
+Sacramento Kings       ,           51.06 ,Dallas Mavericks       ,          48.94 ,Sacramento Kings       ,Dallas Mavericks       ,   30 ,True
+Atlanta Hawks          ,           50.67 ,Orlando Magic          ,          49.33 ,Atlanta Hawks          ,Orlando Magic          ,   30 ,True
+Brooklyn Nets          ,           52.29 ,Charlotte Hornets      ,          47.71 ,Brooklyn Nets          ,Charlotte Hornets      ,   30 ,True
+New Orleans Pelicans   ,           51.78 ,Oklahoma City Thunder  ,          48.22 ,Oklahoma City Thunder  ,New Orleans Pelicans   ,   30 ,False
+Washington Wizards     ,           51.25 ,San Antonio Spurs      ,          48.75 ,San Antonio Spurs      ,Washington Wizards     ,   30 ,False
+Boston Celtics         ,           51.05 ,Miami Heat             ,          48.95 ,Boston Celtics         ,Miami Heat             ,   30 ,True
+Cleveland Cavaliers    ,           52.27 ,Minnesota Timberwolves ,          47.73 ,Cleveland Cavaliers    ,Minnesota Timberwolves ,   30 ,True
+Philadelphia 76ers     ,           50.66 ,Toronto Raptors        ,          49.34 ,Toronto Raptors        ,Philadelphia 76ers     ,   30 ,False
+Phoenix Suns           ,           50.36 ,Memphis Grizzlies      ,          49.64 ,Memphis Grizzlies      ,Phoenix Suns           ,   30 ,False
+Detroit Pistons        ,           50.27 ,Chicago Bulls          ,          49.73 ,Detroit Pistons        ,Chicago Bulls          ,   30 ,True
+New York Knicks        ,           50.43 ,Indiana Pacers         ,          49.57 ,New York Knicks        ,Indiana Pacers         ,   30 ,True
+New York Knicks        ,           50.32 ,Atlanta Hawks          ,          49.68 ,New York Knicks        ,Atlanta Hawks          ,   30 ,True
+Cleveland Cavaliers    ,           52.15 ,Toronto Raptors        ,          47.85 ,Cleveland Cavaliers    ,Toronto Raptors        ,   30 ,True
+Indiana Pacers         ,           50.2  ,Washington Wizards     ,          49.8  ,Indiana Pacers         ,Washington Wizards     ,   30 ,True
+Phoenix Suns           ,           52.76 ,Houston Rockets        ,          47.24 ,Houston Rockets        ,Phoenix Suns           ,   30 ,False
+Denver Nuggets         ,           51.87 ,Portland Trail Blazers ,          48.13 ,Denver Nuggets         ,Portland Trail Blazers ,   30 ,True
+Philadelphia 76ers     ,           50.7  ,Brooklyn Nets          ,          49.3  ,Brooklyn Nets          ,Philadelphia 76ers     ,   30 ,False
+Orlando Magic          ,           51.87 ,Charlotte Hornets      ,          48.13 ,Orlando Magic          ,Charlotte Hornets      ,   30 ,True
+Miami Heat             ,           51.23 ,Oklahoma City Thunder  ,          48.77 ,Oklahoma City Thunder  ,Miami Heat             ,   30 ,False
+Golden State Warriors  ,           50.48 ,Dallas Mavericks       ,          49.52 ,Dallas Mavericks       ,Golden State Warriors  ,   30 ,False
+Memphis Grizzlies      ,           53.09 ,LA Clippers            ,          46.91 ,LA Clippers            ,Memphis Grizzlies      ,   30 ,False
+Detroit Pistons        ,           50.27 ,Chicago Bulls          ,          49.73 ,Detroit Pistons        ,Chicago Bulls          ,   30 ,True
+Boston Celtics         ,           52.19 ,San Antonio Spurs      ,          47.81 ,Boston Celtics         ,San Antonio Spurs      ,   30 ,True
+Sacramento Kings       ,           50.67 ,New Orleans Pelicans   ,          49.33 ,Sacramento Kings       ,New Orleans Pelicans   ,   30 ,True
+Los Angeles Lakers     ,           50.25 ,Utah Jazz              ,          49.75 ,Utah Jazz              ,Los Angeles Lakers     ,   30 ,False
+Minnesota Timberwolves ,           50.35 ,Milwaukee Bucks        ,          49.65 ,Milwaukee Bucks        ,Minnesota Timberwolves ,   30 ,False
+Golden State Warriors  ,           50.92 ,Houston Rockets        ,          49.08 ,Golden State Warriors  ,Houston Rockets        ,   30 ,True
+Utah Jazz              ,           51.63 ,LA Clippers            ,          48.37 ,LA Clippers            ,Utah Jazz              ,   30 ,False
+Dallas Mavericks       ,           50.17 ,Miami Heat             ,          49.83 ,Dallas Mavericks       ,Miami Heat             ,   30 ,True
+Sacramento Kings       ,           50.67 ,New Orleans Pelicans   ,          49.33 ,New Orleans Pelicans   ,Sacramento Kings       ,   30 ,False
+Minnesota Timberwolves ,           51.33 ,Oklahoma City Thunder  ,          48.67 ,Minnesota Timberwolves ,Oklahoma City Thunder  ,   30 ,True
+Los Angeles Lakers     ,           53.02 ,Charlotte Hornets      ,          46.98 ,Charlotte Hornets      ,Los Angeles Lakers     ,   30 ,False
+Milwaukee Bucks        ,           50.71 ,LA Clippers            ,          49.29 ,Milwaukee Bucks        ,LA Clippers            ,   30 ,True
+Atlanta Hawks          ,           50.67 ,Orlando Magic          ,          49.33 ,Orlando Magic          ,Atlanta Hawks          ,   30 ,False
+Cleveland Cavaliers    ,           52.19 ,Brooklyn Nets          ,          47.81 ,Cleveland Cavaliers    ,Brooklyn Nets          ,   30 ,True
+New York Knicks        ,           50.05 ,Chicago Bulls          ,          49.95 ,New York Knicks        ,Chicago Bulls          ,   30 ,True
+Phoenix Suns           ,           53.63 ,San Antonio Spurs      ,          46.37 ,San Antonio Spurs      ,Phoenix Suns           ,   30 ,False
+Memphis Grizzlies      ,           51.82 ,Indiana Pacers         ,          48.18 ,Indiana Pacers         ,Memphis Grizzlies      ,   30 ,False
+Boston Celtics         ,           50.17 ,Philadelphia 76ers     ,          49.83 ,Boston Celtics         ,Philadelphia 76ers     ,   30 ,True
+Denver Nuggets         ,           54.64 ,Charlotte Hornets      ,          45.36 ,Denver Nuggets         ,Charlotte Hornets      ,   30 ,True
+Los Angeles Lakers     ,           50.25 ,Portland Trail Blazers ,          49.75 ,Los Angeles Lakers     ,Portland Trail Blazers ,   30 ,True
+Utah Jazz              ,           51.89 ,Oklahoma City Thunder  ,          48.11 ,Oklahoma City Thunder  ,Utah Jazz              ,   30 ,False
+Cleveland Cavaliers    ,           51.63 ,New York Knicks        ,          48.37 ,Cleveland Cavaliers    ,New York Knicks        ,   30 ,True
+New Orleans Pelicans   ,           50.39 ,Dallas Mavericks       ,          49.61 ,Dallas Mavericks       ,New Orleans Pelicans   ,   30 ,False
+Sacramento Kings       ,           50.58 ,Golden State Warriors  ,          49.42 ,Golden State Warriors  ,Sacramento Kings       ,   30 ,False
+Detroit Pistons        ,           52.1  ,San Antonio Spurs      ,          47.9  ,Detroit Pistons        ,San Antonio Spurs      ,   30 ,True
+Toronto Raptors        ,           50.22 ,Miami Heat             ,          49.78 ,Miami Heat             ,Toronto Raptors        ,   30 ,False
+Minnesota Timberwolves ,           50.37 ,Houston Rockets        ,          49.63 ,Houston Rockets        ,Minnesota Timberwolves ,   30 ,False
+Washington Wizards     ,           50.36 ,Milwaukee Bucks        ,          49.64 ,Milwaukee Bucks        ,Washington Wizards     ,   30 ,False
+Memphis Grizzlies      ,           52.37 ,Orlando Magic          ,          47.63 ,Memphis Grizzlies      ,Orlando Magic          ,   30 ,True
+Utah Jazz              ,           50.94 ,Houston Rockets        ,          49.06 ,Utah Jazz              ,Houston Rockets        ,   30 ,True
+Portland Trail Blazers ,           52.78 ,Charlotte Hornets      ,          47.22 ,Portland Trail Blazers ,Charlotte Hornets      ,   30 ,True
+Phoenix Suns           ,           51.8  ,Chicago Bulls          ,          48.2  ,Phoenix Suns           ,Chicago Bulls          ,   30 ,True
+Philadelphia 76ers     ,           50.7  ,Brooklyn Nets          ,          49.3  ,Brooklyn Nets          ,Philadelphia 76ers     ,   30 ,False
+Denver Nuggets         ,           51.62 ,Los Angeles Lakers     ,          48.38 ,Los Angeles Lakers     ,Denver Nuggets         ,   30 ,False
+Minnesota Timberwolves ,           51.33 ,Oklahoma City Thunder  ,          48.67 ,Oklahoma City Thunder  ,Minnesota Timberwolves ,   30 ,False
+Indiana Pacers         ,           51.27 ,LA Clippers            ,          48.73 ,Indiana Pacers         ,LA Clippers            ,   30 ,True
+Cleveland Cavaliers    ,           50.24 ,Memphis Grizzlies      ,          49.76 ,Cleveland Cavaliers    ,Memphis Grizzlies      ,   30 ,True
+Golden State Warriors  ,           50.48 ,Dallas Mavericks       ,          49.52 ,Golden State Warriors  ,Dallas Mavericks       ,   30 ,True
+Phoenix Suns           ,           52.27 ,Toronto Raptors        ,          47.73 ,Toronto Raptors        ,Phoenix Suns           ,   30 ,False
+Boston Celtics         ,           50.31 ,New York Knicks        ,          49.69 ,Boston Celtics         ,New York Knicks        ,   30 ,True
+Washington Wizards     ,           50.36 ,Orlando Magic          ,          49.64 ,Orlando Magic          ,Washington Wizards     ,   30 ,False
+New Orleans Pelicans   ,           51.7  ,San Antonio Spurs      ,          48.3  ,New Orleans Pelicans   ,San Antonio Spurs      ,   30 ,True
+Miami Heat             ,           50.25 ,Milwaukee Bucks        ,          49.75 ,Milwaukee Bucks        ,Miami Heat             ,   30 ,False
+Detroit Pistons        ,           50.54 ,Atlanta Hawks          ,          49.46 ,Detroit Pistons        ,Atlanta Hawks          ,   30 ,True
+Brooklyn Nets          ,           50.06 ,Washington Wizards     ,          49.94 ,Washington Wizards     ,Brooklyn Nets          ,   30 ,False
+Detroit Pistons        ,           51.92 ,LA Clippers            ,          48.08 ,Detroit Pistons        ,LA Clippers            ,   30 ,True
+Sacramento Kings       ,           53.33 ,Charlotte Hornets      ,          46.67 ,Sacramento Kings       ,Charlotte Hornets      ,   30 ,True
+Atlanta Hawks          ,           50.43 ,Miami Heat             ,          49.57 ,Atlanta Hawks          ,Miami Heat             ,   30 ,True
+Portland Trail Blazers ,           50.0  ,Utah Jazz              ,          50.0  ,Portland Trail Blazers ,Utah Jazz              ,   30 ,True
+Philadelphia 76ers     ,           50.19 ,Chicago Bulls          ,          49.81 ,Chicago Bulls          ,Philadelphia 76ers     ,   30 ,False
+Minnesota Timberwolves ,           51.33 ,Oklahoma City Thunder  ,          48.67 ,Minnesota Timberwolves ,Oklahoma City Thunder  ,   30 ,True
+Denver Nuggets         ,           52.23 ,Indiana Pacers         ,          47.77 ,Denver Nuggets         ,Indiana Pacers         ,   30 ,True
+Cleveland Cavaliers    ,           52.61 ,Orlando Magic          ,          47.39 ,Cleveland Cavaliers    ,Orlando Magic          ,   30 ,True
+Los Angeles Lakers     ,           50.75 ,Dallas Mavericks       ,          49.25 ,Los Angeles Lakers     ,Dallas Mavericks       ,   30 ,True
+Milwaukee Bucks        ,           50.02 ,Houston Rockets        ,          49.98 ,Houston Rockets        ,Milwaukee Bucks        ,   30 ,False
+Golden State Warriors  ,           52.75 ,Charlotte Hornets      ,          47.25 ,Golden State Warriors  ,Charlotte Hornets      ,   30 ,True
+New Orleans Pelicans   ,           51.7  ,San Antonio Spurs      ,          48.3  ,New Orleans Pelicans   ,San Antonio Spurs      ,   30 ,True
+Phoenix Suns           ,           50.36 ,Memphis Grizzlies      ,          49.64 ,Memphis Grizzlies      ,Phoenix Suns           ,   30 ,False
+Boston Celtics         ,           50.83 ,Toronto Raptors        ,          49.17 ,Boston Celtics         ,Toronto Raptors        ,   30 ,True
+Houston Rockets        ,           50.87 ,San Antonio Spurs      ,          49.13 ,Houston Rockets        ,San Antonio Spurs      ,   30 ,True
+Portland Trail Blazers ,           50.55 ,Washington Wizards     ,          49.45 ,Portland Trail Blazers ,Washington Wizards     ,   30 ,True
+Chicago Bulls          ,           51.65 ,LA Clippers            ,          48.35 ,LA Clippers            ,Chicago Bulls          ,   30 ,False
+Indiana Pacers         ,           50.09 ,Toronto Raptors        ,          49.91 ,Indiana Pacers         ,Toronto Raptors        ,   30 ,True
+Boston Celtics         ,           50.09 ,Detroit Pistons        ,          49.91 ,Detroit Pistons        ,Boston Celtics         ,   30 ,False
+Sacramento Kings       ,           50.56 ,Utah Jazz              ,          49.44 ,Sacramento Kings       ,Utah Jazz              ,   30 ,True
+Brooklyn Nets          ,           51.4  ,Oklahoma City Thunder  ,          48.6  ,Oklahoma City Thunder  ,Brooklyn Nets          ,   30 ,False
+Atlanta Hawks          ,           50.43 ,Miami Heat             ,          49.57 ,Miami Heat             ,Atlanta Hawks          ,   30 ,False
+Philadelphia 76ers     ,           50.14 ,New York Knicks        ,          49.86 ,New York Knicks        ,Philadelphia 76ers     ,   30 ,False
+Golden State Warriors  ,           50.89 ,Orlando Magic          ,          49.11 ,Golden State Warriors  ,Orlando Magic          ,   30 ,True
+Phoenix Suns           ,           51.93 ,New Orleans Pelicans   ,          48.07 ,New Orleans Pelicans   ,Phoenix Suns           ,   30 ,False
+Denver Nuggets         ,           52.78 ,Milwaukee Bucks        ,          47.22 ,Milwaukee Bucks        ,Denver Nuggets         ,   30 ,False
+Dallas Mavericks       ,           52.28 ,Charlotte Hornets      ,          47.72 ,Dallas Mavericks       ,Charlotte Hornets      ,   30 ,True
+Los Angeles Lakers     ,           50.81 ,Minnesota Timberwolves ,          49.19 ,Los Angeles Lakers     ,Minnesota Timberwolves ,   30 ,True
+Los Angeles Lakers     ,           51.88 ,LA Clippers            ,          48.12 ,Los Angeles Lakers     ,LA Clippers            ,   30 ,True
+Cleveland Cavaliers    ,           51.32 ,Boston Celtics         ,          48.68 ,Cleveland Cavaliers    ,Boston Celtics         ,   30 ,True
+Atlanta Hawks          ,           51.65 ,Oklahoma City Thunder  ,          48.35 ,Oklahoma City Thunder  ,Atlanta Hawks          ,   30 ,False
+Phoenix Suns           ,           51.93 ,New Orleans Pelicans   ,          48.07 ,Phoenix Suns           ,New Orleans Pelicans   ,   30 ,True
+Portland Trail Blazers ,           50.49 ,Brooklyn Nets          ,          49.51 ,Portland Trail Blazers ,Brooklyn Nets          ,   30 ,True
+Chicago Bulls          ,           50.47 ,Toronto Raptors        ,          49.53 ,Chicago Bulls          ,Toronto Raptors        ,   30 ,True
+Utah Jazz              ,           50.56 ,Minnesota Timberwolves ,          49.44 ,Utah Jazz              ,Minnesota Timberwolves ,   30 ,True
+Indiana Pacers         ,           50.31 ,Miami Heat             ,          49.69 ,Miami Heat             ,Indiana Pacers         ,   30 ,False
+Denver Nuggets         ,           51.58 ,Detroit Pistons        ,          48.42 ,Denver Nuggets         ,Detroit Pistons        ,   30 ,True
+Memphis Grizzlies      ,           51.39 ,New York Knicks        ,          48.61 ,New York Knicks        ,Memphis Grizzlies      ,   30 ,False
+Philadelphia 76ers     ,           50.24 ,Golden State Warriors  ,          49.76 ,Philadelphia 76ers     ,Golden State Warriors  ,   30 ,True
+Dallas Mavericks       ,           50.41 ,Milwaukee Bucks        ,          49.59 ,Milwaukee Bucks        ,Dallas Mavericks       ,   30 ,False
+Detroit Pistons        ,           50.78 ,Brooklyn Nets          ,          49.22 ,Detroit Pistons        ,Brooklyn Nets          ,   30 ,True
+Washington Wizards     ,           52.23 ,Charlotte Hornets      ,          47.77 ,Washington Wizards     ,Charlotte Hornets      ,   30 ,True
+Sacramento Kings       ,           51.5  ,Houston Rockets        ,          48.5  ,Sacramento Kings       ,Houston Rockets        ,   30 ,True
+Memphis Grizzlies      ,           53.27 ,San Antonio Spurs      ,          46.73 ,San Antonio Spurs      ,Memphis Grizzlies      ,   30 ,False
+Cleveland Cavaliers    ,           51.7  ,Portland Trail Blazers ,          48.3  ,Cleveland Cavaliers    ,Portland Trail Blazers ,   30 ,True
+Los Angeles Lakers     ,           51.88 ,LA Clippers            ,          48.12 ,Los Angeles Lakers     ,LA Clippers            ,   30 ,True
+San Antonio Spurs      ,           50.09 ,Oklahoma City Thunder  ,          49.91 ,Oklahoma City Thunder  ,San Antonio Spurs      ,   30 ,False
+Chicago Bulls          ,           50.38 ,Indiana Pacers         ,          49.62 ,Indiana Pacers         ,Chicago Bulls          ,   30 ,False
+New York Knicks        ,           50.74 ,Miami Heat             ,          49.26 ,New York Knicks        ,Miami Heat             ,   30 ,True
+Phoenix Suns           ,           52.39 ,Minnesota Timberwolves ,          47.61 ,Minnesota Timberwolves ,Phoenix Suns           ,   30 ,False
+Utah Jazz              ,           50.11 ,New Orleans Pelicans   ,          49.89 ,New Orleans Pelicans   ,Utah Jazz              ,   30 ,False
+Toronto Raptors        ,           50.47 ,Orlando Magic          ,          49.53 ,Toronto Raptors        ,Orlando Magic          ,   30 ,True
+Denver Nuggets         ,           51.48 ,Boston Celtics         ,          48.52 ,Boston Celtics         ,Denver Nuggets         ,   30 ,False
+Memphis Grizzlies      ,           51.7  ,Atlanta Hawks          ,          48.3  ,Atlanta Hawks          ,Memphis Grizzlies      ,   30 ,False
+Washington Wizards     ,           50.12 ,Miami Heat             ,          49.88 ,Miami Heat             ,Washington Wizards     ,   30 ,False
+Golden State Warriors  ,           52.75 ,Charlotte Hornets      ,          47.25 ,Golden State Warriors  ,Charlotte Hornets      ,   30 ,True
+Detroit Pistons        ,           50.29 ,Utah Jazz              ,          49.71 ,Detroit Pistons        ,Utah Jazz              ,   30 ,True
+Philadelphia 76ers     ,           50.21 ,Portland Trail Blazers ,          49.79 ,Portland Trail Blazers ,Philadelphia 76ers     ,   30 ,False
+Sacramento Kings       ,           51.06 ,Dallas Mavericks       ,          48.94 ,Sacramento Kings       ,Dallas Mavericks       ,   30 ,True
+Houston Rockets        ,           50.96 ,Oklahoma City Thunder  ,          49.04 ,Oklahoma City Thunder  ,Houston Rockets        ,   30 ,False
+Brooklyn Nets          ,           51.32 ,San Antonio Spurs      ,          48.68 ,San Antonio Spurs      ,Brooklyn Nets          ,   30 ,False
+Atlanta Hawks          ,           50.67 ,Milwaukee Bucks        ,          49.33 ,Milwaukee Bucks        ,Atlanta Hawks          ,   30 ,False
+Los Angeles Lakers     ,           50.36 ,New Orleans Pelicans   ,          49.64 ,Los Angeles Lakers     ,New Orleans Pelicans   ,   30 ,True
+Indiana Pacers         ,           50.58 ,Houston Rockets        ,          49.42 ,Indiana Pacers         ,Houston Rockets        ,   30 ,True
+Phoenix Suns           ,           53.45 ,LA Clippers            ,          46.55 ,Phoenix Suns           ,LA Clippers            ,   30 ,True
+Cleveland Cavaliers    ,           51.68 ,Chicago Bulls          ,          48.32 ,Cleveland Cavaliers    ,Chicago Bulls          ,   30 ,True
+Toronto Raptors        ,           50.47 ,Orlando Magic          ,          49.53 ,Toronto Raptors        ,Orlando Magic          ,   30 ,True
+Philadelphia 76ers     ,           50.78 ,Minnesota Timberwolves ,          49.22 ,Minnesota Timberwolves ,Philadelphia 76ers     ,   30 ,False
+New York Knicks        ,           50.1  ,Golden State Warriors  ,          49.9  ,Golden State Warriors  ,New York Knicks        ,   30 ,False
+Memphis Grizzlies      ,           53.35 ,Oklahoma City Thunder  ,          46.65 ,Oklahoma City Thunder  ,Memphis Grizzlies      ,   30 ,False
+Cleveland Cavaliers    ,           52.37 ,Miami Heat             ,          47.63 ,Cleveland Cavaliers    ,Miami Heat             ,   30 ,True
+Detroit Pistons        ,           51.92 ,LA Clippers            ,          48.08 ,LA Clippers            ,Detroit Pistons        ,   30 ,False
+Utah Jazz              ,           50.55 ,Washington Wizards     ,          49.45 ,Washington Wizards     ,Utah Jazz              ,   30 ,False
+Denver Nuggets         ,           51.31 ,Sacramento Kings       ,          48.69 ,Denver Nuggets         ,Sacramento Kings       ,   30 ,True
+Dallas Mavericks       ,           50.41 ,Milwaukee Bucks        ,          49.59 ,Milwaukee Bucks        ,Dallas Mavericks       ,   30 ,False
+Boston Celtics         ,           50.39 ,Portland Trail Blazers ,          49.61 ,Boston Celtics         ,Portland Trail Blazers ,   30 ,True
+Minnesota Timberwolves ,           52.21 ,Charlotte Hornets      ,          47.79 ,Minnesota Timberwolves ,Charlotte Hornets      ,   30 ,True
+Atlanta Hawks          ,           50.12 ,Indiana Pacers         ,          49.88 ,Atlanta Hawks          ,Indiana Pacers         ,   30 ,True
+Los Angeles Lakers     ,           50.17 ,New York Knicks        ,          49.83 ,Los Angeles Lakers     ,New York Knicks        ,   30 ,True
+Golden State Warriors  ,           50.47 ,Brooklyn Nets          ,          49.53 ,Golden State Warriors  ,Brooklyn Nets          ,   30 ,True
+Boston Celtics         ,           50.17 ,Philadelphia 76ers     ,          49.83 ,Boston Celtics         ,Philadelphia 76ers     ,   30 ,True
+Chicago Bulls          ,           50.93 ,Orlando Magic          ,          49.07 ,Chicago Bulls          ,Orlando Magic          ,   30 ,True
+New Orleans Pelicans   ,           50.83 ,Houston Rockets        ,          49.17 ,Houston Rockets        ,New Orleans Pelicans   ,   30 ,False
+Denver Nuggets         ,           50.05 ,Phoenix Suns           ,          49.95 ,Denver Nuggets         ,Phoenix Suns           ,   30 ,True
+Memphis Grizzlies      ,           51.96 ,Dallas Mavericks       ,          48.04 ,Memphis Grizzlies      ,Dallas Mavericks       ,   30 ,True
+Cleveland Cavaliers    ,           54.47 ,Charlotte Hornets      ,          45.53 ,Cleveland Cavaliers    ,Charlotte Hornets      ,   30 ,True
+Sacramento Kings       ,           52.36 ,San Antonio Spurs      ,          47.64 ,Sacramento Kings       ,San Antonio Spurs      ,   30 ,True
+New York Knicks        ,           51.7  ,LA Clippers            ,          48.3  ,LA Clippers            ,New York Knicks        ,   30 ,False
+Minnesota Timberwolves ,           50.1  ,Miami Heat             ,          49.9  ,Minnesota Timberwolves ,Miami Heat             ,   30 ,True
+Utah Jazz              ,           50.44 ,Toronto Raptors        ,          49.56 ,Toronto Raptors        ,Utah Jazz              ,   30 ,False
+Portland Trail Blazers ,           51.89 ,Oklahoma City Thunder  ,          48.11 ,Oklahoma City Thunder  ,Portland Trail Blazers ,   30 ,False
+Brooklyn Nets          ,           52.29 ,Charlotte Hornets      ,          47.71 ,Charlotte Hornets      ,Brooklyn Nets          ,   30 ,False
+Boston Celtics         ,           50.14 ,Los Angeles Lakers     ,          49.86 ,Boston Celtics         ,Los Angeles Lakers     ,   30 ,True
+Orlando Magic          ,           50.01 ,Milwaukee Bucks        ,          49.99 ,Orlando Magic          ,Milwaukee Bucks        ,   30 ,True
+New Orleans Pelicans   ,           50.83 ,Houston Rockets        ,          49.17 ,Houston Rockets        ,New Orleans Pelicans   ,   30 ,False
+Toronto Raptors        ,           50.11 ,Washington Wizards     ,          49.89 ,Washington Wizards     ,Toronto Raptors        ,   30 ,False
+Detroit Pistons        ,           50.32 ,Golden State Warriors  ,          49.68 ,Golden State Warriors  ,Detroit Pistons        ,   30 ,False
+Atlanta Hawks          ,           50.12 ,Indiana Pacers         ,          49.88 ,Atlanta Hawks          ,Indiana Pacers         ,   30 ,True
+Chicago Bulls          ,           50.69 ,Miami Heat             ,          49.31 ,Chicago Bulls          ,Miami Heat             ,   30 ,True
+Detroit Pistons        ,           50.29 ,Portland Trail Blazers ,          49.71 ,Detroit Pistons        ,Portland Trail Blazers ,   30 ,True
+Cleveland Cavaliers    ,           52.62 ,Milwaukee Bucks        ,          47.38 ,Cleveland Cavaliers    ,Milwaukee Bucks        ,   30 ,True
+Philadelphia 76ers     ,           50.21 ,Utah Jazz              ,          49.79 ,Philadelphia 76ers     ,Utah Jazz              ,   30 ,True
+Denver Nuggets         ,           53.76 ,Oklahoma City Thunder  ,          46.24 ,Oklahoma City Thunder  ,Denver Nuggets         ,   30 ,False
+Sacramento Kings       ,           52.19 ,LA Clippers            ,          47.81 ,LA Clippers            ,Sacramento Kings       ,   30 ,False
+Phoenix Suns           ,           52.32 ,Dallas Mavericks       ,          47.68 ,Phoenix Suns           ,Dallas Mavericks       ,   30 ,True
+Minnesota Timberwolves ,           51.24 ,San Antonio Spurs      ,          48.76 ,Minnesota Timberwolves ,San Antonio Spurs      ,   30 ,True
+Memphis Grizzlies      ,           51.57 ,New Orleans Pelicans   ,          48.43 ,Memphis Grizzlies      ,New Orleans Pelicans   ,   30 ,True
+Toronto Raptors        ,           50.11 ,Washington Wizards     ,          49.89 ,Toronto Raptors        ,Washington Wizards     ,   30 ,True
+Los Angeles Lakers     ,           50.74 ,Brooklyn Nets          ,          49.26 ,Brooklyn Nets          ,Los Angeles Lakers     ,   30 ,False
+Philadelphia 76ers     ,           50.45 ,Atlanta Hawks          ,          49.55 ,Atlanta Hawks          ,Philadelphia 76ers     ,   30 ,False
+Orlando Magic          ,           50.03 ,Houston Rockets        ,          49.97 ,Houston Rockets        ,Orlando Magic          ,   30 ,False
+Dallas Mavericks       ,           51.31 ,San Antonio Spurs      ,          48.69 ,Dallas Mavericks       ,San Antonio Spurs      ,   30 ,True
+Phoenix Suns           ,           50.36 ,Memphis Grizzlies      ,          49.64 ,Memphis Grizzlies      ,Phoenix Suns           ,   30 ,False
+Chicago Bulls          ,           50.38 ,Indiana Pacers         ,          49.62 ,Chicago Bulls          ,Indiana Pacers         ,   30 ,True
+Denver Nuggets         ,           53.76 ,Oklahoma City Thunder  ,          46.24 ,Denver Nuggets         ,Oklahoma City Thunder  ,   30 ,True
+Boston Celtics         ,           50.39 ,Utah Jazz              ,          49.61 ,Boston Celtics         ,Utah Jazz              ,   30 ,True
+Miami Heat             ,           52.11 ,Charlotte Hornets      ,          47.89 ,Charlotte Hornets      ,Miami Heat             ,   30 ,False
+Sacramento Kings       ,           50.48 ,New York Knicks        ,          49.52 ,New York Knicks        ,Sacramento Kings       ,   30 ,False
+Portland Trail Blazers ,           50.02 ,Golden State Warriors  ,          49.98 ,Golden State Warriors  ,Portland Trail Blazers ,   30 ,False
+New Orleans Pelicans   ,           51.52 ,LA Clippers            ,          48.48 ,New Orleans Pelicans   ,LA Clippers            ,   30 ,True
+Cleveland Cavaliers    ,           52.19 ,Brooklyn Nets          ,          47.81 ,Cleveland Cavaliers    ,Brooklyn Nets          ,   30 ,True
+Indiana Pacers         ,           50.56 ,Milwaukee Bucks        ,          49.44 ,Indiana Pacers         ,Milwaukee Bucks        ,   30 ,True
+Detroit Pistons        ,           50.85 ,Washington Wizards     ,          49.15 ,Detroit Pistons        ,Washington Wizards     ,   30 ,True
+Dallas Mavericks       ,           51.31 ,San Antonio Spurs      ,          48.69 ,San Antonio Spurs      ,Dallas Mavericks       ,   30 ,False
+Memphis Grizzlies      ,           51.46 ,Utah Jazz              ,          48.54 ,Memphis Grizzlies      ,Utah Jazz              ,   30 ,True
+Denver Nuggets         ,           52.43 ,Minnesota Timberwolves ,          47.57 ,Minnesota Timberwolves ,Denver Nuggets         ,   30 ,False
+Atlanta Hawks          ,           52.54 ,Charlotte Hornets      ,          47.46 ,Atlanta Hawks          ,Charlotte Hornets      ,   30 ,True
+Miami Heat             ,           50.96 ,LA Clippers            ,          49.04 ,LA Clippers            ,Miami Heat             ,   30 ,False
+Philadelphia 76ers     ,           50.66 ,Toronto Raptors        ,          49.34 ,Toronto Raptors        ,Philadelphia 76ers     ,   30 ,False
+Boston Celtics         ,           52.28 ,Oklahoma City Thunder  ,          47.72 ,Oklahoma City Thunder  ,Boston Celtics         ,   30 ,False
+Phoenix Suns           ,           52.76 ,Houston Rockets        ,          47.24 ,Houston Rockets        ,Phoenix Suns           ,   30 ,False
+New York Knicks        ,           50.07 ,Portland Trail Blazers ,          49.93 ,New York Knicks        ,Portland Trail Blazers ,   30 ,True
+Los Angeles Lakers     ,           51.16 ,Milwaukee Bucks        ,          48.84 ,Milwaukee Bucks        ,Los Angeles Lakers     ,   30 ,False
+Chicago Bulls          ,           50.51 ,Brooklyn Nets          ,          49.49 ,Chicago Bulls          ,Brooklyn Nets          ,   30 ,True
+New Orleans Pelicans   ,           50.8  ,Orlando Magic          ,          49.2  ,Orlando Magic          ,New Orleans Pelicans   ,   30 ,False
+Sacramento Kings       ,           50.58 ,Golden State Warriors  ,          49.42 ,Golden State Warriors  ,Sacramento Kings       ,   30 ,False
+Detroit Pistons        ,           50.85 ,Washington Wizards     ,          49.15 ,Washington Wizards     ,Detroit Pistons        ,   30 ,False
+Minnesota Timberwolves ,           50.35 ,Orlando Magic          ,          49.65 ,Minnesota Timberwolves ,Orlando Magic          ,   30 ,True
+Dallas Mavericks       ,           50.44 ,Houston Rockets        ,          49.56 ,Houston Rockets        ,Dallas Mavericks       ,   30 ,False
+Denver Nuggets         ,           51.62 ,Los Angeles Lakers     ,          48.38 ,Denver Nuggets         ,Los Angeles Lakers     ,   30 ,True
+Phoenix Suns           ,           51.27 ,Sacramento Kings       ,          48.73 ,Phoenix Suns           ,Sacramento Kings       ,   30 ,True
+Philadelphia 76ers     ,           50.57 ,Indiana Pacers         ,          49.43 ,Indiana Pacers         ,Philadelphia 76ers     ,   30 ,False
+Atlanta Hawks          ,           51.39 ,LA Clippers            ,          48.61 ,LA Clippers            ,Atlanta Hawks          ,   30 ,False
+San Antonio Spurs      ,           50.97 ,Charlotte Hornets      ,          49.03 ,Charlotte Hornets      ,San Antonio Spurs      ,   30 ,False
+Cleveland Cavaliers    ,           50.24 ,Memphis Grizzlies      ,          49.76 ,Cleveland Cavaliers    ,Memphis Grizzlies      ,   30 ,True
+Boston Celtics         ,           51.05 ,Miami Heat             ,          48.95 ,Boston Celtics         ,Miami Heat             ,   30 ,True
+Utah Jazz              ,           50.44 ,Toronto Raptors        ,          49.56 ,Toronto Raptors        ,Utah Jazz              ,   30 ,False
+Memphis Grizzlies      ,           52.13 ,Miami Heat             ,          47.87 ,Memphis Grizzlies      ,Miami Heat             ,   30 ,True
+New York Knicks        ,           50.1  ,Golden State Warriors  ,          49.9  ,Golden State Warriors  ,New York Knicks        ,   30 ,False
+Boston Celtics         ,           50.87 ,Brooklyn Nets          ,          49.13 ,Boston Celtics         ,Brooklyn Nets          ,   30 ,True
+Denver Nuggets         ,           52.42 ,Washington Wizards     ,          47.58 ,Washington Wizards     ,Denver Nuggets         ,   30 ,False
+New Orleans Pelicans   ,           51.7  ,San Antonio Spurs      ,          48.3  ,San Antonio Spurs      ,New Orleans Pelicans   ,   30 ,False
+Detroit Pistons        ,           52.19 ,Oklahoma City Thunder  ,          47.81 ,Oklahoma City Thunder  ,Detroit Pistons        ,   30 ,False
+Chicago Bulls          ,           50.96 ,Houston Rockets        ,          49.04 ,Houston Rockets        ,Chicago Bulls          ,   30 ,False
+Indiana Pacers         ,           50.56 ,Milwaukee Bucks        ,          49.44 ,Milwaukee Bucks        ,Indiana Pacers         ,   30 ,False
+Atlanta Hawks          ,           50.25 ,Brooklyn Nets          ,          49.75 ,Brooklyn Nets          ,Atlanta Hawks          ,   30 ,False
+Philadelphia 76ers     ,           50.71 ,Dallas Mavericks       ,          49.29 ,Philadelphia 76ers     ,Dallas Mavericks       ,   30 ,True
+Phoenix Suns           ,           51.58 ,Los Angeles Lakers     ,          48.42 ,Los Angeles Lakers     ,Phoenix Suns           ,   30 ,False
+Cleveland Cavaliers    ,           52.61 ,Orlando Magic          ,          47.39 ,Orlando Magic          ,Cleveland Cavaliers    ,   30 ,False
+LA Clippers            ,           51.15 ,Charlotte Hornets      ,          48.85 ,LA Clippers            ,Charlotte Hornets      ,   30 ,True
+Milwaukee Bucks        ,           50.98 ,Oklahoma City Thunder  ,          49.02 ,Oklahoma City Thunder  ,Milwaukee Bucks        ,   30 ,False
+Portland Trail Blazers ,           50.44 ,Toronto Raptors        ,          49.56 ,Portland Trail Blazers ,Toronto Raptors        ,   30 ,True
+Utah Jazz              ,           50.56 ,Minnesota Timberwolves ,          49.44 ,Minnesota Timberwolves ,Utah Jazz              ,   30 ,False
+Phoenix Suns           ,           52.27 ,Toronto Raptors        ,          47.73 ,Phoenix Suns           ,Toronto Raptors        ,   30 ,True
+New York Knicks        ,           50.74 ,Miami Heat             ,          49.26 ,New York Knicks        ,Miami Heat             ,   30 ,True
+Detroit Pistons        ,           50.4  ,New Orleans Pelicans   ,          49.6  ,Detroit Pistons        ,New Orleans Pelicans   ,   30 ,True
+Los Angeles Lakers     ,           52.05 ,San Antonio Spurs      ,          47.95 ,Los Angeles Lakers     ,San Antonio Spurs      ,   30 ,True
+Portland Trail Blazers ,           50.55 ,Washington Wizards     ,          49.45 ,Portland Trail Blazers ,Washington Wizards     ,   30 ,True
+Memphis Grizzlies      ,           50.9  ,Sacramento Kings       ,          49.1  ,Sacramento Kings       ,Memphis Grizzlies      ,   30 ,False
+Chicago Bulls          ,           50.02 ,Utah Jazz              ,          49.98 ,Chicago Bulls          ,Utah Jazz              ,   30 ,True
+Denver Nuggets         ,           51.89 ,Golden State Warriors  ,          48.11 ,Denver Nuggets         ,Golden State Warriors  ,   30 ,True
+Philadelphia 76ers     ,           51.15 ,Houston Rockets        ,          48.85 ,Houston Rockets        ,Philadelphia 76ers     ,   30 ,False
+Indiana Pacers         ,           50.21 ,Minnesota Timberwolves ,          49.79 ,Indiana Pacers         ,Minnesota Timberwolves ,   30 ,True
+Golden State Warriors  ,           50.89 ,Milwaukee Bucks        ,          49.11 ,Golden State Warriors  ,Milwaukee Bucks        ,   30 ,True
+Cleveland Cavaliers    ,           53.33 ,LA Clippers            ,          46.67 ,LA Clippers            ,Cleveland Cavaliers    ,   30 ,False
+Atlanta Hawks          ,           52.54 ,Charlotte Hornets      ,          47.46 ,Atlanta Hawks          ,Charlotte Hornets      ,   30 ,True
+Boston Celtics         ,           50.87 ,Brooklyn Nets          ,          49.13 ,Boston Celtics         ,Brooklyn Nets          ,   30 ,True
+New York Knicks        ,           51.88 ,San Antonio Spurs      ,          48.12 ,San Antonio Spurs      ,New York Knicks        ,   30 ,False
+Cleveland Cavaliers    ,           51.15 ,Sacramento Kings       ,          48.85 ,Sacramento Kings       ,Cleveland Cavaliers    ,   30 ,False
+Orlando Magic          ,           50.03 ,Houston Rockets        ,          49.97 ,Houston Rockets        ,Orlando Magic          ,   30 ,False
+Philadelphia 76ers     ,           52.11 ,Oklahoma City Thunder  ,          47.89 ,Oklahoma City Thunder  ,Philadelphia 76ers     ,   30 ,False
+Denver Nuggets         ,           51.62 ,Los Angeles Lakers     ,          48.38 ,Los Angeles Lakers     ,Denver Nuggets         ,   30 ,False
+Memphis Grizzlies      ,           51.46 ,Portland Trail Blazers ,          48.54 ,Portland Trail Blazers ,Memphis Grizzlies      ,   30 ,False
+Phoenix Suns           ,           51.8  ,Chicago Bulls          ,          48.2  ,Phoenix Suns           ,Chicago Bulls          ,   30 ,True
+Detroit Pistons        ,           50.96 ,Miami Heat             ,          49.04 ,Detroit Pistons        ,Miami Heat             ,   30 ,True
+Indiana Pacers         ,           50.14 ,Dallas Mavericks       ,          49.86 ,Indiana Pacers         ,Dallas Mavericks       ,   30 ,True
+Utah Jazz              ,           50.55 ,Washington Wizards     ,          49.45 ,Utah Jazz              ,Washington Wizards     ,   30 ,True
+New Orleans Pelicans   ,           50.45 ,Minnesota Timberwolves ,          49.55 ,New Orleans Pelicans   ,Minnesota Timberwolves ,   30 ,True
+Golden State Warriors  ,           50.42 ,Toronto Raptors        ,          49.58 ,Golden State Warriors  ,Toronto Raptors        ,   30 ,True
+Indiana Pacers         ,           50.13 ,Brooklyn Nets          ,          49.87 ,Indiana Pacers         ,Brooklyn Nets          ,   30 ,True
+New York Knicks        ,           52.85 ,Charlotte Hornets      ,          47.15 ,Charlotte Hornets      ,New York Knicks        ,   30 ,False
+Sacramento Kings       ,           50.54 ,Chicago Bulls          ,          49.46 ,Chicago Bulls          ,Sacramento Kings       ,   30 ,False
+Los Angeles Lakers     ,           51.16 ,Milwaukee Bucks        ,          48.84 ,Milwaukee Bucks        ,Los Angeles Lakers     ,   30 ,False
+Oklahoma City Thunder  ,           50.89 ,Charlotte Hornets      ,          49.11 ,Oklahoma City Thunder  ,Charlotte Hornets      ,   30 ,True
+Washington Wizards     ,           50.36 ,Orlando Magic          ,          49.64 ,Orlando Magic          ,Washington Wizards     ,   30 ,False
+Denver Nuggets         ,           51.87 ,Portland Trail Blazers ,          48.13 ,Portland Trail Blazers ,Denver Nuggets         ,   30 ,False
+Boston Celtics         ,           50.39 ,Utah Jazz              ,          49.61 ,Boston Celtics         ,Utah Jazz              ,   30 ,True
+Memphis Grizzlies      ,           53.09 ,LA Clippers            ,          46.91 ,LA Clippers            ,Memphis Grizzlies      ,   30 ,False
+Detroit Pistons        ,           50.79 ,Dallas Mavericks       ,          49.21 ,Dallas Mavericks       ,Detroit Pistons        ,   30 ,False
+New Orleans Pelicans   ,           50.45 ,Minnesota Timberwolves ,          49.55 ,Minnesota Timberwolves ,New Orleans Pelicans   ,   30 ,False
+Miami Heat             ,           50.27 ,Houston Rockets        ,          49.73 ,Houston Rockets        ,Miami Heat             ,   30 ,False
+Philadelphia 76ers     ,           52.02 ,San Antonio Spurs      ,          47.98 ,San Antonio Spurs      ,Philadelphia 76ers     ,   30 ,False
+Phoenix Suns           ,           50.12 ,Cleveland Cavaliers    ,          49.88 ,Phoenix Suns           ,Cleveland Cavaliers    ,   30 ,True
+Los Angeles Lakers     ,           50.22 ,Chicago Bulls          ,          49.78 ,Chicago Bulls          ,Los Angeles Lakers     ,   30 ,False
+Golden State Warriors  ,           50.22 ,Atlanta Hawks          ,          49.78 ,Atlanta Hawks          ,Golden State Warriors  ,   30 ,False
+New York Knicks        ,           50.63 ,Washington Wizards     ,          49.37 ,New York Knicks        ,Washington Wizards     ,   30 ,True
+Sacramento Kings       ,           51.47 ,Milwaukee Bucks        ,          48.53 ,Milwaukee Bucks        ,Sacramento Kings       ,   30 ,False
+Indiana Pacers         ,           50.13 ,Brooklyn Nets          ,          49.87 ,Indiana Pacers         ,Brooklyn Nets          ,   30 ,True
+Philadelphia 76ers     ,           50.45 ,Atlanta Hawks          ,          49.55 ,Atlanta Hawks          ,Philadelphia 76ers     ,   30 ,False
+LA Clippers            ,           50.26 ,Oklahoma City Thunder  ,          49.74 ,Oklahoma City Thunder  ,LA Clippers            ,   30 ,False
+Miami Heat             ,           52.11 ,Charlotte Hornets      ,          47.89 ,Miami Heat             ,Charlotte Hornets      ,   30 ,True
+Toronto Raptors        ,           51.36 ,San Antonio Spurs      ,          48.64 ,San Antonio Spurs      ,Toronto Raptors        ,   30 ,False
+Detroit Pistons        ,           50.4  ,New Orleans Pelicans   ,          49.6  ,Detroit Pistons        ,New Orleans Pelicans   ,   30 ,True
+Cleveland Cavaliers    ,           51.7  ,Utah Jazz              ,          48.3  ,Cleveland Cavaliers    ,Utah Jazz              ,   30 ,True
+Denver Nuggets         ,           52.81 ,Houston Rockets        ,          47.19 ,Denver Nuggets         ,Houston Rockets        ,   30 ,True
+Boston Celtics         ,           50.39 ,Portland Trail Blazers ,          49.61 ,Boston Celtics         ,Portland Trail Blazers ,   30 ,True
+Sacramento Kings       ,           50.17 ,Boston Celtics         ,          49.83 ,Boston Celtics         ,Sacramento Kings       ,   30 ,False
+Los Angeles Lakers     ,           51.16 ,Orlando Magic          ,          48.84 ,Orlando Magic          ,Los Angeles Lakers     ,   30 ,False
+Brooklyn Nets          ,           50.01 ,Dallas Mavericks       ,          49.99 ,Dallas Mavericks       ,Brooklyn Nets          ,   30 ,False
+Phoenix Suns           ,           52.74 ,Milwaukee Bucks        ,          47.26 ,Phoenix Suns           ,Milwaukee Bucks        ,   30 ,True
+Philadelphia 76ers     ,           50.32 ,New Orleans Pelicans   ,          49.68 ,New Orleans Pelicans   ,Philadelphia 76ers     ,   30 ,False
+Denver Nuggets         ,           51.85 ,Chicago Bulls          ,          48.15 ,Chicago Bulls          ,Denver Nuggets         ,   30 ,False
+Indiana Pacers         ,           50.21 ,Minnesota Timberwolves ,          49.79 ,Indiana Pacers         ,Minnesota Timberwolves ,   30 ,True
+Toronto Raptors        ,           50.11 ,Washington Wizards     ,          49.89 ,Toronto Raptors        ,Washington Wizards     ,   30 ,True
+Memphis Grizzlies      ,           51.46 ,Utah Jazz              ,          48.54 ,Memphis Grizzlies      ,Utah Jazz              ,   30 ,True
+Atlanta Hawks          ,           50.7  ,Houston Rockets        ,          49.3  ,Houston Rockets        ,Atlanta Hawks          ,   30 ,False
+Sacramento Kings       ,           52.45 ,Oklahoma City Thunder  ,          47.55 ,Oklahoma City Thunder  ,Sacramento Kings       ,   30 ,False
+New York Knicks        ,           50.58 ,Dallas Mavericks       ,          49.42 ,New York Knicks        ,Dallas Mavericks       ,   30 ,True
+Golden State Warriors  ,           50.64 ,Miami Heat             ,          49.36 ,Miami Heat             ,Golden State Warriors  ,   30 ,False
+Detroit Pistons        ,           52.1  ,San Antonio Spurs      ,          47.9  ,Detroit Pistons        ,San Antonio Spurs      ,   30 ,True
+Cleveland Cavaliers    ,           51.7  ,Portland Trail Blazers ,          48.3  ,Cleveland Cavaliers    ,Portland Trail Blazers ,   30 ,True
+Orlando Magic          ,           51.87 ,Charlotte Hornets      ,          48.13 ,Orlando Magic          ,Charlotte Hornets      ,   30 ,True
+New York Knicks        ,           51.7  ,LA Clippers            ,          48.3  ,LA Clippers            ,New York Knicks        ,   30 ,False
+Toronto Raptors        ,           50.05 ,Brooklyn Nets          ,          49.95 ,Toronto Raptors        ,Brooklyn Nets          ,   30 ,True
+Denver Nuggets         ,           52.78 ,Milwaukee Bucks        ,          47.22 ,Denver Nuggets         ,Milwaukee Bucks        ,   30 ,True
+Philadelphia 76ers     ,           50.77 ,Washington Wizards     ,          49.23 ,Washington Wizards     ,Philadelphia 76ers     ,   30 ,False
+Los Angeles Lakers     ,           50.6  ,Indiana Pacers         ,          49.4  ,Los Angeles Lakers     ,Indiana Pacers         ,   30 ,True
+Phoenix Suns           ,           51.44 ,Boston Celtics         ,          48.56 ,Boston Celtics         ,Phoenix Suns           ,   30 ,False
+Cleveland Cavaliers    ,           53.51 ,San Antonio Spurs      ,          46.49 ,Cleveland Cavaliers    ,San Antonio Spurs      ,   30 ,True
+Dallas Mavericks       ,           50.41 ,Orlando Magic          ,          49.59 ,Dallas Mavericks       ,Orlando Magic          ,   30 ,True
+Indiana Pacers         ,           50.2  ,Washington Wizards     ,          49.8  ,Indiana Pacers         ,Washington Wizards     ,   30 ,True
+Memphis Grizzlies      ,           53.35 ,Oklahoma City Thunder  ,          46.65 ,Oklahoma City Thunder  ,Memphis Grizzlies      ,   30 ,False
+Los Angeles Lakers     ,           50.22 ,Chicago Bulls          ,          49.78 ,Chicago Bulls          ,Los Angeles Lakers     ,   30 ,False
+Utah Jazz              ,           50.94 ,Houston Rockets        ,          49.06 ,Houston Rockets        ,Utah Jazz              ,   30 ,False
+Atlanta Hawks          ,           50.43 ,Miami Heat             ,          49.57 ,Miami Heat             ,Atlanta Hawks          ,   30 ,False
+Sacramento Kings       ,           50.56 ,Portland Trail Blazers ,          49.44 ,Sacramento Kings       ,Portland Trail Blazers ,   30 ,True
+Golden State Warriors  ,           50.09 ,New Orleans Pelicans   ,          49.91 ,Golden State Warriors  ,New Orleans Pelicans   ,   30 ,True
+New York Knicks        ,           50.99 ,Milwaukee Bucks        ,          49.01 ,New York Knicks        ,Milwaukee Bucks        ,   30 ,True
+Brooklyn Nets          ,           51.14 ,LA Clippers            ,          48.86 ,LA Clippers            ,Brooklyn Nets          ,   30 ,False
+Cleveland Cavaliers    ,           51.41 ,Detroit Pistons        ,          48.59 ,Detroit Pistons        ,Cleveland Cavaliers    ,   30 ,False
+Phoenix Suns           ,           52.39 ,Minnesota Timberwolves ,          47.61 ,Minnesota Timberwolves ,Phoenix Suns           ,   30 ,False
+Toronto Raptors        ,           52.34 ,Charlotte Hornets      ,          47.66 ,Toronto Raptors        ,Charlotte Hornets      ,   30 ,True
+Denver Nuggets         ,           51.87 ,Utah Jazz              ,          48.13 ,Denver Nuggets         ,Utah Jazz              ,   30 ,True
+Brooklyn Nets          ,           50.06 ,Washington Wizards     ,          49.94 ,Brooklyn Nets          ,Washington Wizards     ,   30 ,True
+Boston Celtics         ,           52.19 ,San Antonio Spurs      ,          47.81 ,Boston Celtics         ,San Antonio Spurs      ,   30 ,True
+Indiana Pacers         ,           51.54 ,Oklahoma City Thunder  ,          48.46 ,Oklahoma City Thunder  ,Indiana Pacers         ,   30 ,False
+Memphis Grizzlies      ,           51.21 ,Los Angeles Lakers     ,          48.79 ,Los Angeles Lakers     ,Memphis Grizzlies      ,   30 ,False
+Sacramento Kings       ,           51.47 ,Orlando Magic          ,          48.53 ,Orlando Magic          ,Sacramento Kings       ,   30 ,False
+Philadelphia 76ers     ,           50.88 ,Miami Heat             ,          49.12 ,Miami Heat             ,Philadelphia 76ers     ,   30 ,False
+Chicago Bulls          ,           50.52 ,Dallas Mavericks       ,          49.48 ,Dallas Mavericks       ,Chicago Bulls          ,   30 ,False
+Philadelphia 76ers     ,           50.66 ,Toronto Raptors        ,          49.34 ,Toronto Raptors        ,Philadelphia 76ers     ,   30 ,False
+Cleveland Cavaliers    ,           53.33 ,LA Clippers            ,          46.67 ,Cleveland Cavaliers    ,LA Clippers            ,   30 ,True
+New York Knicks        ,           50.07 ,Portland Trail Blazers ,          49.93 ,New York Knicks        ,Portland Trail Blazers ,   30 ,True
+Atlanta Hawks          ,           50.67 ,Milwaukee Bucks        ,          49.33 ,Atlanta Hawks          ,Milwaukee Bucks        ,   30 ,True
+Phoenix Suns           ,           52.76 ,Houston Rockets        ,          47.24 ,Houston Rockets        ,Phoenix Suns           ,   30 ,False
+New Orleans Pelicans   ,           52.67 ,Charlotte Hornets      ,          47.33 ,New Orleans Pelicans   ,Charlotte Hornets      ,   30 ,True
+Detroit Pistons        ,           50.86 ,Minnesota Timberwolves ,          49.14 ,Minnesota Timberwolves ,Detroit Pistons        ,   30 ,False
+Golden State Warriors  ,           51.78 ,San Antonio Spurs      ,          48.22 ,Golden State Warriors  ,San Antonio Spurs      ,   30 ,True
+Los Angeles Lakers     ,           51.19 ,Houston Rockets        ,          48.81 ,Los Angeles Lakers     ,Houston Rockets        ,   30 ,True
+Chicago Bulls          ,           51.92 ,Oklahoma City Thunder  ,          48.08 ,Oklahoma City Thunder  ,Chicago Bulls          ,   30 ,False
+Utah Jazz              ,           52.78 ,Charlotte Hornets      ,          47.22 ,Charlotte Hornets      ,Utah Jazz              ,   30 ,False
+Washington Wizards     ,           50.12 ,Miami Heat             ,          49.88 ,Miami Heat             ,Washington Wizards     ,   30 ,False
+Memphis Grizzlies      ,           51.08 ,Boston Celtics         ,          48.92 ,Boston Celtics         ,Memphis Grizzlies      ,   30 ,False
+Orlando Magic          ,           50.72 ,LA Clippers            ,          49.28 ,LA Clippers            ,Orlando Magic          ,   30 ,False
+Brooklyn Nets          ,           50.01 ,Dallas Mavericks       ,          49.99 ,Brooklyn Nets          ,Dallas Mavericks       ,   30 ,True
+Sacramento Kings       ,           50.92 ,Indiana Pacers         ,          49.08 ,Indiana Pacers         ,Sacramento Kings       ,   30 ,False
+Memphis Grizzlies      ,           51.48 ,Golden State Warriors  ,          48.52 ,Golden State Warriors  ,Memphis Grizzlies      ,   30 ,False
+Denver Nuggets         ,           52.43 ,Minnesota Timberwolves ,          47.57 ,Minnesota Timberwolves ,Denver Nuggets         ,   30 ,False
+Phoenix Suns           ,           52.74 ,Milwaukee Bucks        ,          47.26 ,Milwaukee Bucks        ,Phoenix Suns           ,   30 ,False
+Portland Trail Blazers ,           50.24 ,Atlanta Hawks          ,          49.76 ,Portland Trail Blazers ,Atlanta Hawks          ,   30 ,True
+Philadelphia 76ers     ,           50.14 ,New York Knicks        ,          49.86 ,New York Knicks        ,Philadelphia 76ers     ,   30 ,False
+Chicago Bulls          ,           50.47 ,Toronto Raptors        ,          49.53 ,Chicago Bulls          ,Toronto Raptors        ,   30 ,True
+Orlando Magic          ,           50.9  ,San Antonio Spurs      ,          49.1  ,Orlando Magic          ,San Antonio Spurs      ,   30 ,True
+Cleveland Cavaliers    ,           51.63 ,New York Knicks        ,          48.37 ,Cleveland Cavaliers    ,New York Knicks        ,   30 ,True
+Boston Celtics         ,           51.05 ,Miami Heat             ,          48.95 ,Miami Heat             ,Boston Celtics         ,   30 ,False
+Atlanta Hawks          ,           50.26 ,Dallas Mavericks       ,          49.74 ,Dallas Mavericks       ,Atlanta Hawks          ,   30 ,False
+Indiana Pacers         ,           52.42 ,Charlotte Hornets      ,          47.58 ,Indiana Pacers         ,Charlotte Hornets      ,   30 ,True
+Sacramento Kings       ,           51.11 ,Washington Wizards     ,          48.89 ,Washington Wizards     ,Sacramento Kings       ,   30 ,False
+Utah Jazz              ,           50.94 ,Houston Rockets        ,          49.06 ,Houston Rockets        ,Utah Jazz              ,   30 ,False
+New Orleans Pelicans   ,           51.52 ,LA Clippers            ,          48.48 ,LA Clippers            ,New Orleans Pelicans   ,   30 ,False
+Detroit Pistons        ,           52.19 ,Oklahoma City Thunder  ,          47.81 ,Oklahoma City Thunder  ,Detroit Pistons        ,   30 ,False
+Denver Nuggets         ,           53.67 ,San Antonio Spurs      ,          46.33 ,San Antonio Spurs      ,Denver Nuggets         ,   30 ,False
+Memphis Grizzlies      ,           52.13 ,Miami Heat             ,          47.87 ,Memphis Grizzlies      ,Miami Heat             ,   30 ,True
+Brooklyn Nets          ,           50.07 ,Minnesota Timberwolves ,          49.93 ,Minnesota Timberwolves ,Brooklyn Nets          ,   30 ,False
+Los Angeles Lakers     ,           50.27 ,Golden State Warriors  ,          49.73 ,Golden State Warriors  ,Los Angeles Lakers     ,   30 ,False
+Philadelphia 76ers     ,           51.13 ,Milwaukee Bucks        ,          48.87 ,Milwaukee Bucks        ,Philadelphia 76ers     ,   30 ,False
+Washington Wizards     ,           50.36 ,Orlando Magic          ,          49.64 ,Orlando Magic          ,Washington Wizards     ,   30 ,False
+Portland Trail Blazers ,           50.44 ,Toronto Raptors        ,          49.56 ,Portland Trail Blazers ,Toronto Raptors        ,   30 ,True
+Los Angeles Lakers     ,           50.36 ,New Orleans Pelicans   ,          49.64 ,Los Angeles Lakers     ,New Orleans Pelicans   ,   30 ,True
+Detroit Pistons        ,           50.74 ,Toronto Raptors        ,          49.26 ,Detroit Pistons        ,Toronto Raptors        ,   30 ,True
+Dallas Mavericks       ,           51.13 ,LA Clippers            ,          48.87 ,LA Clippers            ,Dallas Mavericks       ,   30 ,False
+Phoenix Suns           ,           51.44 ,Boston Celtics         ,          48.56 ,Boston Celtics         ,Phoenix Suns           ,   30 ,False
+Sacramento Kings       ,           53.33 ,Charlotte Hornets      ,          46.67 ,Sacramento Kings       ,Charlotte Hornets      ,   30 ,True
+Chicago Bulls          ,           50.02 ,Portland Trail Blazers ,          49.98 ,Chicago Bulls          ,Portland Trail Blazers ,   30 ,True
+Houston Rockets        ,           50.96 ,Oklahoma City Thunder  ,          49.04 ,Houston Rockets        ,Oklahoma City Thunder  ,   30 ,True
+Utah Jazz              ,           50.36 ,Indiana Pacers         ,          49.64 ,Indiana Pacers         ,Utah Jazz              ,   30 ,False
+Cleveland Cavaliers    ,           53.51 ,San Antonio Spurs      ,          46.49 ,Cleveland Cavaliers    ,San Antonio Spurs      ,   30 ,True
+Denver Nuggets         ,           51.89 ,Golden State Warriors  ,          48.11 ,Golden State Warriors  ,Denver Nuggets         ,   30 ,False
+Memphis Grizzlies      ,           51.17 ,Detroit Pistons        ,          48.83 ,Memphis Grizzlies      ,Detroit Pistons        ,   30 ,True
+Miami Heat             ,           50.25 ,Milwaukee Bucks        ,          49.75 ,Milwaukee Bucks        ,Miami Heat             ,   30 ,False
+New York Knicks        ,           50.32 ,Atlanta Hawks          ,          49.68 ,New York Knicks        ,Atlanta Hawks          ,   30 ,True
+Dallas Mavericks       ,           51.13 ,LA Clippers            ,          48.87 ,LA Clippers            ,Dallas Mavericks       ,   30 ,False
+Philadelphia 76ers     ,           50.78 ,Minnesota Timberwolves ,          49.22 ,Minnesota Timberwolves ,Philadelphia 76ers     ,   30 ,False
+Golden State Warriors  ,           50.92 ,Houston Rockets        ,          49.08 ,Houston Rockets        ,Golden State Warriors  ,   30 ,False
+Portland Trail Blazers ,           51.81 ,San Antonio Spurs      ,          48.19 ,Portland Trail Blazers ,San Antonio Spurs      ,   30 ,True
+Utah Jazz              ,           50.24 ,Atlanta Hawks          ,          49.76 ,Atlanta Hawks          ,Utah Jazz              ,   30 ,False
+Los Angeles Lakers     ,           52.14 ,Oklahoma City Thunder  ,          47.86 ,Los Angeles Lakers     ,Oklahoma City Thunder  ,   30 ,True
+Phoenix Suns           ,           51.75 ,New York Knicks        ,          48.25 ,New York Knicks        ,Phoenix Suns           ,   30 ,False
+Chicago Bulls          ,           52.8  ,Charlotte Hornets      ,          47.2  ,Chicago Bulls          ,Charlotte Hornets      ,   30 ,True
+Denver Nuggets         ,           52.23 ,Indiana Pacers         ,          47.77 ,Indiana Pacers         ,Denver Nuggets         ,   30 ,False
+Boston Celtics         ,           50.94 ,Washington Wizards     ,          49.06 ,Boston Celtics         ,Washington Wizards     ,   30 ,True
+New Orleans Pelicans   ,           50.81 ,Milwaukee Bucks        ,          49.19 ,Milwaukee Bucks        ,New Orleans Pelicans   ,   30 ,False
+Cleveland Cavaliers    ,           51.15 ,Sacramento Kings       ,          48.85 ,Sacramento Kings       ,Cleveland Cavaliers    ,   30 ,False
+Toronto Raptors        ,           50.05 ,Brooklyn Nets          ,          49.95 ,Toronto Raptors        ,Brooklyn Nets          ,   30 ,True
+Sacramento Kings       ,           50.26 ,Detroit Pistons        ,          49.74 ,Sacramento Kings       ,Detroit Pistons        ,   30 ,True
+Philadelphia 76ers     ,           50.88 ,Miami Heat             ,          49.12 ,Miami Heat             ,Philadelphia 76ers     ,   30 ,False
+New Orleans Pelicans   ,           50.38 ,Brooklyn Nets          ,          49.62 ,Brooklyn Nets          ,New Orleans Pelicans   ,   30 ,False
+LA Clippers            ,           50.18 ,San Antonio Spurs      ,          49.82 ,LA Clippers            ,San Antonio Spurs      ,   30 ,True
+Los Angeles Lakers     ,           52.14 ,Oklahoma City Thunder  ,          47.86 ,Oklahoma City Thunder  ,Los Angeles Lakers     ,   30 ,False
+Memphis Grizzlies      ,           54.23 ,Charlotte Hornets      ,          45.77 ,Memphis Grizzlies      ,Charlotte Hornets      ,   30 ,True
+Atlanta Hawks          ,           50.67 ,Orlando Magic          ,          49.33 ,Orlando Magic          ,Atlanta Hawks          ,   30 ,False
+Cleveland Cavaliers    ,           51.68 ,Chicago Bulls          ,          48.32 ,Cleveland Cavaliers    ,Chicago Bulls          ,   30 ,True
+Indiana Pacers         ,           50.2  ,Washington Wizards     ,          49.8  ,Indiana Pacers         ,Washington Wizards     ,   30 ,True
+Phoenix Suns           ,           51.85 ,Golden State Warriors  ,          48.15 ,Golden State Warriors  ,Phoenix Suns           ,   30 ,False
+Minnesota Timberwolves ,           50.35 ,Milwaukee Bucks        ,          49.65 ,Milwaukee Bucks        ,Minnesota Timberwolves ,   30 ,False
+Boston Celtics         ,           50.31 ,New York Knicks        ,          49.69 ,Boston Celtics         ,New York Knicks        ,   30 ,True
+Phoenix Suns           ,           53.71 ,Oklahoma City Thunder  ,          46.29 ,Oklahoma City Thunder  ,Phoenix Suns           ,   30 ,False
+Chicago Bulls          ,           50.69 ,Miami Heat             ,          49.31 ,Chicago Bulls          ,Miami Heat             ,   30 ,True
+Portland Trail Blazers ,           50.0  ,Utah Jazz              ,          50.0  ,Utah Jazz              ,Portland Trail Blazers ,   30 ,False
+Denver Nuggets         ,           51.31 ,Sacramento Kings       ,          48.69 ,Denver Nuggets         ,Sacramento Kings       ,   30 ,True
+Boston Celtics         ,           51.29 ,Orlando Magic          ,          48.71 ,Orlando Magic          ,Boston Celtics         ,   30 ,False
+Philadelphia 76ers     ,           50.77 ,Washington Wizards     ,          49.23 ,Philadelphia 76ers     ,Washington Wizards     ,   30 ,True
+Toronto Raptors        ,           52.34 ,Charlotte Hornets      ,          47.66 ,Toronto Raptors        ,Charlotte Hornets      ,   30 ,True
+Houston Rockets        ,           50.69 ,LA Clippers            ,          49.31 ,LA Clippers            ,Houston Rockets        ,   30 ,False
+Golden State Warriors  ,           51.78 ,San Antonio Spurs      ,          48.22 ,San Antonio Spurs      ,Golden State Warriors  ,   30 ,False
+Los Angeles Lakers     ,           50.75 ,Dallas Mavericks       ,          49.25 ,Los Angeles Lakers     ,Dallas Mavericks       ,   30 ,True
+Memphis Grizzlies      ,           52.03 ,Minnesota Timberwolves ,          47.97 ,Minnesota Timberwolves ,Memphis Grizzlies      ,   30 ,False
+Detroit Pistons        ,           50.22 ,New York Knicks        ,          49.78 ,Detroit Pistons        ,New York Knicks        ,   30 ,True
+Atlanta Hawks          ,           50.25 ,Brooklyn Nets          ,          49.75 ,Atlanta Hawks          ,Brooklyn Nets          ,   30 ,True
+New Orleans Pelicans   ,           50.81 ,Milwaukee Bucks        ,          49.19 ,Milwaukee Bucks        ,New Orleans Pelicans   ,   30 ,False
+Cleveland Cavaliers    ,           52.06 ,Indiana Pacers         ,          47.94 ,Indiana Pacers         ,Cleveland Cavaliers    ,   30 ,False
+Detroit Pistons        ,           51.21 ,Milwaukee Bucks        ,          48.79 ,Milwaukee Bucks        ,Detroit Pistons        ,   30 ,False
+New Orleans Pelicans   ,           50.56 ,Miami Heat             ,          49.44 ,Miami Heat             ,New Orleans Pelicans   ,   30 ,False
+Utah Jazz              ,           51.89 ,Oklahoma City Thunder  ,          48.11 ,Oklahoma City Thunder  ,Utah Jazz              ,   30 ,False
+Los Angeles Lakers     ,           51.19 ,Houston Rockets        ,          48.81 ,Los Angeles Lakers     ,Houston Rockets        ,   30 ,True
+Boston Celtics         ,           53.16 ,Charlotte Hornets      ,          46.84 ,Boston Celtics         ,Charlotte Hornets      ,   30 ,True
+Denver Nuggets         ,           50.41 ,Memphis Grizzlies      ,          49.59 ,Denver Nuggets         ,Memphis Grizzlies      ,   30 ,True
+Portland Trail Blazers ,           50.02 ,Golden State Warriors  ,          49.98 ,Golden State Warriors  ,Portland Trail Blazers ,   30 ,False
+Sacramento Kings       ,           52.19 ,LA Clippers            ,          47.81 ,LA Clippers            ,Sacramento Kings       ,   30 ,False
+Indiana Pacers         ,           50.55 ,Orlando Magic          ,          49.45 ,Orlando Magic          ,Indiana Pacers         ,   30 ,False
+Philadelphia 76ers     ,           50.45 ,Atlanta Hawks          ,          49.55 ,Atlanta Hawks          ,Philadelphia 76ers     ,   30 ,False
+Cleveland Cavaliers    ,           51.63 ,New York Knicks        ,          48.37 ,Cleveland Cavaliers    ,New York Knicks        ,   30 ,True
+Brooklyn Nets          ,           50.07 ,Minnesota Timberwolves ,          49.93 ,Minnesota Timberwolves ,Brooklyn Nets          ,   30 ,False
+Toronto Raptors        ,           50.06 ,Dallas Mavericks       ,          49.94 ,Dallas Mavericks       ,Toronto Raptors        ,   30 ,False
+Chicago Bulls          ,           50.58 ,Washington Wizards     ,          49.42 ,Chicago Bulls          ,Washington Wizards     ,   30 ,True
+Phoenix Suns           ,           53.63 ,San Antonio Spurs      ,          46.37 ,Phoenix Suns           ,San Antonio Spurs      ,   30 ,True
+New York Knicks        ,           50.56 ,Brooklyn Nets          ,          49.44 ,New York Knicks        ,Brooklyn Nets          ,   30 ,True
+Phoenix Suns           ,           51.27 ,Sacramento Kings       ,          48.73 ,Sacramento Kings       ,Phoenix Suns           ,   30 ,False
+New Orleans Pelicans   ,           51.78 ,Oklahoma City Thunder  ,          48.22 ,Oklahoma City Thunder  ,New Orleans Pelicans   ,   30 ,False
+Boston Celtics         ,           53.16 ,Charlotte Hornets      ,          46.84 ,Boston Celtics         ,Charlotte Hornets      ,   30 ,True
+Memphis Grizzlies      ,           51.96 ,Dallas Mavericks       ,          48.04 ,Memphis Grizzlies      ,Dallas Mavericks       ,   30 ,True
+Atlanta Hawks          ,           50.67 ,Orlando Magic          ,          49.33 ,Atlanta Hawks          ,Orlando Magic          ,   30 ,True
+Golden State Warriors  ,           51.61 ,LA Clippers            ,          48.39 ,LA Clippers            ,Golden State Warriors  ,   30 ,False
+Los Angeles Lakers     ,           50.25 ,Portland Trail Blazers ,          49.75 ,Portland Trail Blazers ,Los Angeles Lakers     ,   30 ,False
+Denver Nuggets         ,           52.81 ,Houston Rockets        ,          47.19 ,Denver Nuggets         ,Houston Rockets        ,   30 ,True
+Cleveland Cavaliers    ,           52.06 ,Indiana Pacers         ,          47.94 ,Indiana Pacers         ,Cleveland Cavaliers    ,   30 ,False
+Detroit Pistons        ,           51.21 ,Milwaukee Bucks        ,          48.79 ,Milwaukee Bucks        ,Detroit Pistons        ,   30 ,False
+Toronto Raptors        ,           51.36 ,San Antonio Spurs      ,          48.64 ,San Antonio Spurs      ,Toronto Raptors        ,   30 ,False
+Philadelphia 76ers     ,           50.19 ,Chicago Bulls          ,          49.81 ,Chicago Bulls          ,Philadelphia 76ers     ,   30 ,False
+Washington Wizards     ,           50.12 ,Miami Heat             ,          49.88 ,Washington Wizards     ,Miami Heat             ,   30 ,True
+Utah Jazz              ,           50.56 ,Minnesota Timberwolves ,          49.44 ,Minnesota Timberwolves ,Utah Jazz              ,   30 ,False

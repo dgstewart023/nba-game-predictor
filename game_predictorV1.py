@@ -93,7 +93,7 @@ def get_road_team_stats(id):
                             'OPP_FTA_RATE']]
     return four_factors_data
 
-def get_win_probabilities(teamA, teamB, avg):
+def get_win_probabilities(teamA, teamB, avg, scale=28):
     teamA_EFG = ((teamA['EFG_PCT'].iloc[0] - avg['EFG_PCT'].iloc[0]) - 
                 (teamB['OPP_EFG_PCT'].iloc[0] - avg['EFG_PCT'].iloc[0]))
     teamB_EFG = ((teamB['EFG_PCT'].iloc[0] - avg['EFG_PCT'].iloc[0]) - 
@@ -114,7 +114,7 @@ def get_win_probabilities(teamA, teamB, avg):
                       (teamA_OREB * 0.20) + (teamA_FT * 0.15))
     teamB_weighted = ((teamB_EFG * 0.4) + (teamB_TOV * 0.25) + 
                       (teamB_OREB * 0.20) + (teamB_FT * 0.15))
-    raw_diff = (teamA_weighted - teamB_weighted) * 28
+    raw_diff = (teamA_weighted - teamB_weighted) * scale
     teamA_WPCT = 1 / (1 + 10**(-raw_diff / 15)) 
 
     return teamA_WPCT * 100

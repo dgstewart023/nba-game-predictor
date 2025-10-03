@@ -1,0 +1,14 @@
+============================================================
+NBA PREDICTION MODEL PERFORMANCE SUMMARY
+============================================================
+
+Season: 2024-25
+Scale Parameter: 30
+Total Games Analyzed: 1230
+Correct Predictions: 647
+Incorrect Predictions: 583
+Accuracy: 52.60%
+
+Average Predicted Winner Confidence: 51.18%
+Close Game (<55%) Predictions: 1230
+Close Game Accuracy: 52.60%
