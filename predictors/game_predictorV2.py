@@ -4,8 +4,7 @@ import pandas as pd
 import csv
 
 """
-Game Predictor V1 uses the Dean Oliver's Four Factors, while using a simple
-point spread method of differentiating the teams skill.
+Game Predictor V1 uses the Dean Oliver's Four Factors, 
 """
 
 
