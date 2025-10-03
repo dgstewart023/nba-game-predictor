@@ -61,16 +61,16 @@ def get_league_avg_stats():
 
 def get_home_team_stats(id):
     """Get efficiency stats for home team"""
-    stats = teamdashboardbygeneralsplits.TeamDashboardByGeneralSplits(
+    four_factor_stats = teamdashboardbygeneralsplits.TeamDashboardByGeneralSplits(
         team_id=id,
         season='2024',
         measure_type_detailed_defense='Four Factors'
     )
-    df = stats.get_data_frames()[1]
+    df = four_factor_stats.get_data_frames()[1]
 
-    home = df[df['TEAM_GAME_LOCATION'] == 'Home']
+    home_four_factor = df[df['TEAM_GAME_LOCATION'] == 'Home']
 
-    four_factors_data = home[['EFG_PCT',
+    data_4 = home_four_factor[['EFG_PCT',
                                'TM_TOV_PCT',
                                'OREB_PCT',
                                'FTA_RATE',
@@ -78,7 +78,24 @@ def get_home_team_stats(id):
                                'OPP_TOV_PCT',
                                'OPP_OREB_PCT',
                                'OPP_FTA_RATE']]
-    return four_factors_data
+    
+    advanced_stats = teamdashboardbygeneralsplits.TeamDashboardByGeneralSplits(
+        team_id=id,
+        season='2024',
+        measure_type_detailed_defense='Advanced'
+    )
+    df = advanced_stats.get_data_frames()[1]
+
+    home_advanced = df[df['TEAM_GAME_LOCATION'] == 'Home']
+
+    data_advanced = home_advanced[['E_OFF_RATING',
+                                   'OFF_RATING',
+                                   'E_DEF_RATING',
+                                   'DEF_RATING']]
+    
+    data = pd.concat([data_4.reset_index(drop=True), data_advanced.reset_index(drop=True)], axis=1)
+
+    return data
 
 
 def get_road_team_stats(id):
